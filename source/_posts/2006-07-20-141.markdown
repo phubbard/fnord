@@ -1,0 +1,39 @@
+---
+date: '2006-07-20 13:51:00'
+layout: post
+slug: '141'
+status: publish
+title: Some science is nicer than others
+wordpress_id: '141'
+categories:
+- Science
+---
+
+This is a map of the Pacific plate subducting under the Australian. It's creating New Zealand:
+
+
+[
+![Seismic map of .nz](http://www.geonet.org.nz/images/eq/seis_map.jpg)
+](http://www.geonet.org.nz/)
+
+I heard a talk about [GeoNet](http://www.geonet.org.nz/) last week, at the [4WCSCM conference](http://www.usc.edu/4wcscm) and was quite impressed. It seems to be an excellent, well-run program.
+
+And their site scenery is hard to beat:
+
+
+![GPS site](http://www.geonet.org.nz/images/gps_hikb.jpg)
+  
+
+![Another site](http://data.geonet.org.nz/geonews/uploaded_images/IMG_2047-719018.JPG)
+
+
+
+Very cool. Be sure and check out the hourly-updated [volcano camera:](http://www.geonet.org.nz/whiteislandrim.html)
+
+
+[
+![thumbnail](http://www.geonet.org.nz/images/volcams/tX20060720.1100.jpg)
+](http://www.geonet.org.nz/whiteislandrim.html)
+
+Suddenly I want to watch Lord of the Rings again.
+

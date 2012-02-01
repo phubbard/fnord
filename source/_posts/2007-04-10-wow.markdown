@@ -1,0 +1,26 @@
+---
+date: '2007-04-10 16:06:15'
+layout: post
+slug: wow
+status: publish
+title: Wow.
+wordpress_id: '310'
+categories:
+- Debian
+- Geek stuff
+- Networking
+- News
+- Spam/UCE
+---
+
+
+    usul:/etc# wc -l hosts.deny
+    29836 hosts.deny
+    
+
+
+
+Holy cow! All this [since May 14th 2006.](http://www.phfactor.net/wp/2006/05/13/fourteen-thousand-one-hundred-and-eight/)
+
+Non-nerd translation: If you try to login to my server via SSH, [Denyhosts](http://denyhosts.sourceforge.net/) adds your hostname to the block list after a certain number of bad usernames or passwords. Since May 2006, there have been 29,836 such hosts added to the blocklist. All are botnet-driven Windows boxes, trying dictionary and default passwords, but its still pretty annoying. I wonder how well tcpwrappers, which has to parse this file for **every** connection, scales?
+

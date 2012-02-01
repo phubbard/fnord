@@ -1,0 +1,88 @@
+---
+date: '2011-06-01 13:41:56'
+layout: post
+slug: macbook-air-13
+status: publish
+title: MacBook Air 13
+wordpress_id: '1444'
+categories:
+- Geek stuff
+- Hardware
+- Macintosh
+- Reviews and recommendations
+---
+
+### Background
+
+
+
+It's been a long time since I had to buy a laptop, but for various reasons I needed to spring for a personal machine. At work I had a maxed-out Pro 15", with SSD, quad-core i7 and 512GB SSD, but that's a) too expensive at over 4k and b) heavier than I like. 
+
+
+
+### Requirements
+
+
+Portability first and foremost, not _too_ slow as I will be coding now and then. At least 256GB of SSD. And of course it's out of pocket, so cost matters.
+
+
+Given those constraints, I chose the [13" Macbook Air](http://www.apple.com/macbookair/specs-13inch.html). 2.13GHz Core2 Duo, 4GB of memory (non-upgradable, a major negative), 256GB SSD, nVidia 320M GPU. Total cost with AppleCare was just under 2k with the 10% university discount.
+
+Since I'm paranoid, I went ahead and got the USB Ethernet adapter ($29) and external DVD-RW ($89). I've already got an external monitor, so I didn't need to spend that money again.
+
+
+
+### Positives
+
+
+
+
+* Awesome battery life. Seven hours with the brightness down a bit. Means you can head out for a short day, meeting or coffeeshop and leave the AC adapter at home.
+
+* Improved shape. The wedge shape has the benefit of being **much** nicer to type on; the rectangular Pro's sharp edge really bites your wrist and the Air is so thin there's no contact, even laid flat on a table. Win!
+
+* Antiglare coating on the screen. I had the matte-screen option on the Pro and was worried about glare; much to my surprise Apple has quietly added a [quarter-wave coating](http://watchotaku.com/display/swr/AR+coatings) that works quite well. Little to no reflections to distract.
+
+* Weight. 2.9lbs, weighs less than my smallest laptop bag. I took it to a lunch meeting in a fabric grocery bag!
+
+* Speed. They bumped the all-important memory bus to 1066MHz and improved the SSD speed, so even at 2.13GHz the machine feels quite fast. Not as amazing as the i7, of course, but fast enough to run heavyweight stuff like Xcode4, PyCharm, Komodo, iPhoto and Aperture. [RipIt](http://thelittleappfactory.com/ripit/) is slow, of course, but I do that quite rarely and can always run that on [the iMac](http://fnord.phfactor.net/2011/05/31/the-unsung-imac/) instead.
+
+* Improved display - 1440x900, quite nice for a 13" panel. Enough to code, surf, etc.
+
+
+
+
+
+### Negatives
+
+
+
+
+* Obsolete soon. This model was introduced 10/2010, and I bought in 5/2011, even knowing the persistent rumors that it'd get upgraded in mid-June at WWDC. Yes, this will bug me if they ship a big improvement (Thunderbolt, i7, more memory) but I needed a machine, full stop.
+
+* I really, really miss the backlit keyboard.
+
+* I would be much happier with the long-term prospects if it accepted more memory. 4GB is fine for now, but with 6 or 8 it'd have lasted longer. Software grows.
+
+* I/O only via USB 2.0. No gigabit, no Firewire, no Thunderbolt.
+
+
+
+
+
+### Cool case
+
+
+Right now I just toss it into my old Timbuk2 backpack, but I saw this [on OSX Daily](http://osxdaily.com/2011/05/25/bookbook-case-for-macbook-air/) and have been captivated:
+![The best looking macbook air case bookbook](http://fnord.phfactor.net/wp-content/uploads/2011/06/the-best-looking-macbook-air-case-bookbook.jpg)
+
+It's a fake book, made into a case. Leather, distressed, a bit of padding and a zipper. [$80 on the Apple Store](http://store.apple.com/us/product/H5107ZM/A?fnode=MTY1NDA2Ng&mco=MjI1ODYyNTc):
+![H5107](http://fnord.phfactor.net/wp-content/uploads/2011/06/H5107.jpg)
+For some reason that's just too cute. It adds a pound to the weight, so it's kind of silly, but I think it's hitting the same coolness button that hollowed-out books and secret bookshelf doors invoke. My inner child.
+
+
+
+### Bottom line
+
+
+I quite like the Air, and maybe you would too. Leave a comment if you get the case!

@@ -1,0 +1,23 @@
+---
+date: '2009-06-08 19:39:24'
+layout: post
+slug: arduino
+status: publish
+title: Arduino!
+wordpress_id: '977'
+categories:
+- Arduino
+- Code
+- Embedded systems
+- Geek stuff
+---
+
+Yep, I finally had a project where I needed a cheap OSX-compatible analog input (gonna build a temp & humidity monitor using [LM35CAZ](http://www.national.com/pf/LM/LM35.html) and [Ohmic SC-600](http://www.cweb5.com/ohmic/modules.php?op=modload&name=News&file=index&catid=1)), and finally had the forehead-slapping moment of
+
+
+> I don't need an ADC per se; I need a board with ADCs **on** it.
+
+
+Yep, for example an [Arduino](http://www.arduino.cc/). So I've got one, $34, working already. One trick on OSX that tripped me up - you have to open the Arduino.app/Contents/Info.plist file and set the java version from 1.4+ to 1.5 - OSX bug. Otherwise you get RXTX errors, which are a red herring. Here it is, blink code and all:
+[![picture-2](http://fnord.phfactor.net/wp-content/uploads/2009/06/picture-2-450x527.png)](http://fnord.phfactor.net/wp-content/uploads/2009/06/picture-2.png)
+Nice board. I got mine from [Sparkfun](http://www.sparkfun.com/commerce/categories.php), and it was here in a few days. Should be easy to hack on, there sure is a lotta chatter around this board. I suspect that the Arduino, just like my beloved mechanical watches, are fun because they're hackable and comprehensible, two things that modern computers are increasingly lacking.

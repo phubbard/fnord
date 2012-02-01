@@ -1,0 +1,16 @@
+---
+date: '2009-06-16 19:57:49'
+layout: post
+slug: snake
+status: publish
+title: Snake!
+wordpress_id: '1004'
+categories:
+- Geek stuff
+- Humor
+---
+
+I was up at SDSC today, and saw this out the window:
+[![cables](http://fnord.phfactor.net/wp-content/uploads/2009/06/cables-450x600.jpg)](http://fnord.phfactor.net/wp-content/uploads/2009/06/cables.jpg)
+
+SDSC is clearing out the old machine room, and had stacks and stacks and stacks of cabling they've removed. Newer hardware generally equals fewer and thinner cables; nice, that.

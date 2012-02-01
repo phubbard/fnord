@@ -1,0 +1,31 @@
+---
+date: '2006-03-17 17:26:42'
+layout: post
+slug: '78'
+status: publish
+title: Audio, iPod, AAC and MP3. Hey, that rhymes.
+wordpress_id: '78'
+categories:
+- Audio, sound and music
+- Reviews and recommendations
+---
+
+![I always loved this poster](http://www.phfactor.net/wp-pics/maxell_blown_away.jpeg)
+
+(Image swiped [from here](http://images.google.com/imgres?imgurl=http://www.lostpear.com/blog/images/maxell_blown_away.jpeg&imgrefurl=http://www.lostpear.com/blog/2004_05_01_lostpear_archive.html&h=233&w=350&sz=13&tbnid=YUP2l-yulKLs2M:&tbnh=77&tbnw=116&hl=en&start=2&prev=/images%3Fq%3Dmaxell%2Bblown%2Baway%26svnum%3D10%26hl%3Den%26lr%3D%26sa%3DN).)
+
+
+
+> 
+Audiophiles are people more in love with equipment and algorithms than music. They prefer listening for artifacts over enjoying music. They, like most people, hear things based on what they expect to hear. Tell them something was data-reduced and it really will sound worse to them, even if you play them an uncompressed selection! Most people don't worry themselves sick about the oxygen content of their power cables or green magic marker on the edges of their CDs. Audiophiles oddly are deaf to the clicks, pops, scratches, horrendous inner groove distortion and speed and pitch changes caused by eccentric pressings of the vinyl records they still hoard.
+
+An audiophile is not to be confused with a music lover. The semantic key is that they love audio, not necessarily music.
+
+
+
+
+Despite the above, this is actually a post about settings for iPod/iTunes to get good results. The author is a recording engineer, which is a viewpoint not often heard.
+
+As someone who has experience in pro audio, I have to more-or-less agree, except that I still prefer MP3 to AAC. Even if the compression isn't as good, I'm willing to accept larger files as a tradeoff for better compatability. Your mileage may vary.
+
+[http://www.kenrockwell.com/apple/itunes.htm](http://www.kenrockwell.com/apple/itunes.htm)

@@ -1,0 +1,17 @@
+---
+date: '2009-09-03 14:20:19'
+layout: post
+slug: have-fun
+status: publish
+title: Have fun!
+wordpress_id: '1096'
+categories:
+- Games
+- Humor
+---
+
+This is good for a few minutes of clicking 'Next':
+
+[![Screen shot 2009-09-03 at 3.16.45 PM](http://fnord.phfactor.net/wp-content/uploads/2009/09/Screen-shot-2009-09-03-at-3.16.45-PM1-450x252.png)](http://www.norefuge.net/vgng/vgng.html)
+
+I liked this one, but there are 70 million or so to choose from!

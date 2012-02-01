@@ -1,0 +1,12 @@
+---
+date: '2005-11-08 12:55:21'
+layout: post
+slug: aquamacs
+status: publish
+title: Aquamacs!
+wordpress_id: '15'
+categories:
+- Macintosh
+---
+
+If you want a graphical Emacs on OSX, your choices are limited. I just found [Aquamacs](http://aquamacs.org/), and so far it's looking good.

@@ -1,0 +1,24 @@
+---
+date: '2011-09-02 08:57:40'
+layout: post
+slug: 2400-baud-baby
+status: publish
+title: 2400 baud, baby!
+wordpress_id: '1466'
+categories:
+- Embedded systems
+- Geek stuff
+- Humor
+---
+
+
+I was walking to the pharmacy this week and passed a sidewalk construction project. The crew had the intersection control box open, so I paused and snapped a picture:
+
+![IMG 0292](http://fnord.phfactor.net/wp-content/uploads/2011/09/IMG_0292.jpg)
+
+On the upper portion, on the 4U component that's likely the CPU, there's a white sticker that says, in big red letters, "2400 baud".
+
+(The rest appears to be modular power supplies, wish I knew why they need so many. One per corner?)
+
+I was using 2400 baud modems more years ago than I care to compute, and I'm amused to see them still in use, for safety-critical functions. Cheap as chips, quick to connect, and well understood. Credit card readers at stores still use them for the same reason.
+

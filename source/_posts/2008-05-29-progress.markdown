@@ -1,0 +1,19 @@
+---
+date: '2008-05-29 20:04:34'
+layout: post
+slug: progress
+status: publish
+title: Progress...
+wordpress_id: '719'
+categories:
+- Code
+- Geek stuff
+- Macintosh
+---
+
+More progress on the [Cocoa](http://fnord.phfactor.net/2008/05/27/fun/)/[Omron](http://fnord.phfactor.net/2008/05/18/another-way-to-look-at-a-conference/) front...
+[![](http://fnord.phfactor.net/wp-content/uploads/2008/05/picture-1.png)](http://fnord.phfactor.net/wp-content/uploads/2008/05/picture-1.png)
+
+It still just walks the USB tree and looks for the device, but now it's a Cocoa GUI!
+
+Cool. Easier to mix C and objective-C than I thought...

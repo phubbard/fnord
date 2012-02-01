@@ -1,0 +1,25 @@
+---
+date: '2007-09-04 19:20:17'
+layout: post
+slug: funded
+status: publish
+title: Funded!
+wordpress_id: '440'
+categories:
+- News
+---
+
+
+[
+![](http://www.phfactor.net/wp-pics/sdci-award-screenshot-wpa.jpg)
+](http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0722067)
+
+This is work, sorry, but _very_ good personal news as well - I got funded! SDSC is having funding hiccups, so this is job security for a couple years, and my first stint as co-PI. Which is also a semi-big-deal, as my lowly MSEE is not normally worthy of co-PI status. I have an official PI exception for this grant.
+
+
+
+Ahh, the academic caste system. Guess I shoulda gotten the phd, eh?
+
+
+
+Anyway, job secure for a while, or as much as anyone can expect these days. Whew!

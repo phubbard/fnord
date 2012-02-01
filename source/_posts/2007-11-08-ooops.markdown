@@ -1,0 +1,18 @@
+---
+date: '2007-11-08 15:31:25'
+layout: post
+slug: ooops
+status: publish
+title: Ooops
+wordpress_id: '540'
+categories:
+- Humor
+---
+
+In the grand tradition of [the Daily WTF](http://worsethanfailure.com/), a simple error with variable printing on a magazine invoice:
+
+
+![](http://www.phfactor.net/wp-pics/P1010003.jpg)
+
+
+Ooops.

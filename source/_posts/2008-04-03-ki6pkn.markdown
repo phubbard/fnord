@@ -1,0 +1,13 @@
+---
+date: '2008-04-03 12:12:26'
+layout: post
+slug: ki6pkn
+status: publish
+title: KI6PKN
+wordpress_id: '638'
+categories:
+- Geek stuff
+- Ham radio
+---
+
+[That's me, baby](http://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=2999756)! (See [this](http://catandgirl.com/view.php?loc=94) for more explanation)

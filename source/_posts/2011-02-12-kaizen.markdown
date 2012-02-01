@@ -1,0 +1,19 @@
+---
+date: '2011-02-12 09:42:05'
+layout: post
+slug: kaizen
+status: publish
+title: Kaizen
+wordpress_id: '1384'
+categories:
+- Geek stuff
+- iPhone
+---
+
+My [old lab](http://www.unm.edu/news/Releases/July30aml.htm) (Hi, Janos!) used to have a snippet explaining [kaizen](http://en.wikipedia.org/wiki/Kaizen), which is a good thing to keep in mind in an R&D lab. Today, as I box up the old iPhones, this reminded me that [Apple is relentlessly good at kaizen](http://www.macworld.com/article/151235/2010/05/apple_rolls.html). Even in packaging.
+
+[![IMG_0030](http://fnord.phfactor.net/wp-content/uploads/2011/02/IMG_0030-448x600.jpg)](http://fnord.phfactor.net/wp-content/uploads/2011/02/IMG_0030.jpg)
+
+Every box is just a little improved and a little smaller than the previous. To Apple's credit, it goes without saying that the contents improve every time, too.
+
+Every now and then I wonder what it's like to work there, though I suspect the intensity would be hell on family life. Still tempting sometimes; the newest iPhone is just an amazing slab drop-shipped from the future.

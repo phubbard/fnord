@@ -1,0 +1,18 @@
+---
+date: '2010-10-27 09:42:16'
+layout: post
+slug: honesty
+status: publish
+title: Honesty
+wordpress_id: '1316'
+categories:
+- Humor
+---
+
+[![Screen shot 2010-10-27 at 9.04.56 AM](http://fnord.phfactor.net/wp-content/uploads/2010/10/Screen-shot-2010-10-27-at-9.04.56-AM-450x191.png)](http://fnord.phfactor.net/wp-content/uploads/2010/10/Screen-shot-2010-10-27-at-9.04.56-AM.png)
+
+I was shopping for Chris's birthday today, and after I added Item X (carefully excluded from the screenshot), Amazon cheerfully tried to sell me more stuff. Check out the URL:
+
+blah.blah/blah/view-upsell.html
+
+[Yep](http://en.wikipedia.org/wiki/Upsell).

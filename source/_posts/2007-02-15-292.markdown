@@ -1,0 +1,31 @@
+---
+date: '2007-02-15 14:00:18'
+layout: post
+slug: '292'
+status: publish
+title: Updated San Diego housing data
+wordpress_id: '292'
+categories:
+- News
+---
+
+
+[
+![Graph of mortgage defaults](http://www.phfactor.net/wp-pics/dec06defaults.jpg)
+](http://voiceofsandiego.org/articles/2007/02/15/toscano/941foreclosures.txt)
+(Image is link to the source article)
+
+
+
+> 
+... both data series give a decent read on the amount of must-sell inventory out there.
+
+And it's certainly out there. Even though job growth remains positive, monthly defaults are now occurring at a pace not seen since the darkest days of the last housing downturn. Foreclosures appear to be close behind. Both sets of numbers have risen far more abruptly than they ever did during the 1990s bust.
+
+Moreover, there's little reason to believe that these numbers will improve anytime soon. 
+
+
+
+It's always risky to extrapolate, but it looks like those of us renting locally might face higher rents and then lower house prices.
+
+All, gallows humor.

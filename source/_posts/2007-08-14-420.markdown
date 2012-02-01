@@ -1,0 +1,18 @@
+---
+date: '2007-08-14 18:37:37'
+layout: post
+slug: '420'
+status: publish
+title: New website to check out
+wordpress_id: '420'
+categories:
+- Reviews and recommendations
+---
+
+[
+![](http://www.phfactor.net/wp-pics/tipbin-wpa.jpg)](http://www.tipbin.com/)
+Christian Cantrell, who runs [WatchReport](http://watchreport.com/), has started a new site called [TipBin.](http://tipbin.com) I write for him on WatchReport, so he asked me to try out the site and share it with my friends. Since both of you (a joke, I hope!) read this blog, please head on over there, write some tips, see what you think and let them know.
+
+It reminds me of Matthew Baldwin's [Tricks of the Trade](http://tradetricks.org/), but hopefully with more content. Baldwin decided to write a book from the tips, and since then the content flow has slowed to almost nothing. Lame.
+
+Hopefully TipBin can do better.

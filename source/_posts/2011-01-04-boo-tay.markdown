@@ -1,0 +1,16 @@
+---
+date: '2011-01-04 10:50:19'
+layout: post
+slug: boo-tay
+status: publish
+title: Boo-tay!
+wordpress_id: '1365'
+categories:
+- Audio, sound and music
+---
+
+It's out!
+
+[![bootie-2010](http://fnord.phfactor.net/wp-content/uploads/2011/01/bootie-2010-450x450.jpg)](http://www.bootiemashup.com/bestofbootie2010/)
+
+See also [my previous post](http://fnord.phfactor.net/2010/10/01/killer-new-mashup-tune-and-video/) on the video for "Jump you fucker"; it's on the best-of.

@@ -1,0 +1,18 @@
+---
+date: '2006-08-11 09:04:49'
+layout: post
+slug: '5150'
+status: publish
+title: '5150'
+wordpress_id: '171'
+categories:
+- Audio, sound and music
+- Geek stuff
+- Humor
+---
+
+It's the [model number of the first IBM PC, 25 years ago today](http://news.bbc.co.uk/1/hi/technology/4780963.stm), it's the [model number of the Xeon chips in the new mid-grade MacPro](http://arstechnica.com/reviews/hardware/macpro.ars), it's [a rap group](http://allmusic.com/cg/amg.dll?p=amg&sql=11:0n6dtrowkl3x), and of course [a Van Halen album](http://www.van-halen.com/newsite/5150.html).
+
+If you dig a bit more, you find that its also the code number for an [involuntary psychiatric hold](http://en.wikipedia.org/wiki/5150_%28Involuntary_psychiatric_hold%29), and that's where the VH album name came from.
+
+There's even more [numerologic trivia waiting for you on Wikipedia.](http://en.wikipedia.org/wiki/5150)

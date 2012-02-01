@@ -1,0 +1,18 @@
+---
+date: '2008-04-09 08:49:54'
+layout: post
+slug: yowza
+status: publish
+title: Yowza!
+wordpress_id: '650'
+categories:
+- News and updates
+---
+
+
+
+
+[![IMG_0041.jpg](http://fnord.phfactor.net/wp-photos/thumb.20080409-084954-1.jpg)](http://fnord.phfactor.net/wp-photos/20080409-084954-1.jpg)
+
+
+Yesterday, on the way home from the bus, 4.15/gal for 91 octane. Whoah.

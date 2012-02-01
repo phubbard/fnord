@@ -1,0 +1,19 @@
+---
+date: '2008-05-27 16:47:12'
+layout: post
+slug: fun
+status: publish
+title: Fun!
+wordpress_id: '717'
+categories:
+- Code
+- Reviews and recommendations
+---
+
+[![](http://fnord.phfactor.net/wp-content/uploads/2008/05/picture-6-450x240.png)](http://fnord.phfactor.net/wp-content/uploads/2008/05/picture-6.png)
+
+
+
+No, it's not terribly impressive, and no it's not a huge amount of work either, but that's my first Cocoa GUI program, hacked just a bit from the example in [the textbook](http://www.amazon.com/Cocoa-Programming-Mac-OS-3rd/dp/0321503619/ref=cm_lmf_tit_1_rsrssi0). (Cocoa programming for Mac OS X, third edition.) Kudos to Kevin for the tip; Aaron Hillegass is an unusually gifted author and his experience teaching the material shines through on every page. Highly recommended.
+
+I'm having a lot of fun with this. Objective-C is pretty simple for anyone with C, and 10.5 adds garbage collection. I was reading 2nd edition and hating the retain/release manual memory management, so auto-GC is a huge incentive for me. InterfaceBuilder is still complicated, but the book explains well so off we go!

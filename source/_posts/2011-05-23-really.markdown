@@ -1,0 +1,20 @@
+---
+date: '2011-05-23 15:12:35'
+layout: post
+slug: really
+status: publish
+title: Really?
+wordpress_id: '1420'
+categories:
+- Geek stuff
+- Humor
+- Science
+---
+
+Via [VSL](http://www.veryshortlist.com/vsl/daily.cfm/review/1839/), the [Pierley/Redford personality test](http://www.hypnoid.com/psytest2.html).
+
+It's bizarre. Hard to believe it has any diagnostic power beyond silliness, but it's interesting. Here are my results:
+
+![Screen shot 2011 04 11 at 9 48 56 AM](http://fnord.phfactor.net/wp-content/uploads/2011/05/Screen-shot-2011-04-11-at-9.48.56-AM.png)
+
+There's some truth there.

@@ -1,0 +1,22 @@
+---
+date: '2009-04-08 11:55:28'
+layout: post
+slug: cohen
+status: publish
+title: Cohen!
+wordpress_id: '950'
+categories:
+- Audio, sound and music
+---
+
+...was wonderful. A couple of iPhone snaps, we do have some real pics to upload later.
+
+[![Stage](http://fnord.phfactor.net/wp-content/uploads/2009/04/img_01231-450x600.jpg)](http://fnord.phfactor.net/wp-content/uploads/2009/04/img_01231.jpg)
+
+Stage, pre-performance.
+
+Chris looked lovely:
+
+[![img_01241](http://fnord.phfactor.net/wp-content/uploads/2009/04/img_01241-450x600.jpg)](http://fnord.phfactor.net/wp-content/uploads/2009/04/img_01241.jpg)
+
+As an aside, I finally found a fix for image rotation! More later.

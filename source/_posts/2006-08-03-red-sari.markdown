@@ -1,0 +1,15 @@
+---
+date: '2006-08-03 22:19:00'
+layout: post
+slug: red-sari
+status: publish
+title: Red sari
+wordpress_id: '159'
+categories:
+- Photography
+---
+
+
+
+
+![Chris in red](http://www.phfactor.net/wp-pics/chris-sari.jpg)

@@ -1,0 +1,21 @@
+---
+date: '2007-10-12 11:09:57'
+layout: post
+slug: dang-cool
+status: publish
+title: Dang cool
+wordpress_id: '505'
+categories:
+- Geek stuff
+- iPhone
+---
+
+
+
+
+![](http://www.phfactor.net/wp-pics/top-on-iphone-wp.jpg)
+
+
+Yes, you can log in to your own phone. And it has top! And runs Unix! We really do live in amazing times.
+
+(Yes, I've changed the root and mobile user passwords, thanks.)

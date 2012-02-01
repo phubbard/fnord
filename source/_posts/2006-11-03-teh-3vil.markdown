@@ -1,0 +1,27 @@
+---
+date: '2006-11-03 14:49:41'
+layout: post
+slug: teh-3vil
+status: publish
+title: Teh 3vil!
+wordpress_id: '229'
+categories:
+- News
+---
+
+
+[
+![Screenshot](http://styletap.com/images/StyleTapScreenShots.gif)
+](http://styletap.com/index.php)
+
+
+I am a formerly rabid PalmOS fan, having switched to Blackberry a few years ago. Via [Engadget](http://www.engadget.com/2006/11/03/styletap-brings-palmos-apps-to-windows-mobile/), the revelation that Windows Mobile can run Palm programs seamlessly, for fifty bucks.
+
+Wow. Almost enough to make me look again at the T-Mobile Dash:
+
+
+[
+![](http://www.t-mobile.com/images/products/tmobile_dash_myfaves/250x270myfaves.jpg)
+](http://www.t-mobile.com/shop/phones/Detail.aspx?device=f164419f-eee9-4cf6-a1bd-070dbe4b5023)
+
+

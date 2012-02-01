@@ -1,0 +1,18 @@
+---
+date: '2008-03-28 09:49:39'
+layout: post
+slug: geeks
+status: publish
+title: Geeks!
+wordpress_id: '633'
+categories:
+- News and updates
+---
+
+[![photo.jpg](http://fnord.phfactor.net/wp-photos/thumb.20080328-094939-1.jpg)](http://fnord.phfactor.net/wp-photos/20080328-094939-1.jpg)
+
+
+
+TI MSP 430 day.
+
+

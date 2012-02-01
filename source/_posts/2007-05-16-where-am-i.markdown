@@ -1,0 +1,42 @@
+---
+date: '2007-05-16 09:39:22'
+layout: post
+slug: where-am-i
+status: publish
+title: Where am I?
+wordpress_id: '327'
+categories:
+- Macintosh
+- Networking
+---
+
+One of the nice things about Mac OSX is that it has the concepts of network 'locations'. For example, I have 'Home', 'Automatic' (default) and several others like 'Via [redacted] proxy'
+
+Useful stuff, but it's often desireable to do a bit more. I'd like to switch HTTP proxies, default printers, and just maybe initiate a backup when I get home... stock OSX doesn't have a simple way to do this.
+
+There are several programs to do this, I use and like [MarcoPolo.](http://www.symonds.id.au/marcopolo/) Free, open source, scriptable, unobtrusive, quite clever.
+
+Oh yeah, it supports Growl, too, which is a major plus for me.
+
+Main screen:
+
+![](http://www.phfactor.net/wp-pics/mp-general.jpg)
+
+
+Rules:
+
+![](http://www.phfactor.net/wp-pics/mp-rules.jpg)
+
+
+Actions:
+
+![](http://www.phfactor.net/wp-pics/mp-actions.jpg)
+
+
+I've been using it for a week or so, and so far the main annoyance is the delay required after waking from sleep in a new location - it may take 10-30 seconds to associate with the WiFi, derive the location and apply the rules. Annoying, but probably unavoidable.
+
+I plan on using this more as I gain confidence in it. For example, I want it to run a backup when 'location is home, AC power is present and IP is 'foo' (wired connection) and this looks do-able.
+
+The printer changing seems problematic, perhaps because (as shown) my work printer name has spaces and a backslash in it. There's no feedback or diagnostics that I can find on this.
+
+Cool stuff!

@@ -1,0 +1,16 @@
+---
+date: '2006-01-24 17:11:07'
+layout: post
+slug: '49'
+status: publish
+title: The dulcet tones of data storage
+wordpress_id: '49'
+categories:
+- News
+---
+
+If you've computed for a while, you've probably had a few hard drives die on you. They don't last very long, especially the mass-market models. Then again, the godawful [ST251](http://redhill.net.au/d/d-a.html) was even worse.
+
+Anyway. Where was I? Ahh yes. Certain sounds of drive failure can, to this day, fill me with instant fear. The slow spindle, the head farming gronch... all inspire some variant on "When **was** my last backup?"
+
+[You can relive them all,](http://www.hitachigst.com/hddt/knowtree.nsf/cffe836ed7c12018862565b000530c74/4b1a62a50f405d0d86256756006e340c?OpenDocument) courtesy of Hitachi. They posted these sound clips as diagnosis tools, but personally I think they'd make an awesome system startup/login sound.

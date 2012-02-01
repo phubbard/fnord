@@ -1,0 +1,44 @@
+---
+date: '2007-11-26 18:33:00'
+layout: post
+slug: '551'
+status: publish
+title: Bourne shell server pages...
+wordpress_id: '551'
+categories:
+- Code
+- Essays - other people
+- Geek stuff
+- Humor
+---
+
+Via [Anarchia](http://anarchaia.org/archive/2007/11/22.html), the magnificent obscenity that is [Bourne Shell Server Pages](http://hyperrealm.com/wtfd00d/shsp/), with the appropriate extension of, yep, '.shit'. The author has a definite set of opinions that I found hilarious:
+
+
+> The basic idea behind all server page technologies is this: rather than writing code that generates an HTML document on-the-fly by writing it out as a series of print  statements, you start with a "skeleton" HTML document and embed the code right inside it. Voila! Instead of having a tangled, unreadable, unmaintainable mess of HTML embedded in source code, you have a tangled, unreadable, unmaintainable mess of source code embedded in HTML.
+
+Bourne Shell Server Pages are ordinary ASCII text files, with the special extension .shit, which denotes "Shell-Interpreted Template." The result of invoking the page compiler on a .shit file, is, naturally, a shell script. (It occurred to me that this file extension might seem objectionable to some, but since it quite accurately—if unintentionally—conveyed my sentiments toward Web technology in general, I decided that it should be left unchanged.)
+
+
+and, I have to agree with him here:
+
+
+> How does the Bourne Shell Server Pages technology fit into the bigger picture of Web Services? It's a legitimate question. For that matter, what the hell are "Web Services" anyway?
+
+I've read quite a bit about Web Services, and have had some in-depth, first-hand experience with the technologies that form their underpinnings. To the best of my knowledge, here is an accurate definition of the term:
+
+
+> 
+> 
+    Web Services
+> 
+ noun  A software development meme that espouses the notion of tying together disparate software components via a crude, non-typesafe, remote procedure call (RPC) mechanism that consists of sending and receiving data encoded in an excessively verbose, plaintext format (XML) over a largely inelegant, stateless file transfer protocol (HTTP).
+> 
+
+
+Whew. That doesn't sound glamorous or exciting at all. It's not even object oriented. There must be more to this than just inferior reinterpretations of old ideas? Sadly, there isn't.
+
+One particularly curious aspect of Web Services is that all communication between components must take place over TCP port 80. The other ports (all 65,534 of them) constitute a veritable Pandora's Box of perceived dangers, horrors and evils, and so Thou Shalt Not Bind Them. It's painfully clear that Web Services exists along three distinct axes: a technical one, an emotional one, and a decidedly religious one.
+
+
+It's a great essay, and an interesting idea. The code is tiny, too.

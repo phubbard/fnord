@@ -1,0 +1,27 @@
+---
+date: '2007-02-21 16:48:26'
+layout: post
+slug: good-toys
+status: publish
+title: Good toys
+wordpress_id: '293'
+categories:
+- Geek stuff
+- News
+---
+
+
+![Shiny new hardware](http://www.phfactor.net/wp-pics/new-sun-and-raid.JPG)
+
+Which goes rather well with
+
+
+![The Church of Specular Phototropism](http://www.phfactor.net/wp-pics/csp-seal.gif)
+
+For nerds, it really is simple: Shiny is Good. 
+
+Thus, the Church of Specular Phototropism, which translated means 'the worship of shiny things'.
+
+Oh yeah, the hardware is my laptop, on top of a [Caen RAID chassis](http://www.caeneng.com/products/models/cometsata8-12eu.htm) and [Sun T2000 server.](http://www.phfactor.net/wp/2006/05/16/sun-gets-generous/) 
+
+Demonstrably, life has been busy of late...
