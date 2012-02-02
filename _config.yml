@@ -31,6 +31,7 @@ permalink: /:year/:month/:day/:title/
 source: source
 destination: public
 plugins: plugins
+lsi: false
 code_dir: downloads/code
 category_dir: categories
 category_title_prefix: "Category: "
