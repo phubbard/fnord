@@ -3,7 +3,7 @@ layout: post
 title: "LSI and rb-gsl"
 date: 2012-02-01 16:19
 comments: true
-categories: Octopress, Ruby, lazyweb
+categories: Octopress Ruby lazyweb
 ---
 
 So I'm spelunking through [the Octopress docs](https://github.com/mojombo/jekyll/wiki/Configuration) and 
@@ -38,3 +38,7 @@ Results logged to /Users/hubbard/.rvm/gems/ruby-1.9.2-p290/gems/gsl-1.14.7/ext/g
 ```
 
 Drat. No fix yet.
+
+*Update*: Fix is to [use v1.14](https://github.com/romanbsd/rb-gsl/issues/2) of GSL, not 1.15. Cranking now...
+
+*Update 2/5/12*: Compiled, but still unusable. Killed it after ten hours.
