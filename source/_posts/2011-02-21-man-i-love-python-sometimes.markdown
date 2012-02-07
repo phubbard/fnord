@@ -10,10 +10,11 @@ categories:
 ---
 
 Open a file, handle any errors, read it in by lines, strip any leading or trailing whitespace, put the result into an array:
-`
+{% codeblock lang:python %}
 with open(price_filename) as f:
-prices_strs = [x.strip() for x in f.readlines()]
-`
+    prices_strs = [x.strip() for x in f.readlines()]
+{% endcodeblock %}
+
 That's it. Damned concise, runs fast, easy to read once you learn the idioms. (List comprehensions, [with statement](http://effbot.org/zone/python-with-statement.htm).)
 
 [I'm a fan](http://python.org/).

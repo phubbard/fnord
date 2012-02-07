@@ -16,17 +16,12 @@ categories:
 ![the wreck of the Kursk](http://www.phfactor.net/wp-pics/kursk-1-wp.jpg)
 ](http://englishrussia.com/?p=845#more-845)
 
-Good pictures of the salvaged Kursk. More info:
 
+Good pictures of the salvaged Kursk (click on image to go the source, English Russia.)
 
-
-
-
-  1. [Submarine Kursk on Wikipedia
-
-  2. [Kursk explosion on Wikipedia
-](http://en.wikipedia.org/wiki/Russian_submarine_Kursk_explosion)
-](http://en.wikipedia.org/wiki/Russian_submarine_K-141_Kursk)
+More info:
+  1. [Submarine Kursk on Wikipedia](http://en.wikipedia.org/wiki/Russian_submarine_Kursk_explosion)
+  2. [Kursk explosion on Wikipedia](http://en.wikipedia.org/wiki/Russian_submarine_K-141_Kursk)
 
 
 

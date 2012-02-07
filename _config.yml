@@ -33,7 +33,7 @@ destination: public
 plugins: plugins
 lsi: false
 code_dir: downloads/code
-category_dir: categories
+category_dir: category
 category_title_prefix: "Category: "
 markdown: rdiscount
 pygments: false # default python pygments have been replaced by pygments.rb
