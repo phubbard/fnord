@@ -6,8 +6,8 @@ url: http://fnord.phfactor.net
 title: Fnord
 subtitle: Random bits from a random nerd
 author: Paul Hubbard
-simple_search: http://google.com/search
-description: Paul Hubbard's personal blog
+simple_search: http://www.duckduckgo.com/
+description: Paul Hubbard's blog
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -17,9 +17,9 @@ date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /atom.xml
-subscribe_email:
+subscribe_email: http://feedburner.google.com/fb/a/mailverify?uri=phfactor/rzbg&amp;loc=en_US
 # RSS feeds can list your email address if you like
-email:
+email: pfh@phfactor.net
 
 # ----------------------- #
 #    Jekyll & Plugins     #
