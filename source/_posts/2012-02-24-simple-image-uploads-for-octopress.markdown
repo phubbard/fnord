@@ -13,9 +13,9 @@ So today did a hack while inspired. Shared as a gist on Github, this code:
 
 * Makes the path YYYY/MM/DD, e.g. '2012/02/24'
 * Verifies that the directory created is writeable
-* Does and upload via the filesystem
-* Fetches the uploaded file via HTTP 
-* Computes MD5 hashes of both
+* Does an upload via the filesystem
+* Fetches the uploaded file via HTTP for an end-to-end check
+* Computes MD5 hashes of both to make sure it made it intact
 * Print out the full URL of the image, for easy use in your editor
 * Copies said URL into the copy & paste buffer via pbcopy
  
