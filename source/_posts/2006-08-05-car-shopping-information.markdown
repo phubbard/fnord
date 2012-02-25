@@ -1,6 +1,7 @@
 ---
 date: '2006-08-05 11:03:57'
 layout: post
+comments: true
 slug: car-shopping-information
 status: publish
 title: Car shopping information

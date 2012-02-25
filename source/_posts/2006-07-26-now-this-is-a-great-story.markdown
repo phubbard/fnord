@@ -1,6 +1,7 @@
 ---
 date: '2006-07-26 21:22:42'
 layout: post
+comments: true
 slug: now-this-is-a-great-story
 status: publish
 title: Now this is a great story

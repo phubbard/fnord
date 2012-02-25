@@ -1,6 +1,7 @@
 ---
 date: '2007-03-14 07:04:47'
 layout: post
+comments: true
 slug: fame-fortune-seiko
 status: publish
 title: Fame! Fortune! Seiko!

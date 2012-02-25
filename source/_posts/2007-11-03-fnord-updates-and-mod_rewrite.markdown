@@ -1,6 +1,7 @@
 ---
 date: '2007-11-03 14:22:40'
 layout: post
+comments: true
 slug: fnord-updates-and-mod_rewrite
 status: publish
 title: Fnord updates and mod_rewrite

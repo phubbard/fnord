@@ -1,6 +1,7 @@
 ---
 date: '2008-12-09 22:04:13'
 layout: post
+comments: true
 slug: the-other-hong-kong-watch-vintage-girard-perragaux-gyromatic
 status: publish
 title: 'The other Hong Kong watch: Vintage Girard-Perragaux Gyromatic'

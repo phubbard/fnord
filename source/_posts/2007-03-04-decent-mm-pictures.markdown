@@ -1,6 +1,7 @@
 ---
 date: '2007-03-04 13:14:31'
 layout: post
+comments: true
 slug: decent-mm-pictures
 status: publish
 title: Decent MM pictures

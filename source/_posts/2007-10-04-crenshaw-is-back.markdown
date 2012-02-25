@@ -1,6 +1,7 @@
 ---
 date: '2007-10-04 16:05:29'
 layout: post
+comments: true
 slug: crenshaw-is-back
 status: publish
 title: Crenshaw is back!

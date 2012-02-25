@@ -1,6 +1,7 @@
 ---
 date: '2006-06-21 09:47:43'
 layout: post
+comments: true
 slug: marx-and-religon
 status: publish
 title: Marx and religon

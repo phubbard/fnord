@@ -1,6 +1,7 @@
 ---
 date: '2006-07-18 21:26:35'
 layout: post
+comments: true
 slug: did-you-know-that
 status: publish
 title: Did you know that

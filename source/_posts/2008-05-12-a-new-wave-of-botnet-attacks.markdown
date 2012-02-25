@@ -1,6 +1,7 @@
 ---
 date: '2008-05-12 15:17:03'
 layout: post
+comments: true
 slug: a-new-wave-of-botnet-attacks
 status: publish
 title: A new wave of botnet attacks

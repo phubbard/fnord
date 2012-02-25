@@ -1,6 +1,7 @@
 ---
 date: '2008-04-24 15:59:35'
 layout: post
+comments: true
 slug: sucks-to-be-tall-sometimes
 status: publish
 title: Sucks to be tall sometimes

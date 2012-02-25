@@ -1,6 +1,7 @@
 ---
 date: '2009-12-25 13:55:57'
 layout: post
+comments: true
 slug: a-nice-interview-on-stl-coding-and-algorithms
 status: publish
 title: A nice interview on STL, coding and algorithms

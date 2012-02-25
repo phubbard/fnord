@@ -1,6 +1,7 @@
 ---
 date: '2006-08-07 09:47:13'
 layout: post
+comments: true
 slug: updated-the-mac-page-today
 status: publish
 title: Updated the Mac page today

@@ -1,6 +1,7 @@
 ---
 date: '2006-09-12 13:31:33'
 layout: post
+comments: true
 slug: gapless-playback
 status: publish
 title: Gapless playback!

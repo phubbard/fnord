@@ -1,6 +1,7 @@
 ---
 date: '2008-02-10 20:45:15'
 layout: post
+comments: true
 slug: ahh-the-amusement-value-of-cruelty
 status: publish
 title: Ahh, the amusement value of cruelty

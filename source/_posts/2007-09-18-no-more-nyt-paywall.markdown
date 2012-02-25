@@ -1,6 +1,7 @@
 ---
 date: '2007-09-18 13:37:27'
 layout: post
+comments: true
 slug: no-more-nyt-paywall
 status: publish
 title: No more NYT paywall!

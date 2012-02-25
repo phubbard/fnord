@@ -1,6 +1,7 @@
 ---
 date: '2007-07-08 21:05:38'
 layout: post
+comments: true
 slug: new-camera-brief-review-finepix-s6000fd
 status: publish
 title: New camera - brief review (Finepix s6000fd)

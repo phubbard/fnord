@@ -1,6 +1,7 @@
 ---
 date: '2008-01-07 22:20:05'
 layout: post
+comments: true
 slug: there-are-many-kinds-of-happiness
 status: publish
 title: There are many kinds of happiness

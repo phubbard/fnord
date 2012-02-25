@@ -1,6 +1,7 @@
 ---
 date: '2007-10-11 16:33:34'
 layout: post
+comments: true
 slug: more-on-the-omega-x-33
 status: publish
 title: More on the Omega X-33

@@ -1,6 +1,7 @@
 ---
 date: '2007-09-19 15:24:33'
 layout: post
+comments: true
 slug: gps-for-iphone-a-first-approximation
 status: publish
 title: GPS for iPhone, a first approximation

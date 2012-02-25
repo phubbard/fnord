@@ -1,6 +1,7 @@
 ---
 date: '2007-09-06 17:12:06'
 layout: post
+comments: true
 slug: one-from-the-archives
 status: publish
 title: One from the archives

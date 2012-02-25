@@ -1,6 +1,7 @@
 ---
 date: '2009-05-07 19:24:15'
 layout: post
+comments: true
 slug: the-downsides-of-neophilia
 status: publish
 title: The downsides of neophilia

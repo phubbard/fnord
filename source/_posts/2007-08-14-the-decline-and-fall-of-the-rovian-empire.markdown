@@ -1,6 +1,7 @@
 ---
 date: '2007-08-14 18:27:58'
 layout: post
+comments: true
 slug: the-decline-and-fall-of-the-rovian-empire
 status: publish
 title: The Decline and Fall of the Rovian Empire

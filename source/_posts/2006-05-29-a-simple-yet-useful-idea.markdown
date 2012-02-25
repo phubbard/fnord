@@ -1,6 +1,7 @@
 ---
 date: '2006-05-29 20:51:20'
 layout: post
+comments: true
 slug: a-simple-yet-useful-idea
 status: publish
 title: A simple yet useful idea

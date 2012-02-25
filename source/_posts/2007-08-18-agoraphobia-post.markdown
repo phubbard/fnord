@@ -1,6 +1,7 @@
 ---
 date: '2007-08-18 12:14:40'
 layout: post
+comments: true
 slug: agoraphobia-post
 status: publish
 title: Acrophobia post

@@ -1,6 +1,7 @@
 ---
 date: '2006-05-18 09:13:04'
 layout: post
+comments: true
 slug: java-gets-its-factory-on
 status: publish
 title: Java gets its factory on

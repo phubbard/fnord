@@ -1,6 +1,7 @@
 ---
 date: '2009-11-18 09:30:46'
 layout: post
+comments: true
 slug: just-right-weather-forecasts
 status: publish
 title: Just right weather forecasts

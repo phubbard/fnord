@@ -1,6 +1,7 @@
 ---
 date: '2007-07-23 13:01:03'
 layout: post
+comments: true
 slug: an-aphorism-or-two-for-the-day
 status: publish
 title: An aphorism or two for the day

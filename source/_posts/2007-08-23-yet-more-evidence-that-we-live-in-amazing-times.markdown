@@ -1,6 +1,7 @@
 ---
 date: '2007-08-23 10:17:53'
 layout: post
+comments: true
 slug: yet-more-evidence-that-we-live-in-amazing-times
 status: publish
 title: Yet More Evidence that we live in amazing times

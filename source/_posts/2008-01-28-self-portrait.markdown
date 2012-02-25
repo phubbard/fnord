@@ -1,6 +1,7 @@
 ---
 date: '2008-01-28 17:56:05'
 layout: post
+comments: true
 slug: self-portrait
 status: publish
 title: Self-portrait

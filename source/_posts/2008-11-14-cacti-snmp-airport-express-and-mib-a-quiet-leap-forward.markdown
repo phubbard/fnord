@@ -1,6 +1,7 @@
 ---
 date: '2008-11-14 10:37:58'
 layout: post
+comments: true
 slug: cacti-snmp-airport-express-and-mib-a-quiet-leap-forward
 status: publish
 title: 'Cacti, SNMP, Airport Express and MIB: A quiet leap forward'

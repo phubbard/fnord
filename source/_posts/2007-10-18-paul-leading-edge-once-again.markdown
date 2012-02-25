@@ -1,6 +1,7 @@
 ---
 date: '2007-10-18 14:59:54'
 layout: post
+comments: true
 slug: paul-leading-edge-once-again
 status: publish
 title: Paul, leading edge once again

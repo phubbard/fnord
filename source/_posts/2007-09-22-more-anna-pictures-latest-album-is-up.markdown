@@ -1,6 +1,7 @@
 ---
 date: '2007-09-22 10:52:11'
 layout: post
+comments: true
 slug: more-anna-pictures-latest-album-is-up
 status: publish
 title: More Anna pictures - latest album is up

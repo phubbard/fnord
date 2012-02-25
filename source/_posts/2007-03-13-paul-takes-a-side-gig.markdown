@@ -1,6 +1,7 @@
 ---
 date: '2007-03-13 12:03:54'
 layout: post
+comments: true
 slug: paul-takes-a-side-gig
 status: publish
 title: Paul takes a side gig

@@ -1,6 +1,7 @@
 ---
 date: '2007-11-13 10:52:12'
 layout: post
+comments: true
 slug: reno-humor
 status: publish
 title: Reno humor

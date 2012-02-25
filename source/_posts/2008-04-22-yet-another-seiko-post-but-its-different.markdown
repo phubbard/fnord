@@ -1,6 +1,7 @@
 ---
 date: '2008-04-22 09:45:27'
 layout: post
+comments: true
 slug: yet-another-seiko-post-but-its-different
 status: publish
 title: Yet Another Seiko post... but it's different

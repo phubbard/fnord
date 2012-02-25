@@ -1,6 +1,7 @@
 ---
 date: '2007-10-25 08:39:55'
 layout: post
+comments: true
 slug: more-fire-satellite-images
 status: publish
 title: More fire satellite images

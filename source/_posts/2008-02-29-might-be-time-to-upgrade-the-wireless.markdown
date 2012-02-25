@@ -1,6 +1,7 @@
 ---
 date: '2008-02-29 10:34:43'
 layout: post
+comments: true
 slug: might-be-time-to-upgrade-the-wireless
 status: publish
 title: Might be time to upgrade the wireless

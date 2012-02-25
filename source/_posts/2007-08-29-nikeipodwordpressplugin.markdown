@@ -1,6 +1,7 @@
 ---
 date: '2007-08-29 10:45:30'
 layout: post
+comments: true
 slug: nikeipodwordpressplugin
 status: publish
 title: Nike+ipod+Wordpress+plugin

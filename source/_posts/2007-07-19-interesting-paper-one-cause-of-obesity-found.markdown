@@ -1,6 +1,7 @@
 ---
 date: '2007-07-19 16:54:58'
 layout: post
+comments: true
 slug: interesting-paper-one-cause-of-obesity-found
 status: publish
 title: Interesting paper... one cause of obesity found?

@@ -1,6 +1,7 @@
 ---
 date: '2009-02-27 20:43:45'
 layout: post
+comments: true
 slug: conspiracy-fodder-why-does-ralphs-need-an-x-ray
 status: publish
 title: Conspiracy fodder - why does Ralph's need an x-ray?

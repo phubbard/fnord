@@ -1,6 +1,7 @@
 ---
 date: '2007-10-24 16:22:10'
 layout: post
+comments: true
 slug: fire-and-flood-on-the-same-day
 status: publish
 title: Fire and flood on the same day

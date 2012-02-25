@@ -1,6 +1,7 @@
 ---
 date: '2008-03-22 15:01:12'
 layout: post
+comments: true
 slug: monster-page-of-new-baby-recommendations
 status: publish
 title: Monster page of new-baby-recommendations

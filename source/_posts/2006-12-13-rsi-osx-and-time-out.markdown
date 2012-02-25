@@ -1,6 +1,7 @@
 ---
 date: '2006-12-13 13:08:52'
 layout: post
+comments: true
 slug: rsi-osx-and-time-out
 status: publish
 title: RSI, OSX and Time Out

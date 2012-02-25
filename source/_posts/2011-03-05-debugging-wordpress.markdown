@@ -1,6 +1,7 @@
 ---
 date: '2011-03-05 09:24:32'
 layout: post
+comments: true
 slug: debugging-wordpress
 status: publish
 title: Debugging WordPress

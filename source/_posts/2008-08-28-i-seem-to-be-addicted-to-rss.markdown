@@ -1,6 +1,7 @@
 ---
 date: '2008-08-28 12:01:07'
 layout: post
+comments: true
 slug: i-seem-to-be-addicted-to-rss
 status: publish
 title: I seem to be addicted to RSS

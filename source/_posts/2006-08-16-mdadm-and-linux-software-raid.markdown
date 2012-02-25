@@ -1,6 +1,7 @@
 ---
 date: '2006-08-16 09:02:39'
 layout: post
+comments: true
 slug: mdadm-and-linux-software-raid
 status: publish
 title: mdadm and linux software raid

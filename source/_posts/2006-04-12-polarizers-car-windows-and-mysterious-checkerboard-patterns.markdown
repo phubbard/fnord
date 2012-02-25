@@ -1,6 +1,7 @@
 ---
 date: '2006-04-12 18:50:42'
 layout: post
+comments: true
 slug: polarizers-car-windows-and-mysterious-checkerboard-patterns
 status: publish
 title: Polarizers, car windows and mysterious checkerboard patterns

@@ -1,6 +1,7 @@
 ---
 date: '2007-06-04 18:03:32'
 layout: post
+comments: true
 slug: best-vnc-client-for-osx
 status: publish
 title: Best VNC client for OSX?

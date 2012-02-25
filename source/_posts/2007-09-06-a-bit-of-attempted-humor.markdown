@@ -1,6 +1,7 @@
 ---
 date: '2007-09-06 17:02:56'
 layout: post
+comments: true
 slug: a-bit-of-attempted-humor
 status: publish
 title: A bit of attempted humor

@@ -1,6 +1,7 @@
 ---
 date: '2007-09-09 22:09:04'
 layout: post
+comments: true
 slug: our-truck-gets-stolen
 status: publish
 title: Our truck gets stolen

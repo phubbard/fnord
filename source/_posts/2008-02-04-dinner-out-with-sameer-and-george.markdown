@@ -1,6 +1,7 @@
 ---
 date: '2008-02-04 21:16:35'
 layout: post
+comments: true
 slug: dinner-out-with-sameer-and-george
 status: publish
 title: Dinner out with Sameer and George

@@ -1,6 +1,7 @@
 ---
 date: '2007-07-01 11:51:31'
 layout: post
+comments: true
 slug: more-home-triviality
 status: publish
 title: More home triviality

@@ -1,6 +1,7 @@
 ---
 date: '2009-06-10 15:19:26'
 layout: post
+comments: true
 slug: progress-on-the-arduino
 status: publish
 title: Progress on the Arduino

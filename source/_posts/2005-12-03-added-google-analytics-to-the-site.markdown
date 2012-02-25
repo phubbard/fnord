@@ -1,6 +1,7 @@
 ---
 date: '2005-12-03 11:19:24'
 layout: post
+comments: true
 slug: added-google-analytics-to-the-site
 status: publish
 title: Added Google analytics to the site

@@ -1,6 +1,7 @@
 ---
 date: '2008-05-13 11:08:45'
 layout: post
+comments: true
 slug: rampant-sexist-still-flourishes
 status: publish
 title: Rampant sexism still flourishes

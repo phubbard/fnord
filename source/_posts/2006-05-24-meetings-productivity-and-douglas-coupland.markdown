@@ -1,6 +1,7 @@
 ---
 date: '2006-05-24 11:04:56'
 layout: post
+comments: true
 slug: meetings-productivity-and-douglas-coupland
 status: publish
 title: Meetings, productivity and Douglas Coupland

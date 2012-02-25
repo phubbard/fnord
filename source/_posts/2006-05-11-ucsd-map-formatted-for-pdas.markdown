@@ -1,6 +1,7 @@
 ---
 date: '2006-05-11 10:14:09'
 layout: post
+comments: true
 slug: ucsd-map-formatted-for-pdas
 status: publish
 title: UCSD map formatted for PDAs

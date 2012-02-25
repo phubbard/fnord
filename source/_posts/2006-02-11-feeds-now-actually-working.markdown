@@ -1,6 +1,7 @@
 ---
 date: '2006-02-11 18:51:31'
 layout: post
+comments: true
 slug: feeds-now-actually-working
 status: publish
 title: Feeds now actually working.

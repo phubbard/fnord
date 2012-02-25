@@ -1,6 +1,7 @@
 ---
 date: '2007-04-03 10:42:21'
 layout: post
+comments: true
 slug: musings-on-collection-and-addiction
 status: publish
 title: Musings on collection and addiction

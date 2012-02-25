@@ -1,6 +1,7 @@
 ---
 date: '2009-11-12 11:08:56'
 layout: post
+comments: true
 slug: site-updates
 status: publish
 title: Site updates

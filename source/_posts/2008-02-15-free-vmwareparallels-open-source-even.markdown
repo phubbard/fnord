@@ -1,6 +1,7 @@
 ---
 date: '2008-02-15 16:29:48'
 layout: post
+comments: true
 slug: free-vmwareparallels-open-source-even
 status: publish
 title: Free VMWare/Parallels, open source even!

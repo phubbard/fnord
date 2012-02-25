@@ -1,6 +1,7 @@
 ---
 date: '2006-12-07 13:25:24'
 layout: post
+comments: true
 slug: save-your-ears-you-may-want-them-later
 status: publish
 title: Save your ears, you may want them later

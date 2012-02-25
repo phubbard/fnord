@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Adding comments via Disqus"
 date: 2012-02-05 08:05
 comments: true

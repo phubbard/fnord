@@ -1,6 +1,7 @@
 ---
 date: '2007-08-04 16:14:54'
 layout: post
+comments: true
 slug: good-flight-tracking-site
 status: publish
 title: Good flight tracking site

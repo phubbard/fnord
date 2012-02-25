@@ -1,6 +1,7 @@
 ---
 date: '2007-11-07 21:25:55'
 layout: post
+comments: true
 slug: kill-the-glass-dock
 status: publish
 title: Kill the glass dock!

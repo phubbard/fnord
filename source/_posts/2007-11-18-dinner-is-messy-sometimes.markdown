@@ -1,6 +1,7 @@
 ---
 date: '2007-11-18 17:51:03'
 layout: post
+comments: true
 slug: dinner-is-messy-sometimes
 status: publish
 title: Dinner is messy sometimes

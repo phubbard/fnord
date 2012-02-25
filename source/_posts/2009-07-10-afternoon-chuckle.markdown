@@ -1,6 +1,7 @@
 ---
 date: '2009-07-10 11:10:05'
 layout: post
+comments: true
 slug: afternoon-chuckle
 status: publish
 title: Afternoon chuckle

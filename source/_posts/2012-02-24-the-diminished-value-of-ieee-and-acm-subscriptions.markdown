@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "The diminished value of IEEE and ACM subscriptions"
 date: 2012-02-24 09:42
 comments: true

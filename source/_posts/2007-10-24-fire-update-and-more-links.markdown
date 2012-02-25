@@ -1,6 +1,7 @@
 ---
 date: '2007-10-24 08:26:38'
 layout: post
+comments: true
 slug: fire-update-and-more-links
 status: publish
 title: Fire update and more links

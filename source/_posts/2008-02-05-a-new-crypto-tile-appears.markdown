@@ -1,6 +1,7 @@
 ---
 date: '2008-02-05 20:43:59'
 layout: post
+comments: true
 slug: a-new-crypto-tile-appears
 status: publish
 title: A new crypto tile appears

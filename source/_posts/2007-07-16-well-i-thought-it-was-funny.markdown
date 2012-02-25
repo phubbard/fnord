@@ -1,6 +1,7 @@
 ---
 date: '2007-07-16 09:15:26'
 layout: post
+comments: true
 slug: well-i-thought-it-was-funny
 status: publish
 title: Well, *I* thought it was funny

@@ -1,6 +1,7 @@
 ---
 date: '2005-11-30 12:11:32'
 layout: post
+comments: true
 slug: apple-broadband-tuner
 status: publish
 title: Apple broadband tuner

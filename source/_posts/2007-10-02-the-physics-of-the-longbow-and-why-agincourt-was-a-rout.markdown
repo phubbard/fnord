@@ -1,6 +1,7 @@
 ---
 date: '2007-10-02 10:28:30'
 layout: post
+comments: true
 slug: the-physics-of-the-longbow-and-why-agincourt-was-a-rout
 status: publish
 title: The physics of the longbow, and why Agincourt was a rout

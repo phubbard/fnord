@@ -1,6 +1,7 @@
 ---
 date: '2011-02-04 16:39:12'
 layout: post
+comments: true
 slug: a-tasty-programming-morsel
 status: publish
 title: A tasty programming morsel

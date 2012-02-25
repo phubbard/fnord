@@ -1,6 +1,7 @@
 ---
 date: '2010-06-03 13:38:34'
 layout: post
+comments: true
 slug: more-arduino-really-bright-lights
 status: publish
 title: More Arduino - really bright lights

@@ -1,6 +1,7 @@
 ---
 date: '2007-05-06 16:27:09'
 layout: post
+comments: true
 slug: roast-your-own
 status: publish
 title: Roast your own?

@@ -1,6 +1,7 @@
 ---
 date: '2006-03-13 15:51:25'
 layout: post
+comments: true
 slug: another-thing-i-want-but-dont-need
 status: publish
 title: Another thing I want but don't need

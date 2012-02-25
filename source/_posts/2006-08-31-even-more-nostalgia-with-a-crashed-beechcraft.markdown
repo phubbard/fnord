@@ -1,6 +1,7 @@
 ---
 date: '2006-08-31 12:31:01'
 layout: post
+comments: true
 slug: even-more-nostalgia-with-a-crashed-beechcraft
 status: publish
 title: Even More Nostalgia, with a crashed Beechcraft

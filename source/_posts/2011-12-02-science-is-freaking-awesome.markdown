@@ -1,6 +1,7 @@
 ---
 date: '2011-12-02 13:41:41'
 layout: post
+comments: true
 slug: science-is-freaking-awesome
 status: publish
 title: Science is Freaking Awesome

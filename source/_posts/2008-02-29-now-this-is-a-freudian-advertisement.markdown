@@ -1,6 +1,7 @@
 ---
 date: '2008-02-29 20:50:49'
 layout: post
+comments: true
 slug: now-this-is-a-freudian-advertisement
 status: publish
 title: Now this is a Freudian advertisement

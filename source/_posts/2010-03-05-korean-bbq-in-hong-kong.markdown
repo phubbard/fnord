@@ -1,6 +1,7 @@
 ---
 date: '2010-03-05 11:48:52'
 layout: post
+comments: true
 slug: korean-bbq-in-hong-kong
 status: publish
 title: Korean BBQ in Hong Kong

@@ -1,6 +1,7 @@
 ---
 date: '2007-06-06 09:26:13'
 layout: post
+comments: true
 slug: a-keen-music-video
 status: publish
 title: A keen music video

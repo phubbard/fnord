@@ -1,6 +1,7 @@
 ---
 date: '2009-09-25 11:36:52'
 layout: post
+comments: true
 slug: its-just-not-the-same
 status: publish
 title: It's just not the same

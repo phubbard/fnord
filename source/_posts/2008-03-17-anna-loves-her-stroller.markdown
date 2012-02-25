@@ -1,6 +1,7 @@
 ---
 date: '2008-03-17 20:27:38'
 layout: post
+comments: true
 slug: anna-loves-her-stroller
 status: publish
 title: Anna loves her stroller

@@ -1,6 +1,7 @@
 ---
 date: '2006-08-26 10:43:33'
 layout: post
+comments: true
 slug: 77-reasons-to-live-in-san-diego-and-110-not-to-live-inland
 status: publish
 title: 77 reasons to live in San Diego, and 110 not to live inland

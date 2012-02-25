@@ -1,6 +1,7 @@
 ---
 date: '2008-04-10 09:25:44'
 layout: post
+comments: true
 slug: national-poetry-month
 status: publish
 title: National Poetry Month!

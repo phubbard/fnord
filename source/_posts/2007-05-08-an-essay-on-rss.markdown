@@ -1,6 +1,7 @@
 ---
 date: '2007-05-08 17:46:31'
 layout: post
+comments: true
 slug: an-essay-on-rss
 status: publish
 title: An essay on RSS

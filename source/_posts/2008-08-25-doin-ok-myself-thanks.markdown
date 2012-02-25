@@ -1,6 +1,7 @@
 ---
 date: '2008-08-25 19:50:41'
 layout: post
+comments: true
 slug: doin-ok-myself-thanks
 status: publish
 title: Doin' OK myself, thanks

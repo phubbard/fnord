@@ -1,6 +1,7 @@
 ---
 date: '2006-09-07 13:14:56'
 layout: post
+comments: true
 slug: sudoko-for-blackberry-free-and-done-well
 status: publish
 title: Sudoko for blackberry, free and done well.

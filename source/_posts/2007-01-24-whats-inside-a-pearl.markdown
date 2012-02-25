@@ -1,6 +1,7 @@
 ---
 date: '2007-01-24 22:36:34'
 layout: post
+comments: true
 slug: whats-inside-a-pearl
 status: publish
 title: What's inside a Pearl?

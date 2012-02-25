@@ -1,6 +1,7 @@
 ---
 date: '2009-04-08 11:55:28'
 layout: post
+comments: true
 slug: cohen
 status: publish
 title: Cohen!

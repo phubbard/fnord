@@ -1,6 +1,7 @@
 ---
 date: '2009-07-23 00:22:28'
 layout: post
+comments: true
 slug: paul-wins-an-iphone
 status: publish
 title: Paul wins an iPhone!

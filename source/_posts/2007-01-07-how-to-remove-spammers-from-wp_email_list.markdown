@@ -1,6 +1,7 @@
 ---
 date: '2007-01-07 18:35:41'
 layout: post
+comments: true
 slug: how-to-remove-spammers-from-wp_email_list
 status: publish
 title: How to remove spammers from wp_email_list

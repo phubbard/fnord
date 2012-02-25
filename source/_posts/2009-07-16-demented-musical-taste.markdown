@@ -1,6 +1,7 @@
 ---
 date: '2009-07-16 07:53:43'
 layout: post
+comments: true
 slug: demented-musical-taste
 status: publish
 title: Demented musical taste

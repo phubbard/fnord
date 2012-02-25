@@ -1,6 +1,7 @@
 ---
 date: '2008-03-26 10:22:10'
 layout: post
+comments: true
 slug: fnord-will-be-hosed-for-a-bit-sorry
 status: publish
 title: Fnord will be hosed for a bit. Sorry.

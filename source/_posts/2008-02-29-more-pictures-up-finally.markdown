@@ -1,6 +1,7 @@
 ---
 date: '2008-02-29 14:03:06'
 layout: post
+comments: true
 slug: more-pictures-up-finally
 status: publish
 title: More pictures up finally

@@ -1,6 +1,7 @@
 ---
 date: '2007-01-27 14:46:36'
 layout: post
+comments: true
 slug: free-pedometer-from-pfizer
 status: publish
 title: Free pedometer from Pfizer

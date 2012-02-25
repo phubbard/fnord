@@ -1,6 +1,7 @@
 ---
 date: '2006-11-28 16:49:12'
 layout: post
+comments: true
 slug: local-water-pollution-globalization-and-health-in-general
 status: publish
 title: Local water pollution, globalization and health in general.

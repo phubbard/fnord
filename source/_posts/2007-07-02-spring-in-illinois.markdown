@@ -1,6 +1,7 @@
 ---
 date: '2007-07-02 10:29:35'
 layout: post
+comments: true
 slug: spring-in-illinois
 status: publish
 title: Spring in Illinois!

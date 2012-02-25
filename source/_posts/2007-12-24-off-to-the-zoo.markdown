@@ -1,6 +1,7 @@
 ---
 date: '2007-12-24 17:53:13'
 layout: post
+comments: true
 slug: off-to-the-zoo
 status: publish
 title: Off to the zoo

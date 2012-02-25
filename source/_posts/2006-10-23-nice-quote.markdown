@@ -1,6 +1,7 @@
 ---
 date: '2006-10-23 09:38:03'
 layout: post
+comments: true
 slug: nice-quote
 status: publish
 title: Nice quote

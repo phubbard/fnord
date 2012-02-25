@@ -1,6 +1,7 @@
 ---
 date: '2008-06-10 11:18:21'
 layout: post
+comments: true
 slug: costa-rica-pictures-posted
 status: publish
 title: Costa Rica pictures posted

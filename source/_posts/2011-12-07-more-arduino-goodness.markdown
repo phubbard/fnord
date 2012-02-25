@@ -1,6 +1,7 @@
 ---
 date: '2011-12-07 14:48:26'
 layout: post
+comments: true
 slug: more-arduino-goodness
 status: publish
 title: More Arduino goodness

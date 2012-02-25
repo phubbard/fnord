@@ -1,6 +1,7 @@
 ---
 date: '2006-03-10 15:00:55'
 layout: post
+comments: true
 slug: developing-code-for-the-blackberry
 status: publish
 title: Developing code for the blackberry

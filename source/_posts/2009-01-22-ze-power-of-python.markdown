@@ -1,6 +1,7 @@
 ---
 date: '2009-01-22 10:07:12'
 layout: post
+comments: true
 slug: ze-power-of-python
 status: publish
 title: Ze power of Python

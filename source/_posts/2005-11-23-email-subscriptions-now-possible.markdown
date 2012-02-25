@@ -1,6 +1,7 @@
 ---
 date: '2005-11-23 14:46:12'
 layout: post
+comments: true
 slug: email-subscriptions-now-possible
 status: publish
 title: Email subscriptions now possible.

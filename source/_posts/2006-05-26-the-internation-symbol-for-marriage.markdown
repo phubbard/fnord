@@ -1,6 +1,7 @@
 ---
 date: '2006-05-26 10:09:58'
 layout: post
+comments: true
 slug: the-internation-symbol-for-marriage
 status: publish
 title: The international sign for marriage

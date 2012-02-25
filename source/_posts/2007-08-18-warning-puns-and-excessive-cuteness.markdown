@@ -1,6 +1,7 @@
 ---
 date: '2007-08-18 11:35:27'
 layout: post
+comments: true
 slug: warning-puns-and-excessive-cuteness
 status: publish
 title: 'Warning: puns and excessive cuteness'

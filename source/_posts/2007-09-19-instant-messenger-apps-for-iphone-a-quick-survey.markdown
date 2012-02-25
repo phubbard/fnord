@@ -1,6 +1,7 @@
 ---
 date: '2007-09-19 15:21:41'
 layout: post
+comments: true
 slug: instant-messenger-apps-for-iphone-a-quick-survey
 status: publish
 title: Instant messenger apps for iPhone, a quick survey

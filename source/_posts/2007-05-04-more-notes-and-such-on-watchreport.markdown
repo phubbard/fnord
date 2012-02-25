@@ -1,6 +1,7 @@
 ---
 date: '2007-05-04 14:00:50'
 layout: post
+comments: true
 slug: more-notes-and-such-on-watchreport
 status: publish
 title: More notes and such on WatchReport...

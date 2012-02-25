@@ -1,6 +1,7 @@
 ---
 date: '2008-05-09 18:10:28'
 layout: post
+comments: true
 slug: things-you-dont-want-from-a-conference
 status: publish
 title: Things you *don't* want from a conference

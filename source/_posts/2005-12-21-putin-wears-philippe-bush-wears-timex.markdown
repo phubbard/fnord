@@ -1,6 +1,7 @@
 ---
 date: '2005-12-21 15:33:58'
 layout: post
+comments: true
 slug: putin-wears-philippe-bush-wears-timex
 status: publish
 title: Putin wears Philippe, Bush wears timex

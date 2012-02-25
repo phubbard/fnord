@@ -1,6 +1,7 @@
 ---
 date: '2006-05-04 20:19:30'
 layout: post
+comments: true
 slug: google-talk-for-blackberry-is-out
 status: publish
 title: Google Talk for blackberry is out

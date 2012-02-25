@@ -1,6 +1,7 @@
 ---
 date: '2006-09-12 13:45:27'
 layout: post
+comments: true
 slug: new-blackberry-is-finally-out
 status: publish
 title: New Blackberry is finally out

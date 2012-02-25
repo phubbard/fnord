@@ -1,6 +1,7 @@
 ---
 date: '2007-10-12 10:53:28'
 layout: post
+comments: true
 slug: one-more-cool-tile
 status: publish
 title: One more cool tile

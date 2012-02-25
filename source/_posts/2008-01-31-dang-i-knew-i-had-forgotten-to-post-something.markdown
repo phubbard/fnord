@@ -1,6 +1,7 @@
 ---
 date: '2008-01-31 21:17:33'
 layout: post
+comments: true
 slug: dang-i-knew-i-had-forgotten-to-post-something
 status: publish
 title: Dang, I knew I had forgotten to post something

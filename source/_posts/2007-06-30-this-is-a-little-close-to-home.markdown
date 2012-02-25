@@ -1,6 +1,7 @@
 ---
 date: '2007-06-30 14:28:05'
 layout: post
+comments: true
 slug: this-is-a-little-close-to-home
 status: publish
 title: This is a little close to home

@@ -1,6 +1,7 @@
 ---
 date: '2008-05-01 12:27:32'
 layout: post
+comments: true
 slug: secure-websurfing-via-ssh-and-socks
 status: publish
 title: Secure websurfing via SSH and SOCKS

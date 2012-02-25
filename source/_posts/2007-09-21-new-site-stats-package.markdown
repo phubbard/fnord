@@ -1,6 +1,7 @@
 ---
 date: '2007-09-21 22:55:42'
 layout: post
+comments: true
 slug: new-site-stats-package
 status: publish
 title: New site stats package

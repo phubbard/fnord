@@ -1,6 +1,7 @@
 ---
 date: '2008-02-20 09:55:32'
 layout: post
+comments: true
 slug: random-anna-picture-for-yall
 status: publish
 title: Random Anna picture for y'all

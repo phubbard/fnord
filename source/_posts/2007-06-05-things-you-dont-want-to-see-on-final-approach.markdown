@@ -1,6 +1,7 @@
 ---
 date: '2007-06-05 15:25:24'
 layout: post
+comments: true
 slug: things-you-dont-want-to-see-on-final-approach
 status: publish
 title: Things you don't want to see on final approach...

@@ -1,6 +1,7 @@
 ---
 date: '2006-08-11 09:04:49'
 layout: post
+comments: true
 slug: '5150'
 status: publish
 title: '5150'

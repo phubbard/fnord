@@ -1,6 +1,7 @@
 ---
 date: '2008-06-26 10:51:58'
 layout: post
+comments: true
 slug: fusecal-a-useful-solution-to-an-urban-traffic-problem
 status: publish
 title: FuseCal, a useful solution to an urban traffic problem

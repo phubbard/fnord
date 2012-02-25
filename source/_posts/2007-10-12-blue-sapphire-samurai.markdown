@@ -1,6 +1,7 @@
 ---
 date: '2007-10-12 12:01:57'
 layout: post
+comments: true
 slug: blue-sapphire-samurai
 status: publish
 title: Blue sapphire Samurai

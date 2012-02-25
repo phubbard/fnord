@@ -1,6 +1,7 @@
 ---
 date: '2007-10-14 10:26:04'
 layout: post
+comments: true
 slug: more-richardson
 status: publish
 title: More Richardson

@@ -1,6 +1,7 @@
 ---
 date: '2006-04-21 07:57:27'
 layout: post
+comments: true
 slug: 8700-is-out-on-t-mobile
 status: publish
 title: 8700 is out on T-Mobile

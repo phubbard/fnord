@@ -1,6 +1,7 @@
 ---
 date: '2005-12-23 12:20:58'
 layout: post
+comments: true
 slug: paul-tries-pocketwatches
 status: publish
 title: Paul tries pocketwatches

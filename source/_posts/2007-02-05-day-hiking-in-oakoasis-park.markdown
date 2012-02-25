@@ -1,6 +1,7 @@
 ---
 date: '2007-02-05 11:03:17'
 layout: post
+comments: true
 slug: day-hiking-in-oakoasis-park
 status: publish
 title: Day hiking in Oakoasis Park

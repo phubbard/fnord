@@ -1,6 +1,7 @@
 ---
 date: '2009-07-29 08:01:21'
 layout: post
+comments: true
 slug: review-of-the-halios-holotype-dive-watch
 status: publish
 title: Review of the Halios Holotype dive watch

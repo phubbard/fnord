@@ -1,6 +1,7 @@
 ---
 date: '2005-06-13 13:27:31'
 layout: post
+comments: true
 slug: wordpress-creation
 status: publish
 title: WordPress creation

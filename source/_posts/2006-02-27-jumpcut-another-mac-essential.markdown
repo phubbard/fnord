@@ -1,6 +1,7 @@
 ---
 date: '2006-02-27 11:02:35'
 layout: post
+comments: true
 slug: jumpcut-another-mac-essential
 status: publish
 title: Jumpcut, another mac essential

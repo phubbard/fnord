@@ -1,6 +1,7 @@
 ---
 date: '2006-02-24 15:57:21'
 layout: post
+comments: true
 slug: low-end-theory-45-cent-watches
 status: publish
 title: 'Low end theory: 45 cent watches'

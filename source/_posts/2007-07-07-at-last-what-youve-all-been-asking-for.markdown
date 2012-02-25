@@ -1,6 +1,7 @@
 ---
 date: '2007-07-07 15:45:20'
 layout: post
+comments: true
 slug: at-last-what-youve-all-been-asking-for
 status: publish
 title: At last, what you've all been asking for...

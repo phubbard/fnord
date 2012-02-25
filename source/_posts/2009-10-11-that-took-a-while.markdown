@@ -1,6 +1,7 @@
 ---
 date: '2009-10-11 21:16:30'
 layout: post
+comments: true
 slug: that-took-a-while
 status: publish
 title: That took a while

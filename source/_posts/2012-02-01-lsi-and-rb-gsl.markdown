@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "LSI and rb-gsl"
 date: 2012-02-01 16:19
 comments: true

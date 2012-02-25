@@ -1,6 +1,7 @@
 ---
 date: '2008-11-05 10:33:13'
 layout: post
+comments: true
 slug: do-you-have-too-much-time-on-your-hands
 status: publish
 title: Do you have too much time on your hands?

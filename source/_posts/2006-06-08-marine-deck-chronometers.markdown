@@ -1,6 +1,7 @@
 ---
 date: '2006-06-08 16:06:09'
 layout: post
+comments: true
 slug: marine-deck-chronometers
 status: publish
 title: Marine deck chronometers

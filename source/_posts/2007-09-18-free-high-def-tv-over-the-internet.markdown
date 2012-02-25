@@ -1,6 +1,7 @@
 ---
 date: '2007-09-18 14:19:55'
 layout: post
+comments: true
 slug: free-high-def-tv-over-the-internet
 status: publish
 title: Free high-def TV over the internet

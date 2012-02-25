@@ -1,6 +1,7 @@
 ---
 date: '2008-04-04 09:51:49'
 layout: post
+comments: true
 slug: more-on-python-and-generosity
 status: publish
 title: More on Python and generosity

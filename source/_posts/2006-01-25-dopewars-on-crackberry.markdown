@@ -1,6 +1,7 @@
 ---
 date: '2006-01-25 11:24:12'
 layout: post
+comments: true
 slug: dopewars-on-crackberry
 status: publish
 title: DopeWars on Crackberry!

@@ -1,6 +1,7 @@
 ---
 date: '2005-11-30 16:44:24'
 layout: post
+comments: true
 slug: blackberry-categories-blow-chunks
 status: publish
 title: Blackberry categories blow chunks.

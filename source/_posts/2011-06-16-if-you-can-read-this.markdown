@@ -1,6 +1,7 @@
 ---
 date: '2011-06-16 16:21:49'
 layout: post
+comments: true
 slug: if-you-can-read-this
 status: publish
 title: If you can read this...

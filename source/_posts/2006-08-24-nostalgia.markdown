@@ -1,6 +1,7 @@
 ---
 date: '2006-08-24 10:19:41'
 layout: post
+comments: true
 slug: nostalgia
 status: publish
 title: Nostalgia

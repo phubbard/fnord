@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Migrating away from Google"
 date: 2012-02-24 13:30
 comments: true

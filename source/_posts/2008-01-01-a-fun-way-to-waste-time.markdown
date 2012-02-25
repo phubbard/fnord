@@ -1,6 +1,7 @@
 ---
 date: '2008-01-01 22:25:13'
 layout: post
+comments: true
 slug: a-fun-way-to-waste-time
 status: publish
 title: A fun way to waste time

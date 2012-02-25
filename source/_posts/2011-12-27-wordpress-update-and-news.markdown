@@ -1,6 +1,7 @@
 ---
 date: '2011-12-27 12:46:29'
 layout: post
+comments: true
 slug: wordpress-update-and-news
 status: publish
 title: Wordpress update and news

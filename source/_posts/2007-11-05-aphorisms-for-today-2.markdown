@@ -1,6 +1,7 @@
 ---
 date: '2007-11-05 11:15:56'
 layout: post
+comments: true
 slug: aphorisms-for-today-2
 status: publish
 title: Aphorisms for today

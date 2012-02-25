@@ -1,6 +1,7 @@
 ---
 date: '2006-09-24 22:16:32'
 layout: post
+comments: true
 slug: in-the-series-of-old-embarassing-pictures
 status: publish
 title: In the series of old embarassing pictures

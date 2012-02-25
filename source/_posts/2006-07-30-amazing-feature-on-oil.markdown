@@ -1,6 +1,7 @@
 ---
 date: '2006-07-30 12:25:07'
 layout: post
+comments: true
 slug: amazing-feature-on-oil
 status: publish
 title: Amazing feature on oil

@@ -1,6 +1,7 @@
 ---
 date: '2008-05-08 15:25:11'
 layout: post
+comments: true
 slug: i-cant-help-but-think
 status: publish
 title: I can't help but think...

@@ -1,6 +1,7 @@
 ---
 date: '2007-05-16 09:52:47'
 layout: post
+comments: true
 slug: a-much-better-tool-for-pdfs
 status: publish
 title: A much better tool for PDFs

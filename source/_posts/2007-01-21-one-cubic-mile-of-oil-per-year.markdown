@@ -1,6 +1,7 @@
 ---
 date: '2007-01-21 15:30:49'
 layout: post
+comments: true
 slug: one-cubic-mile-of-oil-per-year
 status: publish
 title: One cubic mile of oil per year

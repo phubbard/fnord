@@ -1,6 +1,7 @@
 ---
 date: '2009-02-08 08:59:06'
 layout: post
+comments: true
 slug: concrete-perlage
 status: publish
 title: Concrete perlage

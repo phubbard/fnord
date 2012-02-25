@@ -1,6 +1,7 @@
 ---
 date: '2008-05-15 18:18:17'
 layout: post
+comments: true
 slug: a-post-to-move-you
 status: publish
 title: A post to move you

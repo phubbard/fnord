@@ -1,6 +1,7 @@
 ---
 date: '2006-10-19 09:09:00'
 layout: post
+comments: true
 slug: tea-harvest-picture-on-flickr
 status: publish
 title: Tea harvest picture on Flickr

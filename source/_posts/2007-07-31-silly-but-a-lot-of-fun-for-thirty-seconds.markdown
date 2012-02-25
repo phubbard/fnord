@@ -1,6 +1,7 @@
 ---
 date: '2007-07-31 15:07:17'
 layout: post
+comments: true
 slug: silly-but-a-lot-of-fun-for-thirty-seconds
 status: publish
 title: Silly but a lot of fun for thirty seconds

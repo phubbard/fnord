@@ -1,6 +1,7 @@
 ---
 date: '2006-02-11 20:03:13'
 layout: post
+comments: true
 slug: review-of-the-alpha-gmt
 status: publish
 title: Review of the Alpha GMT

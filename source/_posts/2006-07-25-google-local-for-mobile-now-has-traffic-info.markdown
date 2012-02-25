@@ -1,6 +1,7 @@
 ---
 date: '2006-07-25 10:39:05'
 layout: post
+comments: true
 slug: google-local-for-mobile-now-has-traffic-info
 status: publish
 title: Google local for mobile now has traffic info!

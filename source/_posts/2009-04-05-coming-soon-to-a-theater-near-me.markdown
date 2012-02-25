@@ -1,6 +1,7 @@
 ---
 date: '2009-04-05 11:23:33'
 layout: post
+comments: true
 slug: coming-soon-to-a-theater-near-me
 status: publish
 title: Coming soon to a theater near me

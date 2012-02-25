@@ -1,6 +1,7 @@
 ---
 date: '2009-06-23 09:13:21'
 layout: post
+comments: true
 slug: arduino-datalogger-is-up
 status: publish
 title: Arduino datalogger is up!

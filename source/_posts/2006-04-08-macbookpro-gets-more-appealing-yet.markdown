@@ -1,6 +1,7 @@
 ---
 date: '2006-04-08 20:22:40'
 layout: post
+comments: true
 slug: macbookpro-gets-more-appealing-yet
 status: publish
 title: MacBookPro gets more appealing yet

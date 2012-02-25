@@ -1,6 +1,7 @@
 ---
 date: '2009-02-27 11:05:32'
 layout: post
+comments: true
 slug: found-an-old-picture-today
 status: publish
 title: Found an old picture today

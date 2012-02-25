@@ -1,6 +1,7 @@
 ---
 date: '2007-08-29 08:11:02'
 layout: post
+comments: true
 slug: down-again-sort-of
 status: publish
 title: Down again. Sort of.

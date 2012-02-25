@@ -1,6 +1,7 @@
 ---
 date: '2006-12-05 22:12:32'
 layout: post
+comments: true
 slug: marinemaster
 status: publish
 title: Marinemaster....

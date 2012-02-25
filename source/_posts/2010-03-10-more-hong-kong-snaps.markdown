@@ -1,6 +1,7 @@
 ---
 date: '2010-03-10 09:48:37'
 layout: post
+comments: true
 slug: more-hong-kong-snaps
 status: publish
 title: More Hong Kong snaps

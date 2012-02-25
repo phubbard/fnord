@@ -1,6 +1,7 @@
 ---
 date: '2006-11-06 11:06:30'
 layout: post
+comments: true
 slug: cold-drip-coffee-maker
 status: publish
 title: Cold drip coffee maker?

@@ -1,6 +1,7 @@
 ---
 date: '2007-04-18 09:29:50'
 layout: post
+comments: true
 slug: the-kursk-comes-home
 status: publish
 title: The Kursk comes home

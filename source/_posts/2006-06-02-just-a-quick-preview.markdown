@@ -1,6 +1,7 @@
 ---
 date: '2006-06-02 21:18:42'
 layout: post
+comments: true
 slug: just-a-quick-preview
 status: publish
 title: Just a quick preview

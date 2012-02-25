@@ -1,6 +1,7 @@
 ---
 date: '2007-09-16 10:05:43'
 layout: post
+comments: true
 slug: marxism-inequality-or-best-fit
 status: publish
 title: Marxism, inequality, or best-fit?

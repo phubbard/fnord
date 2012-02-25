@@ -1,6 +1,7 @@
 ---
 date: '2008-08-15 10:15:08'
 layout: post
+comments: true
 slug: printers-progress
 status: publish
 title: Printer's Progress

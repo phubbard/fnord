@@ -1,6 +1,7 @@
 ---
 date: '2006-01-11 22:58:58'
 layout: post
+comments: true
 slug: wmv-files-in-quicktime-finally
 status: publish
 title: WMV files in quicktime, finally

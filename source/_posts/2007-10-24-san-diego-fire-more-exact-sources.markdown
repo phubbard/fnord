@@ -1,6 +1,7 @@
 ---
 date: '2007-10-24 10:34:57'
 layout: post
+comments: true
 slug: san-diego-fire-more-exact-sources
 status: publish
 title: San Diego fire - more exact sources

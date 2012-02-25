@@ -1,6 +1,7 @@
 ---
 date: '2010-06-04 14:09:44'
 layout: post
+comments: true
 slug: lots-and-lots-and-lots-of-pixels-on-a-macbook
 status: publish
 title: Lots and lots and lots of pixels on a macbook

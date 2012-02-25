@@ -1,6 +1,7 @@
 ---
 date: '2007-09-17 09:01:26'
 layout: post
+comments: true
 slug: and-you-thought-that-flying-coach-was-tough
 status: publish
 title: And you thought that flying coach was tough

@@ -1,6 +1,7 @@
 ---
 date: '2007-10-29 13:49:39'
 layout: post
+comments: true
 slug: another-day-at-the-office-with-toys
 status: publish
 title: Another day at the office, with toys

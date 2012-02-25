@@ -1,6 +1,7 @@
 ---
 date: '2009-03-07 20:30:36'
 layout: post
+comments: true
 slug: a-new-lease-on-life-for-the-g-p-gyromatic
 status: publish
 title: A new lease on life for the G-P Gyromatic

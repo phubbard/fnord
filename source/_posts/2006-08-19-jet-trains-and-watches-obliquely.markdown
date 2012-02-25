@@ -1,6 +1,7 @@
 ---
 date: '2006-08-19 21:49:46'
 layout: post
+comments: true
 slug: jet-trains-and-watches-obliquely
 status: publish
 title: Jet trains! (and watches. Obliquely.)

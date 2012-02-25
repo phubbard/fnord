@@ -1,6 +1,7 @@
 ---
 date: '2007-10-24 13:43:23'
 layout: post
+comments: true
 slug: pictures-from-qualcomm-rancho-bernardo-and-more
 status: publish
 title: Pictures from Qualcomm, Rancho Bernardo and more

@@ -1,6 +1,7 @@
 ---
 date: '2006-08-11 13:49:40'
 layout: post
+comments: true
 slug: christian-madrassas
 status: publish
 title: Christian Madrassas

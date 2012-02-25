@@ -1,6 +1,7 @@
 ---
 date: '2008-03-01 10:51:21'
 layout: post
+comments: true
 slug: breakfast-out-with-deb
 status: publish
 title: Breakfast out with Deb

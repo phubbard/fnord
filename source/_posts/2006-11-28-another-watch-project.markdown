@@ -1,6 +1,7 @@
 ---
 date: '2006-11-28 21:49:34'
 layout: post
+comments: true
 slug: another-watch-project
 status: publish
 title: Another watch project

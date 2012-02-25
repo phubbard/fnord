@@ -1,6 +1,7 @@
 ---
 date: '2008-06-23 14:20:17'
 layout: post
+comments: true
 slug: well-thats-damned-clever
 status: publish
 title: Well, that's damned clever

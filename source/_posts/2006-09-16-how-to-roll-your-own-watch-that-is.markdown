@@ -1,6 +1,7 @@
 ---
 date: '2006-09-16 21:51:47'
 layout: post
+comments: true
 slug: how-to-roll-your-own-watch-that-is
 status: publish
 title: How to roll your own (watch, that is)

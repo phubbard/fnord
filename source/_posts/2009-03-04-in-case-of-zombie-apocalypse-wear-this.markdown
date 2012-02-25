@@ -1,6 +1,7 @@
 ---
 date: '2009-03-04 13:13:59'
 layout: post
+comments: true
 slug: in-case-of-zombie-apocalypse-wear-this
 status: publish
 title: In case of zombie apocalypse, wear this

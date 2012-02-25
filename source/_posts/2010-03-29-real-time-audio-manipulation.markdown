@@ -1,6 +1,7 @@
 ---
 date: '2010-03-29 09:08:40'
 layout: post
+comments: true
 slug: real-time-audio-manipulation
 status: publish
 title: Real-time audio manipulation

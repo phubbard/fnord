@@ -1,6 +1,7 @@
 ---
 date: '2007-10-09 20:18:28'
 layout: post
+comments: true
 slug: distributed-systems-news-and-publications
 status: publish
 title: Distributed systems news and publications

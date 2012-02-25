@@ -1,6 +1,7 @@
 ---
 date: '2007-02-25 16:14:52'
 layout: post
+comments: true
 slug: group-organization-sites
 status: publish
 title: Group organization sites

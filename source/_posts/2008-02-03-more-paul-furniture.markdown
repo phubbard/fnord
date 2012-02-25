@@ -1,6 +1,7 @@
 ---
 date: '2008-02-03 21:49:34'
 layout: post
+comments: true
 slug: more-paul-furniture
 status: publish
 title: More Paul furniture

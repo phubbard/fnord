@@ -1,6 +1,7 @@
 ---
 date: '2010-03-18 09:25:19'
 layout: post
+comments: true
 slug: site-outages-routing-failing
 status: publish
 title: Site outages - routing failing

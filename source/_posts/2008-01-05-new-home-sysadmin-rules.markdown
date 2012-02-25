@@ -1,6 +1,7 @@
 ---
 date: '2008-01-05 21:28:00'
 layout: post
+comments: true
 slug: new-home-sysadmin-rules
 status: publish
 title: New home sysadmin rules

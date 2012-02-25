@@ -1,6 +1,7 @@
 ---
 date: '2006-08-02 21:34:42'
 layout: post
+comments: true
 slug: foreach-syntax-for-zsh
 status: publish
 title: Foreach syntax for zsh

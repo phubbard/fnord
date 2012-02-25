@@ -1,6 +1,7 @@
 ---
 date: '2010-10-01 08:31:17'
 layout: post
+comments: true
 slug: killer-new-mashup-tune-and-video
 status: publish
 title: Killer new mashup tune (and video)

@@ -1,6 +1,7 @@
 ---
 date: '2011-06-06 14:33:12'
 layout: post
+comments: true
 slug: new-desk-the-hack-zone
 status: publish
 title: 'New desk: the hack zone'

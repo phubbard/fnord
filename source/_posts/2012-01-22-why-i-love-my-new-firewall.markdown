@@ -1,6 +1,7 @@
 ---
 date: '2012-01-22 15:57:16'
 layout: post
+comments: true
 slug: why-i-love-my-new-firewall
 status: publish
 title: Why I love my new firewall

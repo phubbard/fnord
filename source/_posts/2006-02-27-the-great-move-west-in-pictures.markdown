@@ -1,6 +1,7 @@
 ---
 date: '2006-02-27 09:56:17'
 layout: post
+comments: true
 slug: the-great-move-west-in-pictures
 status: publish
 title: The Great Move West, in pictures

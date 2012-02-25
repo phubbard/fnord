@@ -1,6 +1,7 @@
 ---
 date: '2008-03-30 10:49:56'
 layout: post
+comments: true
 slug: market-ing
 status: publish
 title: Market-ing

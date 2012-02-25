@@ -1,6 +1,7 @@
 ---
 date: '2009-04-17 19:04:38'
 layout: post
+comments: true
 slug: culture-commentary-and-literate-references-in-car-reviews
 status: publish
 title: Culture commentary and literate references... in car reviews

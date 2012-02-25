@@ -1,6 +1,7 @@
 ---
 date: '2007-08-06 11:03:57'
 layout: post
+comments: true
 slug: anticipation
 status: publish
 title: Anticipation...

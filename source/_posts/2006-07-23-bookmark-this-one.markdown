@@ -1,6 +1,7 @@
 ---
 date: '2006-07-23 21:20:25'
 layout: post
+comments: true
 slug: bookmark-this-one
 status: publish
 title: Bookmark this one

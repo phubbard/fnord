@@ -1,6 +1,7 @@
 ---
 date: '2011-12-29 11:59:06'
 layout: post
+comments: true
 slug: mean-machine
 status: publish
 title: Mean machine

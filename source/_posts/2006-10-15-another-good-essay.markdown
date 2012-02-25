@@ -1,6 +1,7 @@
 ---
 date: '2006-10-15 20:02:38'
 layout: post
+comments: true
 slug: another-good-essay
 status: publish
 title: Another good essay

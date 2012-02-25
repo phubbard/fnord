@@ -1,6 +1,7 @@
 ---
 date: '2006-12-15 09:07:30'
 layout: post
+comments: true
 slug: uber-sexy-laptop-case
 status: publish
 title: Uber-sexy laptop case

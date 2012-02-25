@@ -1,6 +1,7 @@
 ---
 date: '2008-04-04 08:49:52'
 layout: post
+comments: true
 slug: the-foot-the-baby-and-the-cat
 status: publish
 title: The foot, the baby and the cat

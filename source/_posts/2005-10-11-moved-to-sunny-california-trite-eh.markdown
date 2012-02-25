@@ -1,6 +1,7 @@
 ---
 date: '2005-10-11 12:21:25'
 layout: post
+comments: true
 slug: moved-to-sunny-california-trite-eh
 status: publish
 title: Moved to sunny California. Trite, eh?

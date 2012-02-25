@@ -1,6 +1,7 @@
 ---
 date: '2006-08-07 12:17:32'
 layout: post
+comments: true
 slug: more-reasons-not-to-be-a-scientist
 status: publish
 title: More reasons not to be a scientist

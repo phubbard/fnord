@@ -1,6 +1,7 @@
 ---
 date: '2007-09-12 12:39:24'
 layout: post
+comments: true
 slug: buy-versus-rent
 status: publish
 title: Buy versus rent?

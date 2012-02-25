@@ -1,6 +1,7 @@
 ---
 date: '2007-10-09 20:26:36'
 layout: post
+comments: true
 slug: aiiiiirwolf
 status: publish
 title: Aiiiiirwolf

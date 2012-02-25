@@ -1,6 +1,7 @@
 ---
 date: '2009-02-18 16:09:23'
 layout: post
+comments: true
 slug: how-to-diagnose-insanity
 status: publish
 title: How to diagnose insanity

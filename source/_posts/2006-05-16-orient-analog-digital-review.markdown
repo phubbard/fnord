@@ -1,6 +1,7 @@
 ---
 date: '2006-05-16 11:02:55'
 layout: post
+comments: true
 slug: orient-analog-digital-review
 status: publish
 title: Orient analog-digital review

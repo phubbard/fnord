@@ -1,6 +1,7 @@
 ---
 date: '2007-06-21 18:36:13'
 layout: post
+comments: true
 slug: good-essay-on-humor-and-religon
 status: publish
 title: Good essay on humor and religon

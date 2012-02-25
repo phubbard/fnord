@@ -1,6 +1,7 @@
 ---
 date: '2006-03-13 15:33:01'
 layout: post
+comments: true
 slug: while-i-agree-that-ajax-is-cool-and-all
 status: publish
 title: While I agree that Ajax is cool and all...

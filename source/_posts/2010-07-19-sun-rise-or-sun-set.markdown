@@ -1,6 +1,7 @@
 ---
 date: '2010-07-19 09:49:37'
 layout: post
+comments: true
 slug: sun-rise-or-sun-set
 status: publish
 title: Sun rise or sun set?

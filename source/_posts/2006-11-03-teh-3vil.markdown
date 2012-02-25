@@ -1,6 +1,7 @@
 ---
 date: '2006-11-03 14:49:41'
 layout: post
+comments: true
 slug: teh-3vil
 status: publish
 title: Teh 3vil!

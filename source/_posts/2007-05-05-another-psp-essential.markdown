@@ -1,6 +1,7 @@
 ---
 date: '2007-05-05 20:24:56'
 layout: post
+comments: true
 slug: another-psp-essential
 status: publish
 title: Another PSP essential

@@ -1,6 +1,7 @@
 ---
 date: '2006-07-08 12:37:59'
 layout: post
+comments: true
 slug: its-a-small-world
 status: publish
 title: It's a small world

@@ -1,6 +1,7 @@
 ---
 date: '2006-09-12 17:54:36'
 layout: post
+comments: true
 slug: nice-ny-times-article-on-espresso
 status: publish
 title: Nice NY Times article on espresso

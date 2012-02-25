@@ -1,6 +1,7 @@
 ---
 date: '2007-10-12 10:48:47'
 layout: post
+comments: true
 slug: better-ibook-replacement-batteries
 status: publish
 title: Better iBook replacement batteries

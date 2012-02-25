@@ -1,6 +1,7 @@
 ---
 date: '2007-09-06 21:25:09'
 layout: post
+comments: true
 slug: mirror-images
 status: publish
 title: Mirror images

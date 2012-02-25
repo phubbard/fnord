@@ -1,6 +1,7 @@
 ---
 date: '2005-11-09 19:04:29'
 layout: post
+comments: true
 slug: more-on-the-springdrive-movement
 status: publish
 title: More on the SpringDrive movement

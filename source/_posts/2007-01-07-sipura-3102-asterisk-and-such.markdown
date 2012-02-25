@@ -1,6 +1,7 @@
 ---
 date: '2007-01-07 21:10:45'
 layout: post
+comments: true
 slug: sipura-3102-asterisk-and-such
 status: publish
 title: Sipura 3102, Asterisk and such

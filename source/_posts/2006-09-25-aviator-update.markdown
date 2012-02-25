@@ -1,6 +1,7 @@
 ---
 date: '2006-09-25 20:48:12'
 layout: post
+comments: true
 slug: aviator-update
 status: publish
 title: Aviator update

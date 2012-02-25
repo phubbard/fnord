@@ -1,6 +1,7 @@
 ---
 date: '2008-02-19 11:30:45'
 layout: post
+comments: true
 slug: av-guides-to-various-cities
 status: publish
 title: A/V guides to various cities

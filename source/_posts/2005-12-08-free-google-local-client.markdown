@@ -1,6 +1,7 @@
 ---
 date: '2005-12-08 17:47:49'
 layout: post
+comments: true
 slug: free-google-local-client
 status: publish
 title: Free google local client.

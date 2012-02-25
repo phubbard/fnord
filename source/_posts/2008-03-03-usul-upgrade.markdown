@@ -1,6 +1,7 @@
 ---
 date: '2008-03-03 18:31:41'
 layout: post
+comments: true
 slug: usul-upgrade
 status: publish
 title: Usul upgrade

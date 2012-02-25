@@ -1,6 +1,7 @@
 ---
 date: '2008-01-29 13:43:43'
 layout: post
+comments: true
 slug: social-commentary-in-hillcrest
 status: publish
 title: Social commentary in Hillcrest

@@ -1,6 +1,7 @@
 ---
 date: '2008-02-16 13:49:36'
 layout: post
+comments: true
 slug: which-way-is-up
 status: publish
 title: Which way is up?

@@ -1,6 +1,7 @@
 ---
 date: '2008-02-15 07:55:20'
 layout: post
+comments: true
 slug: close-to-home-literally
 status: publish
 title: Close to home, literally

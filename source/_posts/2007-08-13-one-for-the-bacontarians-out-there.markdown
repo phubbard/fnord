@@ -1,6 +1,7 @@
 ---
 date: '2007-08-13 14:37:46'
 layout: post
+comments: true
 slug: one-for-the-bacontarians-out-there
 status: publish
 title: One for the bacontarians out there

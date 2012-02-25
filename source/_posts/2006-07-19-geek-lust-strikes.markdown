@@ -1,6 +1,7 @@
 ---
 date: '2006-07-19 10:24:14'
 layout: post
+comments: true
 slug: geek-lust-strikes
 status: publish
 title: Geek lust strikes

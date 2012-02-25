@@ -1,6 +1,7 @@
 ---
 date: '2008-06-28 21:23:58'
 layout: post
+comments: true
 slug: a-personal-milestone-achieved
 status: publish
 title: A personal milestone achieved

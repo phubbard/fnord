@@ -1,6 +1,7 @@
 ---
 date: '2006-07-08 12:48:49'
 layout: post
+comments: true
 slug: itunes-frustrations-part-n
 status: publish
 title: iTunes frustrations, part N

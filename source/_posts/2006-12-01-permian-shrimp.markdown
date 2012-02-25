@@ -1,6 +1,7 @@
 ---
 date: '2006-12-01 10:14:01'
 layout: post
+comments: true
 slug: permian-shrimp
 status: publish
 title: Permian shrimp

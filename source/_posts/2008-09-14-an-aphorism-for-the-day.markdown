@@ -1,6 +1,7 @@
 ---
 date: '2008-09-14 13:31:56'
 layout: post
+comments: true
 slug: an-aphorism-for-the-day
 status: publish
 title: An aphorism for the day

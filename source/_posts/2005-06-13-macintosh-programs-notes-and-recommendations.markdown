@@ -1,6 +1,7 @@
 ---
 date: '2005-06-13 13:37:29'
 layout: post
+comments: true
 slug: macintosh-programs-notes-and-recommendations
 status: publish
 title: Macintosh stuff - notes and recommendations

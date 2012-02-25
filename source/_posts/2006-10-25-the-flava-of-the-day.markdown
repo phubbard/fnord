@@ -1,6 +1,7 @@
 ---
 date: '2006-10-25 19:46:27'
 layout: post
+comments: true
 slug: the-flava-of-the-day
 status: publish
 title: The flava of the day

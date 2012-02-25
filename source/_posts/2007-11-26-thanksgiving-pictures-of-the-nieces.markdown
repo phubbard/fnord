@@ -1,6 +1,7 @@
 ---
 date: '2007-11-26 18:51:21'
 layout: post
+comments: true
 slug: thanksgiving-pictures-of-the-nieces
 status: publish
 title: Thanksgiving pictures of the nieces

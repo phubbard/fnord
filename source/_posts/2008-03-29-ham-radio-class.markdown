@@ -1,6 +1,7 @@
 ---
 date: '2008-03-29 10:50:02'
 layout: post
+comments: true
 slug: ham-radio-class
 status: publish
 title: Ham radio class

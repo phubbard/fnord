@@ -1,6 +1,7 @@
 ---
 date: '2006-02-22 16:43:16'
 layout: post
+comments: true
 slug: on-a-personal-note
 status: publish
 title: On a personal note

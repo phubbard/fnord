@@ -1,6 +1,7 @@
 ---
 date: '2007-03-16 14:24:18'
 layout: post
+comments: true
 slug: and-plagiarism-too
 status: publish
 title: '...and plagiarism too'

@@ -1,6 +1,7 @@
 ---
 date: '2006-10-15 19:58:56'
 layout: post
+comments: true
 slug: damned-good-essay-on-starbucks
 status: publish
 title: Damned good essay on Starbucks

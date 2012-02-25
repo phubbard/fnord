@@ -1,6 +1,7 @@
 ---
 date: '2007-05-05 20:37:32'
 layout: post
+comments: true
 slug: spring-has-sprung
 status: publish
 title: Spring has sprung

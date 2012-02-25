@@ -1,6 +1,7 @@
 ---
 date: '2007-09-15 21:31:41'
 layout: post
+comments: true
 slug: bandwagons-timing-and-folly
 status: publish
 title: Bandwagons, timing and folly

@@ -1,6 +1,7 @@
 ---
 date: '2007-12-27 20:49:53'
 layout: post
+comments: true
 slug: dinner-time
 status: publish
 title: Dinner time!

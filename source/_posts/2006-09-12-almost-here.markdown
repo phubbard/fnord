@@ -1,6 +1,7 @@
 ---
 date: '2006-09-12 17:42:44'
 layout: post
+comments: true
 slug: almost-here
 status: publish
 title: Almost here!

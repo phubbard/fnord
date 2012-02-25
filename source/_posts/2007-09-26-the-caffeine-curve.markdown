@@ -1,6 +1,7 @@
 ---
 date: '2007-09-26 09:04:38'
 layout: post
+comments: true
 slug: the-caffeine-curve
 status: publish
 title: The caffeine curve

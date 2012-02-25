@@ -1,6 +1,7 @@
 ---
 date: '2008-03-10 09:43:48'
 layout: post
+comments: true
 slug: a-bit-of-humor-for-dr-chuck
 status: publish
 title: A bit of humor for Dr Chuck

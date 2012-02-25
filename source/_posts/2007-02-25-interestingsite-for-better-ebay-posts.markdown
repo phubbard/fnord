@@ -1,6 +1,7 @@
 ---
 date: '2007-02-25 16:23:47'
 layout: post
+comments: true
 slug: interestingsite-for-better-ebay-posts
 status: publish
 title: Interesting...site for better ebay posts

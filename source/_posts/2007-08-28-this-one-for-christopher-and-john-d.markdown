@@ -1,6 +1,7 @@
 ---
 date: '2007-08-28 10:43:22'
 layout: post
+comments: true
 slug: this-one-for-christopher-and-john-d
 status: publish
 title: This one for Christopher and John D

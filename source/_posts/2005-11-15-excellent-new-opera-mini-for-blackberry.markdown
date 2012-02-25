@@ -1,6 +1,7 @@
 ---
 date: '2005-11-15 12:24:38'
 layout: post
+comments: true
 slug: excellent-new-opera-mini-for-blackberry
 status: publish
 title: Excellent - new Opera Mini for blackberry

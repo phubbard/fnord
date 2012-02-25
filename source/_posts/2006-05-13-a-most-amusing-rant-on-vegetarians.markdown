@@ -1,6 +1,7 @@
 ---
 date: '2006-05-13 15:38:33'
 layout: post
+comments: true
 slug: a-most-amusing-rant-on-vegetarians
 status: publish
 title: A most amusing rant on vegetarians

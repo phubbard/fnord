@@ -1,6 +1,7 @@
 ---
 date: '2006-12-10 16:38:25'
 layout: post
+comments: true
 slug: gogol-bordello-and-primus
 status: publish
 title: Gogol Bordello and Primus

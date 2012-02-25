@@ -1,6 +1,7 @@
 ---
 date: '2007-05-31 22:13:04'
 layout: post
+comments: true
 slug: vpn-between-osx-and-linksys-rv042048
 status: publish
 title: VPN between OSX and Linksys RV042/048

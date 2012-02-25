@@ -1,6 +1,7 @@
 ---
 date: '2007-12-22 12:49:50'
 layout: post
+comments: true
 slug: reading-in-the-sun
 status: publish
 title: Reading in the sun

@@ -1,6 +1,7 @@
 ---
 date: '2007-09-26 14:51:25'
 layout: post
+comments: true
 slug: lunch-at-bacione
 status: publish
 title: Lunch at Bacione

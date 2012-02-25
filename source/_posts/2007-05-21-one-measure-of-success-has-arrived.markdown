@@ -1,6 +1,7 @@
 ---
 date: '2007-05-21 15:23:08'
 layout: post
+comments: true
 slug: one-measure-of-success-has-arrived
 status: publish
 title: One measure of success has arrived

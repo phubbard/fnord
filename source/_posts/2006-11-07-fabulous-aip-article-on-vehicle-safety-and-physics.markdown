@@ -1,6 +1,7 @@
 ---
 date: '2006-11-07 15:44:55'
 layout: post
+comments: true
 slug: fabulous-aip-article-on-vehicle-safety-and-physics
 status: publish
 title: Fabulous AIP article on vehicle safety and physics

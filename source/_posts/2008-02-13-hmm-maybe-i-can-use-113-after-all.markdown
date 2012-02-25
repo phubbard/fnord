@@ -1,6 +1,7 @@
 ---
 date: '2008-02-13 15:44:43'
 layout: post
+comments: true
 slug: hmm-maybe-i-can-use-113-after-all
 status: publish
 title: Hmm, maybe I can use 1.1.3 after all

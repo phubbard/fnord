@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Simple image uploads for Octopress"
 date: 2012-02-24 11:47
 comments: true

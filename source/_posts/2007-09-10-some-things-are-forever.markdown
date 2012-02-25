@@ -1,6 +1,7 @@
 ---
 date: '2007-09-10 11:04:00'
 layout: post
+comments: true
 slug: some-things-are-forever
 status: publish
 title: Some things are forever

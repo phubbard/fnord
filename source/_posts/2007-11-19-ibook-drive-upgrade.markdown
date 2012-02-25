@@ -1,6 +1,7 @@
 ---
 date: '2007-11-19 16:49:39'
 layout: post
+comments: true
 slug: ibook-drive-upgrade
 status: publish
 title: iBook drive upgrade

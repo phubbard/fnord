@@ -1,6 +1,7 @@
 ---
 date: '2006-01-06 23:32:47'
 layout: post
+comments: true
 slug: hitachi-wifi-voip-up-and-running
 status: publish
 title: Hitachi WiFi VoIP up and running!

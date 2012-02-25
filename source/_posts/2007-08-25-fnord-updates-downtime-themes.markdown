@@ -1,6 +1,7 @@
 ---
 date: '2007-08-25 10:37:14'
 layout: post
+comments: true
 slug: fnord-updates-downtime-themes
 status: publish
 title: Fnord updates - downtime, themes

@@ -1,6 +1,7 @@
 ---
 date: '2009-12-04 16:27:49'
 layout: post
+comments: true
 slug: watchotaku-com-is-live
 status: publish
 title: WatchOtaku.com is live!

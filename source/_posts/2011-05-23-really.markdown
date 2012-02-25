@@ -1,6 +1,7 @@
 ---
 date: '2011-05-23 15:12:35'
 layout: post
+comments: true
 slug: really
 status: publish
 title: Really?

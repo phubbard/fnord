@@ -1,6 +1,7 @@
 ---
 date: '2007-06-12 20:07:15'
 layout: post
+comments: true
 slug: '349'
 status: publish
 title: A change of pace

@@ -1,6 +1,7 @@
 ---
 date: '2006-03-16 13:55:03'
 layout: post
+comments: true
 slug: all-about-oxo
 status: publish
 title: All about Oxo

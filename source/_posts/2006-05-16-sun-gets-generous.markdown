@@ -1,6 +1,7 @@
 ---
 date: '2006-05-16 19:00:43'
 layout: post
+comments: true
 slug: sun-gets-generous
 status: publish
 title: Sun gets generous

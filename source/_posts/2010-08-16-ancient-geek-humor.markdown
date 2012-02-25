@@ -1,6 +1,7 @@
 ---
 date: '2010-08-16 13:47:56'
 layout: post
+comments: true
 slug: ancient-geek-humor
 status: publish
 title: Ancient geek humor

@@ -1,6 +1,7 @@
 ---
 date: '2006-07-08 13:26:49'
 layout: post
+comments: true
 slug: synergy-psp-video-encoding-and-xgrid
 status: publish
 title: Synergy, PSP, video encoding and Xgrid

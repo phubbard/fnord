@@ -1,6 +1,7 @@
 ---
 date: '2008-11-04 09:01:34'
 layout: post
+comments: true
 slug: how-to-define-ironic
 status: publish
 title: How to define 'ironic'

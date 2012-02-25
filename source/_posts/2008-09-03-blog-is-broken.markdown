@@ -1,6 +1,7 @@
 ---
 date: '2008-09-03 15:34:46'
 layout: post
+comments: true
 slug: blog-is-broken
 status: publish
 title: Blog Is Broken.

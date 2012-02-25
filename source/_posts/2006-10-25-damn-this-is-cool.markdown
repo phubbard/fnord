@@ -1,6 +1,7 @@
 ---
 date: '2006-10-25 21:08:52'
 layout: post
+comments: true
 slug: damn-this-is-cool
 status: publish
 title: Damn, this is cool

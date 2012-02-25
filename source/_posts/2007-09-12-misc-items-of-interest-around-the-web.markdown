@@ -1,6 +1,7 @@
 ---
 date: '2007-09-12 13:58:11'
 layout: post
+comments: true
 slug: misc-items-of-interest-around-the-web
 status: publish
 title: Misc items of interest around the web

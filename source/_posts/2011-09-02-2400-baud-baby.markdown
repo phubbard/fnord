@@ -1,6 +1,7 @@
 ---
 date: '2011-09-02 08:57:40'
 layout: post
+comments: true
 slug: 2400-baud-baby
 status: publish
 title: 2400 baud, baby!

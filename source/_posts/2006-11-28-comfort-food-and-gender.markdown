@@ -1,6 +1,7 @@
 ---
 date: '2006-11-28 17:10:42'
 layout: post
+comments: true
 slug: comfort-food-and-gender
 status: publish
 title: Comfort food and gender

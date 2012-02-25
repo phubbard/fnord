@@ -1,6 +1,7 @@
 ---
 date: '2006-08-21 11:09:31'
 layout: post
+comments: true
 slug: bacon-of-the-month-club
 status: publish
 title: Bacon of the Month Club

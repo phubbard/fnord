@@ -1,6 +1,7 @@
 ---
 date: '2007-10-12 11:09:57'
 layout: post
+comments: true
 slug: dang-cool
 status: publish
 title: Dang cool

@@ -1,6 +1,7 @@
 ---
 date: '2005-11-15 17:04:45'
 layout: post
+comments: true
 slug: nice-two-page-list-of-oss-mac-software
 status: publish
 title: Nice two-page list of OSS mac software

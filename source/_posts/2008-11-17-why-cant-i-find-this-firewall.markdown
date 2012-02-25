@@ -1,6 +1,7 @@
 ---
 date: '2008-11-17 15:08:36'
 layout: post
+comments: true
 slug: why-cant-i-find-this-firewall
 status: publish
 title: Why can't I find this firewall?

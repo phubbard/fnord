@@ -1,6 +1,7 @@
 ---
 date: '2007-08-13 09:31:52'
 layout: post
+comments: true
 slug: anna-update-two-months
 status: publish
 title: Anna update - two months!

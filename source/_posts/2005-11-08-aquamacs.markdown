@@ -1,6 +1,7 @@
 ---
 date: '2005-11-08 12:55:21'
 layout: post
+comments: true
 slug: aquamacs
 status: publish
 title: Aquamacs!

@@ -1,6 +1,7 @@
 ---
 date: '2007-10-24 18:52:50'
 layout: post
+comments: true
 slug: a-quick-laugh
 status: publish
 title: A quick laugh

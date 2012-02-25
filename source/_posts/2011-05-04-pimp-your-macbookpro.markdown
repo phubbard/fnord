@@ -1,6 +1,7 @@
 ---
 date: '2011-05-04 14:35:33'
 layout: post
+comments: true
 slug: pimp-your-macbookpro
 status: publish
 title: Pimp your MacBookPro

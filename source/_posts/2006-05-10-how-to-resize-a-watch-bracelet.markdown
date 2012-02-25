@@ -1,6 +1,7 @@
 ---
 date: '2006-05-10 14:46:02'
 layout: post
+comments: true
 slug: how-to-resize-a-watch-bracelet
 status: publish
 title: How to resize a watch bracelet

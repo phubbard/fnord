@@ -1,6 +1,7 @@
 ---
 date: '2007-10-17 15:45:20'
 layout: post
+comments: true
 slug: new-features-in-osx-105
 status: publish
 title: New features in OSX 10.5

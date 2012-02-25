@@ -1,6 +1,7 @@
 ---
 date: '2009-07-10 11:36:53'
 layout: post
+comments: true
 slug: fnord-goes-iphone
 status: publish
 title: fnord goes iPhone

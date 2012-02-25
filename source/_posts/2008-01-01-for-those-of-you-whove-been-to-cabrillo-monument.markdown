@@ -1,6 +1,7 @@
 ---
 date: '2008-01-01 22:32:19'
 layout: post
+comments: true
 slug: for-those-of-you-whove-been-to-cabrillo-monument
 status: publish
 title: For those of you who've been to Cabrillo Monument

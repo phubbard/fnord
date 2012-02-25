@@ -1,6 +1,7 @@
 ---
 date: '2012-01-27 16:02:52'
 layout: post
+comments: true
 slug: more-on-the-firewall
 status: publish
 title: More on the firewall

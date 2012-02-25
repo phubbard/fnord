@@ -1,6 +1,7 @@
 ---
 date: '2006-09-05 09:52:58'
 layout: post
+comments: true
 slug: music-the-opiod-of-choice
 status: publish
 title: Music, the opiod of choice

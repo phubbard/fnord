@@ -1,6 +1,7 @@
 ---
 date: '2009-10-03 10:48:47'
 layout: post
+comments: true
 slug: a-brief-aphorism-for-today
 status: publish
 title: A brief aphorism for today

@@ -1,6 +1,7 @@
 ---
 date: '2005-11-27 14:27:25'
 layout: post
+comments: true
 slug: how-a-watch-works-film-from-hamilton-in-1949
 status: publish
 title: How a watch works - film from Hamilton in 1949

@@ -1,6 +1,7 @@
 ---
 date: '2007-08-09 20:11:12'
 layout: post
+comments: true
 slug: little-things-that-make-a-big-difference
 status: publish
 title: Little things that make a big difference

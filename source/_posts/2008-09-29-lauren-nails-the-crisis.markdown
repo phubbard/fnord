@@ -1,6 +1,7 @@
 ---
 date: '2008-09-29 14:40:20'
 layout: post
+comments: true
 slug: lauren-nails-the-crisis
 status: publish
 title: Lauren nails the crisis

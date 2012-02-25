@@ -1,6 +1,7 @@
 ---
 date: '2006-08-30 20:17:34'
 layout: post
+comments: true
 slug: another-x-33-alternative
 status: publish
 title: Another X-33 alternative

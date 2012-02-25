@@ -1,6 +1,7 @@
 ---
 date: '2011-05-31 15:40:52'
 layout: post
+comments: true
 slug: how-to-show-a-weather-forecast
 status: publish
 title: How to show a weather forecast

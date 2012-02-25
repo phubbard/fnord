@@ -1,6 +1,7 @@
 ---
 date: '2009-12-03 13:01:36'
 layout: post
+comments: true
 slug: a-quick-nexuiz-tip
 status: publish
 title: A quick Nexuiz tip

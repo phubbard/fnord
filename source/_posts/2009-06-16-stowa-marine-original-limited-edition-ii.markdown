@@ -1,6 +1,7 @@
 ---
 date: '2009-06-16 15:23:45'
 layout: post
+comments: true
 slug: stowa-marine-original-limited-edition-ii
 status: publish
 title: Stowa Marine Original Limited Edition II

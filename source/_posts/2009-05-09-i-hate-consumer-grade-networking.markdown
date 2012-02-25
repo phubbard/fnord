@@ -1,6 +1,7 @@
 ---
 date: '2009-05-09 19:21:03'
 layout: post
+comments: true
 slug: i-hate-consumer-grade-networking
 status: publish
 title: I hate consumer-grade networking

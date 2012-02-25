@@ -1,6 +1,7 @@
 ---
 date: '2007-06-19 13:58:14'
 layout: post
+comments: true
 slug: paul-as-furniture
 status: publish
 title: Paul, as furniture

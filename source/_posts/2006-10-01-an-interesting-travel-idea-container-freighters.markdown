@@ -1,6 +1,7 @@
 ---
 date: '2006-10-01 17:37:59'
 layout: post
+comments: true
 slug: an-interesting-travel-idea-container-freighters
 status: publish
 title: 'An interesting travel idea: container freighters'

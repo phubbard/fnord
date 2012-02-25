@@ -1,6 +1,7 @@
 ---
 date: '2007-08-27 10:38:19'
 layout: post
+comments: true
 slug: a-bit-of-humor-for-yall
 status: publish
 title: A bit of humor for y'all

@@ -1,6 +1,7 @@
 ---
 date: '2006-01-15 16:02:56'
 layout: post
+comments: true
 slug: syslog-net-wide-finally
 status: publish
 title: Syslog net-wide, finally

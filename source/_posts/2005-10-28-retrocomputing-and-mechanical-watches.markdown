@@ -1,6 +1,7 @@
 ---
 date: '2005-10-28 21:10:13'
 layout: post
+comments: true
 slug: retrocomputing-and-mechanical-watches
 status: publish
 title: Retrocomputing and mechanical watches

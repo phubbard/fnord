@@ -1,6 +1,7 @@
 ---
 date: '2006-08-01 13:51:52'
 layout: post
+comments: true
 slug: a-moment-of-silence-please
 status: publish
 title: A moment of silence, please.

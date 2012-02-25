@@ -1,6 +1,7 @@
 ---
 date: '2008-03-25 14:05:52'
 layout: post
+comments: true
 slug: a-couple-of-quick-blog-worthy-items
 status: publish
 title: A couple of quick blog-worthy items

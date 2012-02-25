@@ -1,6 +1,7 @@
 ---
 date: '2007-10-11 16:42:06'
 layout: post
+comments: true
 slug: more-on-fuji-rawraf-files-and-hdr
 status: publish
 title: More on Fuji, RAW/RAF files and HDR

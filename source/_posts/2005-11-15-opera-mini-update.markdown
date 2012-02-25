@@ -1,6 +1,7 @@
 ---
 date: '2005-11-15 17:21:50'
 layout: post
+comments: true
 slug: opera-mini-update
 status: publish
 title: Opera Mini update

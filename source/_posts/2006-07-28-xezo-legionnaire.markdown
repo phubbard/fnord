@@ -1,6 +1,7 @@
 ---
 date: '2006-07-28 14:21:57'
 layout: post
+comments: true
 slug: xezo-legionnaire
 status: publish
 title: Xezo Legionnaire

@@ -1,6 +1,7 @@
 ---
 date: '2012-01-13 15:53:08'
 layout: post
+comments: true
 slug: new-firewall-router
 status: publish
 title: New firewall router!

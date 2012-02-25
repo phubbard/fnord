@@ -1,6 +1,7 @@
 ---
 date: '2007-09-18 13:46:30'
 layout: post
+comments: true
 slug: a-really-good-essay-on-programming
 status: publish
 title: A really good essay on programming

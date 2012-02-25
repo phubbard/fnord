@@ -1,6 +1,7 @@
 ---
 date: '2008-05-25 18:50:03'
 layout: post
+comments: true
 slug: bouganvilla-on-vermont-street-today
 status: publish
 title: Bouganvilla on Vermont street today

@@ -1,6 +1,7 @@
 ---
 date: '2007-06-17 20:56:18'
 layout: post
+comments: true
 slug: awwww
 status: publish
 title: Awwww

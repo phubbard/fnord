@@ -1,6 +1,7 @@
 ---
 date: '2005-11-02 12:35:40'
 layout: post
+comments: true
 slug: thermocompensated-quartz-movements
 status: publish
 title: Thermocompensated quartz movements

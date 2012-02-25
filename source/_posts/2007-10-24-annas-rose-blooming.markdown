@@ -1,6 +1,7 @@
 ---
 date: '2007-10-24 16:22:11'
 layout: post
+comments: true
 slug: annas-rose-blooming
 status: publish
 title: Anna's rose blooming

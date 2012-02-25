@@ -1,6 +1,7 @@
 ---
 date: '2009-12-08 07:17:00'
 layout: post
+comments: true
 slug: new-ssh-attack-is-out-there
 status: publish
 title: New ssh attack is out there

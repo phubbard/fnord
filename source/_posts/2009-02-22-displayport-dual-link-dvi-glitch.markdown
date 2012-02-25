@@ -1,6 +1,7 @@
 ---
 date: '2009-02-22 11:34:39'
 layout: post
+comments: true
 slug: displayport-dual-link-dvi-glitch
 status: publish
 title: DisplayPort dual-link DVI glitch

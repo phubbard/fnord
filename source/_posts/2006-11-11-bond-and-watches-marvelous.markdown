@@ -1,6 +1,7 @@
 ---
 date: '2006-11-11 22:24:44'
 layout: post
+comments: true
 slug: bond-and-watches-marvelous
 status: publish
 title: Bond, and watches. Marvelous.

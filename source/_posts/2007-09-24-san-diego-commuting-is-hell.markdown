@@ -1,6 +1,7 @@
 ---
 date: '2007-09-24 14:01:47'
 layout: post
+comments: true
 slug: san-diego-commuting-is-hell
 status: publish
 title: San Diego commuting is hell

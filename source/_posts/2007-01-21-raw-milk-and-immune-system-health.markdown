@@ -1,6 +1,7 @@
 ---
 date: '2007-01-21 15:52:06'
 layout: post
+comments: true
 slug: raw-milk-and-immune-system-health
 status: publish
 title: Raw milk and immune system health

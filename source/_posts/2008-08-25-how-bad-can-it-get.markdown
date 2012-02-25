@@ -1,6 +1,7 @@
 ---
 date: '2008-08-25 20:07:59'
 layout: post
+comments: true
 slug: how-bad-can-it-get
 status: publish
 title: How bad can it get?

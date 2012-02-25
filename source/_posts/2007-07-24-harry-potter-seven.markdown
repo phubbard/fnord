@@ -1,6 +1,7 @@
 ---
 date: '2007-07-24 13:13:30'
 layout: post
+comments: true
 slug: harry-potter-seven
 status: publish
 title: Harry Potter seven

@@ -1,6 +1,7 @@
 ---
 date: '2006-01-22 01:34:01'
 layout: post
+comments: true
 slug: nfs-and-osx-tiger-automounts
 status: publish
 title: NFS and OSX (Tiger) automounts

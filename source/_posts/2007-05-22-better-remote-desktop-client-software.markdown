@@ -1,6 +1,7 @@
 ---
 date: '2007-05-22 13:24:18'
 layout: post
+comments: true
 slug: better-remote-desktop-client-software
 status: publish
 title: Better remote desktop client software

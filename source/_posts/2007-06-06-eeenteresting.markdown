@@ -1,6 +1,7 @@
 ---
 date: '2007-06-06 20:30:36'
 layout: post
+comments: true
 slug: eeenteresting
 status: publish
 title: Eeenteresting

@@ -1,6 +1,7 @@
 ---
 date: '2006-08-08 10:03:15'
 layout: post
+comments: true
 slug: canned-coffee
 status: publish
 title: Canned coffee.

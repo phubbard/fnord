@@ -1,6 +1,7 @@
 ---
 date: '2006-02-08 12:23:26'
 layout: post
+comments: true
 slug: a-massive-list-of-travel-tips
 status: publish
 title: A massive list of travel tips

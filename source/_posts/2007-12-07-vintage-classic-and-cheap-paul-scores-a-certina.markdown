@@ -1,6 +1,7 @@
 ---
 date: '2007-12-07 22:08:49'
 layout: post
+comments: true
 slug: vintage-classic-and-cheap-paul-scores-a-certina
 status: publish
 title: 'Vintage, classic and cheap: Paul scores a Certina.'

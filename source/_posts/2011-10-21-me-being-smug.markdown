@@ -1,6 +1,7 @@
 ---
 date: '2011-10-21 14:52:52'
 layout: post
+comments: true
 slug: me-being-smug
 status: publish
 title: Me being smug

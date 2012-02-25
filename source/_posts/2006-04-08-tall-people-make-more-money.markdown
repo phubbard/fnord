@@ -1,6 +1,7 @@
 ---
 date: '2006-04-08 14:19:46'
 layout: post
+comments: true
 slug: tall-people-make-more-money
 status: publish
 title: Tall people make more money

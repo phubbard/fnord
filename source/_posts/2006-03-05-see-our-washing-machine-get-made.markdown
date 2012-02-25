@@ -1,6 +1,7 @@
 ---
 date: '2006-03-05 17:41:10'
 layout: post
+comments: true
 slug: see-our-washing-machine-get-made
 status: publish
 title: See our washing machine get made

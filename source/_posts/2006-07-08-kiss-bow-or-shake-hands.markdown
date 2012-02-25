@@ -1,6 +1,7 @@
 ---
 date: '2006-07-08 13:35:37'
 layout: post
+comments: true
 slug: kiss-bow-or-shake-hands
 status: publish
 title: Kiss, Bow or Shake Hands

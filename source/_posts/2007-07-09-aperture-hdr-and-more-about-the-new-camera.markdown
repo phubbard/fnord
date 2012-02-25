@@ -1,6 +1,7 @@
 ---
 date: '2007-07-09 19:51:22'
 layout: post
+comments: true
 slug: aperture-hdr-and-more-about-the-new-camera
 status: publish
 title: Aperture, HDR and more about the new camera

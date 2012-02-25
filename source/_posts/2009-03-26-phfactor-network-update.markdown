@@ -1,6 +1,7 @@
 ---
 date: '2009-03-26 14:44:56'
 layout: post
+comments: true
 slug: phfactor-network-update
 status: publish
 title: phfactor network update

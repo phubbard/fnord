@@ -1,6 +1,7 @@
 ---
 date: '2011-06-01 13:41:56'
 layout: post
+comments: true
 slug: macbook-air-13
 status: publish
 title: MacBook Air 13

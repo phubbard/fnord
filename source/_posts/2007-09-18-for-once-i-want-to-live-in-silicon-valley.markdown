@@ -1,6 +1,7 @@
 ---
 date: '2007-09-18 13:42:52'
 layout: post
+comments: true
 slug: for-once-i-want-to-live-in-silicon-valley
 status: publish
 title: For once I want to live in Silicon Valley

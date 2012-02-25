@@ -1,6 +1,7 @@
 ---
 date: '2008-12-28 22:17:50'
 layout: post
+comments: true
 slug: thoughts-on-the-us-and-hong-kong
 status: publish
 title: Thoughts on the US and Hong Kong

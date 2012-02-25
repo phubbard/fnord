@@ -1,6 +1,7 @@
 ---
 date: '2006-07-16 21:06:24'
 layout: post
+comments: true
 slug: yes-i-need-help
 status: publish
 title: Yes, I need help.

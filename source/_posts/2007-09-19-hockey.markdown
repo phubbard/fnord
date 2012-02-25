@@ -1,6 +1,7 @@
 ---
 date: '2007-09-19 20:47:51'
 layout: post
+comments: true
 slug: hockey
 status: publish
 title: Hockey

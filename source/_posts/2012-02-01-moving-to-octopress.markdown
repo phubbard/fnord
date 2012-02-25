@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Moving to Octopress"
 date: 2012-02-01 12:24
 comments: true

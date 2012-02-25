@@ -1,6 +1,7 @@
 ---
 date: '2007-09-28 16:15:10'
 layout: post
+comments: true
 slug: interesting-tiles
 status: publish
 title: Interesting tiles

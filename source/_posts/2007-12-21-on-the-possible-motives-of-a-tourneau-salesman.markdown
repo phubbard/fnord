@@ -1,6 +1,7 @@
 ---
 date: '2007-12-21 11:35:19'
 layout: post
+comments: true
 slug: on-the-possible-motives-of-a-tourneau-salesman
 status: publish
 title: On the possible motives of a Tourneau salesman

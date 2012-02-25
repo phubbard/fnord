@@ -1,6 +1,7 @@
 ---
 date: '2007-10-12 11:19:51'
 layout: post
+comments: true
 slug: better-headphones-for-the-iphone
 status: publish
 title: Better headphones for the iPhone

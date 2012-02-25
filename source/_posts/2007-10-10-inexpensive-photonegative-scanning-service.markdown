@@ -1,6 +1,7 @@
 ---
 date: '2007-10-10 17:08:09'
 layout: post
+comments: true
 slug: inexpensive-photonegative-scanning-service
 status: publish
 title: Inexpensive photo/negative scanning service

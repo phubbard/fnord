@@ -1,6 +1,7 @@
 ---
 date: '2010-11-21 09:35:37'
 layout: post
+comments: true
 slug: review-of-the-yema-ymfh0303-dive-watch
 status: publish
 title: Review of the Yema YMFH0303 dive watch

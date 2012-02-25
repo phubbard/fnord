@@ -1,6 +1,7 @@
 ---
 date: '2007-06-26 13:55:39'
 layout: post
+comments: true
 slug: more-kid-pictures-up
 status: publish
 title: More kid pictures up

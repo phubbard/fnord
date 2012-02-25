@@ -1,6 +1,7 @@
 ---
 date: '2006-01-24 17:11:07'
 layout: post
+comments: true
 slug: '49'
 status: publish
 title: The dulcet tones of data storage

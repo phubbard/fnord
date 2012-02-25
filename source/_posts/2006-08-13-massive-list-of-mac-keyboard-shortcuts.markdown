@@ -1,6 +1,7 @@
 ---
 date: '2006-08-13 12:58:13'
 layout: post
+comments: true
 slug: massive-list-of-mac-keyboard-shortcuts
 status: publish
 title: Massive list of Mac keyboard shortcuts

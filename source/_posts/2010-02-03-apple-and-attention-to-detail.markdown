@@ -1,6 +1,7 @@
 ---
 date: '2010-02-03 12:11:33'
 layout: post
+comments: true
 slug: apple-and-attention-to-detail
 status: publish
 title: Apple and attention to detail

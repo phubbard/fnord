@@ -1,6 +1,7 @@
 ---
 date: '2008-04-20 13:43:53'
 layout: post
+comments: true
 slug: no-new-watches-for-a-bit
 status: publish
 title: No new watches for a bit

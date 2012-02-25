@@ -1,6 +1,7 @@
 ---
 date: '2007-07-05 09:41:40'
 layout: post
+comments: true
 slug: sphinx-moth
 status: publish
 title: Sphinx moth

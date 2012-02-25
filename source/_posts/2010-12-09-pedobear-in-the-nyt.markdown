@@ -1,6 +1,7 @@
 ---
 date: '2010-12-09 12:06:39'
 layout: post
+comments: true
 slug: pedobear-in-the-nyt
 status: publish
 title: Pedobear in the NYT

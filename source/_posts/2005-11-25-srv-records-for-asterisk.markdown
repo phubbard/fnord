@@ -1,6 +1,7 @@
 ---
 date: '2005-11-25 22:56:45'
 layout: post
+comments: true
 slug: srv-records-for-asterisk
 status: publish
 title: SRV records for Asterisk

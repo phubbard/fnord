@@ -1,6 +1,7 @@
 ---
 date: '2006-12-24 15:54:41'
 layout: post
+comments: true
 slug: random-blog-craze
 status: publish
 title: Random 'blog craze

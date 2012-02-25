@@ -1,6 +1,7 @@
 ---
 date: '2007-10-22 08:29:48'
 layout: post
+comments: true
 slug: san-diego-is-burning-again-info
 status: publish
 title: San Diego is burning again - info

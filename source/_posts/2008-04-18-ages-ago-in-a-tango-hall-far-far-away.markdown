@@ -1,6 +1,7 @@
 ---
 date: '2008-04-18 17:17:51'
 layout: post
+comments: true
 slug: ages-ago-in-a-tango-hall-far-far-away
 status: publish
 title: Ages ago, in a tango hall far, far away

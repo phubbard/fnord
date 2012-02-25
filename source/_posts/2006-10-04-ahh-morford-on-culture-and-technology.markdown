@@ -1,6 +1,7 @@
 ---
 date: '2006-10-04 09:49:53'
 layout: post
+comments: true
 slug: ahh-morford-on-culture-and-technology
 status: publish
 title: Ahh, Morford on culture and technology

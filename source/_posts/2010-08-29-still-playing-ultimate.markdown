@@ -1,6 +1,7 @@
 ---
 date: '2010-08-29 15:55:08'
 layout: post
+comments: true
 slug: still-playing-ultimate
 status: publish
 title: Still playing ultimate

@@ -1,6 +1,7 @@
 ---
 date: '2011-02-21 17:20:49'
 layout: post
+comments: true
 slug: man-i-love-python-sometimes
 status: publish
 title: Man, I love Python sometimes

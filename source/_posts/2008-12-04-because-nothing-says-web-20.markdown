@@ -1,6 +1,7 @@
 ---
 date: '2008-12-04 20:20:58'
 layout: post
+comments: true
 slug: because-nothing-says-web-20
 status: publish
 title: Because nothing says Web 2.0...

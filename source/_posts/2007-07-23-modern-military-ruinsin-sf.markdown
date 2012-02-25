@@ -1,6 +1,7 @@
 ---
 date: '2007-07-23 16:42:50'
 layout: post
+comments: true
 slug: modern-military-ruinsin-sf
 status: publish
 title: Modern military ruins...in SF

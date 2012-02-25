@@ -1,6 +1,7 @@
 ---
 date: '2006-08-23 14:59:33'
 layout: post
+comments: true
 slug: left-handers-rule-the-world-but-i-make-more-cause-im-smarter
 status: publish
 title: Left-handers rule the world, but I make more 'cause I'm smarter.

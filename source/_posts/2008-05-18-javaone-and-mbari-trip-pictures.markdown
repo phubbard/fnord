@@ -1,6 +1,7 @@
 ---
 date: '2008-05-18 11:41:05'
 layout: post
+comments: true
 slug: javaone-and-mbari-trip-pictures
 status: publish
 title: JavaOne and MBARI trip pictures

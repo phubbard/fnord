@@ -1,6 +1,7 @@
 ---
 date: '2007-10-13 16:39:57'
 layout: post
+comments: true
 slug: fnord-site-updates
 status: publish
 title: Fnord site updates

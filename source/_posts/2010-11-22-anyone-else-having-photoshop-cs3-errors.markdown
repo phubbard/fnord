@@ -1,6 +1,7 @@
 ---
 date: '2010-11-22 10:36:16'
 layout: post
+comments: true
 slug: anyone-else-having-photoshop-cs3-errors
 status: publish
 title: Anyone else having Photoshop CS3 errors?

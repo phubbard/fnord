@@ -1,6 +1,7 @@
 ---
 date: '2006-05-19 10:14:53'
 layout: post
+comments: true
 slug: blue-nation
 status: publish
 title: Blue nation

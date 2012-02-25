@@ -1,6 +1,7 @@
 ---
 date: '2006-02-22 17:55:31'
 layout: post
+comments: true
 slug: sell-your-old-blackberry
 status: publish
 title: Sell your old blackberry

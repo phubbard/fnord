@@ -1,6 +1,7 @@
 ---
 date: '2006-07-23 13:23:44'
 layout: post
+comments: true
 slug: discovering-john-emsley-and-the-elements
 status: publish
 title: Discovering John Emsley and the elements

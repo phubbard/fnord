@@ -1,6 +1,7 @@
 ---
 date: '2007-12-04 12:18:35'
 layout: post
+comments: true
 slug: more-sc-coolness-mini-solar-car
 status: publish
 title: More SC coolness - mini solar car!

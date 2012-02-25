@@ -1,6 +1,7 @@
 ---
 date: '2007-06-05 15:19:44'
 layout: post
+comments: true
 slug: where-i-work
 status: publish
 title: Where I work

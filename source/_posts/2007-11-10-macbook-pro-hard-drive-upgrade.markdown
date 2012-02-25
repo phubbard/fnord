@@ -1,6 +1,7 @@
 ---
 date: '2007-11-10 11:55:40'
 layout: post
+comments: true
 slug: macbook-pro-hard-drive-upgrade
 status: publish
 title: Macbook pro hard drive upgrade

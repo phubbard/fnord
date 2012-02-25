@@ -1,6 +1,7 @@
 ---
 date: '2006-08-25 21:41:51'
 layout: post
+comments: true
 slug: trusted-reviewers
 status: publish
 title: Trusted reviewers

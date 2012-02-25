@@ -1,6 +1,7 @@
 ---
 date: '2006-07-21 21:50:20'
 layout: post
+comments: true
 slug: extremely-hip-t-shirts
 status: publish
 title: Extremely hip t-shirts

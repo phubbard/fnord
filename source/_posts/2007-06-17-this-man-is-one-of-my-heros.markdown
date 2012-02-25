@@ -1,6 +1,7 @@
 ---
 date: '2007-06-17 20:15:32'
 layout: post
+comments: true
 slug: this-man-is-one-of-my-heros
 status: publish
 title: This man is one of my heros.

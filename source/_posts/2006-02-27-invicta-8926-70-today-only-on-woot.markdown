@@ -1,6 +1,7 @@
 ---
 date: '2006-02-27 10:31:35'
 layout: post
+comments: true
 slug: invicta-8926-70-today-only-on-woot
 status: publish
 title: Invicta 8926, $65, today only on Woot

@@ -1,6 +1,7 @@
 ---
 date: '2008-03-28 20:09:11'
 layout: post
+comments: true
 slug: microblogging
 status: publish
 title: Microblogging

@@ -1,6 +1,7 @@
 ---
 date: '2007-06-07 13:39:05'
 layout: post
+comments: true
 slug: more-macro-goodness
 status: publish
 title: More macro goodness

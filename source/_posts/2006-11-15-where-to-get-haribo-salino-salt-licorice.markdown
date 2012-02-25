@@ -1,6 +1,7 @@
 ---
 date: '2006-11-15 11:29:53'
 layout: post
+comments: true
 slug: where-to-get-haribo-salino-salt-licorice
 status: publish
 title: Where to get Haribo Salino salt licorice

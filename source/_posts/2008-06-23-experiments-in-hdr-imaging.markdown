@@ -1,6 +1,7 @@
 ---
 date: '2008-06-23 14:44:07'
 layout: post
+comments: true
 slug: experiments-in-hdr-imaging
 status: publish
 title: Experiments in HDR imaging

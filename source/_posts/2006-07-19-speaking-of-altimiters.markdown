@@ -1,6 +1,7 @@
 ---
 date: '2006-07-19 09:36:21'
 layout: post
+comments: true
 slug: speaking-of-altimiters
 status: publish
 title: Speaking of altimiters

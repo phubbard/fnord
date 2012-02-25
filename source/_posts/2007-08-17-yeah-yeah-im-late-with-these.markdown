@@ -1,6 +1,7 @@
 ---
 date: '2007-08-17 14:05:05'
 layout: post
+comments: true
 slug: yeah-yeah-im-late-with-these
 status: publish
 title: Yeah, yeah, I'm late with these...

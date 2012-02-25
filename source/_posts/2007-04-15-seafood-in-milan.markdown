@@ -1,6 +1,7 @@
 ---
 date: '2007-04-15 12:35:01'
 layout: post
+comments: true
 slug: seafood-in-milan
 status: publish
 title: Seafood in Milan

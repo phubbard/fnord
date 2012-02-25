@@ -1,6 +1,7 @@
 ---
 date: '2008-12-24 09:38:46'
 layout: post
+comments: true
 slug: that-didnt-take-long-amazon-ec2-as-a-hack-tool
 status: publish
 title: That didn't take long... Amazon EC2 as a hack tool

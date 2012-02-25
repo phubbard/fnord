@@ -1,6 +1,7 @@
 ---
 date: '2006-11-06 16:23:12'
 layout: post
+comments: true
 slug: the-architecture-of-oil-platforms
 status: publish
 title: The architecture of oil platforms

@@ -1,6 +1,7 @@
 ---
 date: '2006-09-02 22:31:08'
 layout: post
+comments: true
 slug: mdadm-magic
 status: publish
 title: mdadm magic

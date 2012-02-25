@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Adding site stats via Mint"
 date: 2012-02-05 08:38
 comments: true

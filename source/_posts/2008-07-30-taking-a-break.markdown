@@ -1,6 +1,7 @@
 ---
 date: '2008-07-30 17:07:55'
 layout: post
+comments: true
 slug: taking-a-break
 status: publish
 title: Taking a break

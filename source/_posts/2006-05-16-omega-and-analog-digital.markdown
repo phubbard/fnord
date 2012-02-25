@@ -1,6 +1,7 @@
 ---
 date: '2006-05-16 10:14:15'
 layout: post
+comments: true
 slug: omega-and-analog-digital
 status: publish
 title: Omega and analog-digital

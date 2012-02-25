@@ -1,6 +1,7 @@
 ---
 date: '2007-11-20 12:35:22'
 layout: post
+comments: true
 slug: snapshots-from-supercomputing-2007
 status: publish
 title: Snapshots from Supercomputing 2007

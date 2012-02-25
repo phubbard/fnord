@@ -1,6 +1,7 @@
 ---
 date: '2008-10-19 13:53:13'
 layout: post
+comments: true
 slug: quick-links-of-interest
 status: publish
 title: Quick links of interest

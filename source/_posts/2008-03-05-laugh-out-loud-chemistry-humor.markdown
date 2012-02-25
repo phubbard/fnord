@@ -1,6 +1,7 @@
 ---
 date: '2008-03-05 13:56:27'
 layout: post
+comments: true
 slug: laugh-out-loud-chemistry-humor
 status: publish
 title: Laugh-out-loud chemistry humor

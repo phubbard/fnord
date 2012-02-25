@@ -1,6 +1,7 @@
 ---
 date: '2006-11-11 22:28:01'
 layout: post
+comments: true
 slug: plastic-mechanical-watches
 status: publish
 title: Plastic mechanical watches

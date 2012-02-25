@@ -1,6 +1,7 @@
 ---
 date: '2008-05-01 08:51:58'
 layout: post
+comments: true
 slug: anna-versus-the-g-shock
 status: publish
 title: Anna versus the g-shock

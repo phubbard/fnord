@@ -1,6 +1,7 @@
 ---
 date: '2006-04-08 15:14:20'
 layout: post
+comments: true
 slug: seven-thousand-dollar-ultralight
 status: publish
 title: Seven thousand dollar ultralight

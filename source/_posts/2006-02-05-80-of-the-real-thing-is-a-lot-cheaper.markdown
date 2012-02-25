@@ -1,6 +1,7 @@
 ---
 date: '2006-02-05 11:40:32'
 layout: post
+comments: true
 slug: 80-of-the-real-thing-is-a-lot-cheaper
 status: publish
 title: 80% of the real thing is a lot cheaper

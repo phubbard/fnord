@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Adding Disqus to Confluence"
 date: 2012-02-15 13:28
 comments: true

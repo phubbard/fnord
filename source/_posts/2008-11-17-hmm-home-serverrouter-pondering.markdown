@@ -1,6 +1,7 @@
 ---
 date: '2008-11-17 08:17:19'
 layout: post
+comments: true
 slug: hmm-home-serverrouter-pondering
 status: publish
 title: Hmm. Home server/router pondering

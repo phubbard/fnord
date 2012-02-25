@@ -1,6 +1,7 @@
 ---
 date: '2006-08-30 19:14:54'
 layout: post
+comments: true
 slug: we-now-have-an-official-seal
 status: publish
 title: We now have an Official Seal

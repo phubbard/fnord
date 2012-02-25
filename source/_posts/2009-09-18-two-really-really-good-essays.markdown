@@ -1,6 +1,7 @@
 ---
 date: '2009-09-18 16:50:41'
 layout: post
+comments: true
 slug: two-really-really-good-essays
 status: publish
 title: Two really, really good essays

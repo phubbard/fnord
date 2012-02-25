@@ -1,6 +1,7 @@
 ---
 date: '2009-11-11 21:18:01'
 layout: post
+comments: true
 slug: new-laptop-notes
 status: publish
 title: New laptop notes

@@ -1,6 +1,7 @@
 ---
 date: '2011-12-29 15:24:47'
 layout: post
+comments: true
 slug: other-reasons-to-miss-argentina
 status: publish
 title: Other reasons to miss Argentina

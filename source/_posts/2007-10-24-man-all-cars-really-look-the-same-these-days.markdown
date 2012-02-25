@@ -1,6 +1,7 @@
 ---
 date: '2007-10-24 16:38:12'
 layout: post
+comments: true
 slug: man-all-cars-really-look-the-same-these-days
 status: publish
 title: Man, all cars really look the same these days

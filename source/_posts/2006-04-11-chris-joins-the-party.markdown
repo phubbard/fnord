@@ -1,6 +1,7 @@
 ---
 date: '2006-04-11 22:57:59'
 layout: post
+comments: true
 slug: chris-joins-the-party
 status: publish
 title: Chris joins the party

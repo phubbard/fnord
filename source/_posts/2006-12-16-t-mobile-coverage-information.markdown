@@ -1,6 +1,7 @@
 ---
 date: '2006-12-16 12:09:46'
 layout: post
+comments: true
 slug: t-mobile-coverage-information
 status: publish
 title: T-mobile coverage information

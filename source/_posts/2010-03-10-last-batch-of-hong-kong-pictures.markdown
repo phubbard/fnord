@@ -1,6 +1,7 @@
 ---
 date: '2010-03-10 10:34:45'
 layout: post
+comments: true
 slug: last-batch-of-hong-kong-pictures
 status: publish
 title: Last batch of Hong Kong pictures

@@ -1,6 +1,7 @@
 ---
 date: '2010-04-07 08:51:39'
 layout: post
+comments: true
 slug: welcome-to-the-future-sell-your-tv-now
 status: publish
 title: Welcome to the future. Sell your TV now.

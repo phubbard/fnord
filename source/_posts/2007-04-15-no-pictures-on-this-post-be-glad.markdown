@@ -1,6 +1,7 @@
 ---
 date: '2007-04-15 12:39:28'
 layout: post
+comments: true
 slug: no-pictures-on-this-post-be-glad
 status: publish
 title: No pictures on this post. Be glad.

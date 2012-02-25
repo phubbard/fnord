@@ -1,6 +1,7 @@
 ---
 date: '2006-01-16 21:22:06'
 layout: post
+comments: true
 slug: remote-unlock-of-blackberries
 status: publish
 title: Remote-unlock of Blackberries

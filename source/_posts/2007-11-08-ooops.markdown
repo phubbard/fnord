@@ -1,6 +1,7 @@
 ---
 date: '2007-11-08 15:31:25'
 layout: post
+comments: true
 slug: ooops
 status: publish
 title: Ooops

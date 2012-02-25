@@ -1,6 +1,7 @@
 ---
 date: '2006-12-16 12:03:04'
 layout: post
+comments: true
 slug: cell-phote-outages-only-help-terrorists
 status: publish
 title: Cell phote outages only help terrorists.

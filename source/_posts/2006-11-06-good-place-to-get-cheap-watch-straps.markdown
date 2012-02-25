@@ -1,6 +1,7 @@
 ---
 date: '2006-11-06 17:53:29'
 layout: post
+comments: true
 slug: good-place-to-get-cheap-watch-straps
 status: publish
 title: Good place to get cheap watch straps

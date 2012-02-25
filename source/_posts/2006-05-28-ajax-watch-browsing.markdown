@@ -1,6 +1,7 @@
 ---
 date: '2006-05-28 19:39:17'
 layout: post
+comments: true
 slug: ajax-watch-browsing
 status: publish
 title: Ajax watch browsing

@@ -1,6 +1,7 @@
 ---
 date: '2006-09-18 21:30:45'
 layout: post
+comments: true
 slug: why-christopher-ward-and-not-seiko
 status: publish
 title: Why Christopher Ward and not Seiko

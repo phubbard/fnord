@@ -1,6 +1,7 @@
 ---
 date: '2007-05-05 19:16:30'
 layout: post
+comments: true
 slug: bach-anchovies-and-mozart
 status: publish
 title: Bach, anchovies and Mozart.

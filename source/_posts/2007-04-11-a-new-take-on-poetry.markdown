@@ -1,6 +1,7 @@
 ---
 date: '2007-04-11 08:55:44'
 layout: post
+comments: true
 slug: a-new-take-on-poetry
 status: publish
 title: A new take on poetry

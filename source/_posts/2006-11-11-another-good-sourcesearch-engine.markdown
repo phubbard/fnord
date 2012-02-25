@@ -1,6 +1,7 @@
 ---
 date: '2006-11-11 23:28:24'
 layout: post
+comments: true
 slug: another-good-sourcesearch-engine
 status: publish
 title: Another good source/search engine

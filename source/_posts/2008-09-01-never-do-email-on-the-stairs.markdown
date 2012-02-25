@@ -1,6 +1,7 @@
 ---
 date: '2008-09-01 13:48:30'
 layout: post
+comments: true
 slug: never-do-email-on-the-stairs
 status: publish
 title: Never do email on the stairs

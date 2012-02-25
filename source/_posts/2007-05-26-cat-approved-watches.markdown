@@ -1,6 +1,7 @@
 ---
 date: '2007-05-26 11:30:45'
 layout: post
+comments: true
 slug: cat-approved-watches
 status: publish
 title: Cat-approved watches

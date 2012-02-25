@@ -1,6 +1,7 @@
 ---
 date: '2006-12-27 13:31:51'
 layout: post
+comments: true
 slug: a-great-use-of-cd-roms-and-fpu-bugged-pentiums
 status: publish
 title: A great use of CD-ROMs and FPU-bugged Pentiums

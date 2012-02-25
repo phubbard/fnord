@@ -1,6 +1,7 @@
 ---
 date: '2006-09-02 12:13:17'
 layout: post
+comments: true
 slug: a-nice-visual-explanation-of-the-economics-of-the-last-few-years
 status: publish
 title: A nice visual explanation of the economics of the last few years

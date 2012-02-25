@@ -1,6 +1,7 @@
 ---
 date: '2006-01-15 17:21:43'
 layout: post
+comments: true
 slug: finally-free-aviation-charts
 status: publish
 title: Finally, free aviation charts

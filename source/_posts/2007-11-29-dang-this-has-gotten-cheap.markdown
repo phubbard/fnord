@@ -1,6 +1,7 @@
 ---
 date: '2007-11-29 18:19:37'
 layout: post
+comments: true
 slug: dang-this-has-gotten-cheap
 status: publish
 title: Dang, this has gotten cheap

@@ -1,6 +1,7 @@
 ---
 date: '2006-12-26 15:20:49'
 layout: post
+comments: true
 slug: the-seiko-marinemaster-page
 status: publish
 title: The Seiko Marinemaster page

@@ -1,6 +1,7 @@
 ---
 date: '2008-02-17 20:48:01'
 layout: post
+comments: true
 slug: with-fear-and-trembling-the-iphone-update-hack
 status: publish
 title: With fear and trembling... the iPhone update & hack

@@ -1,6 +1,7 @@
 ---
 date: '2007-04-15 20:30:36'
 layout: post
+comments: true
 slug: ahh-finally-hi-res-psp-video-encoding
 status: publish
 title: Ahh, finally! Hi-res PSP video encoding

@@ -1,6 +1,7 @@
 ---
 date: '2006-07-19 14:02:11'
 layout: post
+comments: true
 slug: maybe-useful-photo-sofware-from-adobe
 status: publish
 title: Maybe-useful photo sofware from Adobe

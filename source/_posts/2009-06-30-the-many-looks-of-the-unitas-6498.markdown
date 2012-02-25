@@ -1,6 +1,7 @@
 ---
 date: '2009-06-30 07:07:13'
 layout: post
+comments: true
 slug: the-many-looks-of-the-unitas-6498
 status: publish
 title: The many looks of the Unitas 6498

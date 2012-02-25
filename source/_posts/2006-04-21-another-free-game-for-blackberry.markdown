@@ -1,6 +1,7 @@
 ---
 date: '2006-04-21 08:01:47'
 layout: post
+comments: true
 slug: another-free-game-for-blackberry
 status: publish
 title: Another free game for blackberry

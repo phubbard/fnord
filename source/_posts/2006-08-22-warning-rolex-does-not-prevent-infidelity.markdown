@@ -1,6 +1,7 @@
 ---
 date: '2006-08-22 14:06:29'
 layout: post
+comments: true
 slug: warning-rolex-does-not-prevent-infidelity
 status: publish
 title: 'Warning: Rolex does not prevent infidelity!'

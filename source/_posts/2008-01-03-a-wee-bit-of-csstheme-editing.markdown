@@ -1,6 +1,7 @@
 ---
 date: '2008-01-03 23:05:45'
 layout: post
+comments: true
 slug: a-wee-bit-of-csstheme-editing
 status: publish
 title: A wee bit of CSS/theme editing

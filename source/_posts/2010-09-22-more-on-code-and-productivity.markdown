@@ -1,6 +1,7 @@
 ---
 date: '2010-09-22 15:20:24'
 layout: post
+comments: true
 slug: more-on-code-and-productivity
 status: publish
 title: More on code and productivity

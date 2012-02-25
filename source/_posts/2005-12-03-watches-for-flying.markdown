@@ -1,6 +1,7 @@
 ---
 date: '2005-12-03 13:32:37'
 layout: post
+comments: true
 slug: watches-for-flying
 status: publish
 title: Watches for flying

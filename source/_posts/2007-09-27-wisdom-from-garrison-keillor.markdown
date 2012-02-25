@@ -1,6 +1,7 @@
 ---
 date: '2007-09-27 11:31:18'
 layout: post
+comments: true
 slug: wisdom-from-garrison-keillor
 status: publish
 title: Wisdom from Garrison Keillor

@@ -1,6 +1,7 @@
 ---
 date: '2007-09-18 14:00:07'
 layout: post
+comments: true
 slug: cheap-fizzy-water
 status: publish
 title: Cheap fizzy water

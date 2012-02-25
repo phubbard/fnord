@@ -1,6 +1,7 @@
 ---
 date: '2005-11-06 19:19:28'
 layout: post
+comments: true
 slug: supercheap-skeletonized-automatic-watches
 status: publish
 title: Supercheap skeletonized automatic watches.

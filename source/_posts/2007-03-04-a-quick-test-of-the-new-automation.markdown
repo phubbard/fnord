@@ -1,6 +1,7 @@
 ---
 date: '2007-03-04 13:42:46'
 layout: post
+comments: true
 slug: a-quick-test-of-the-new-automation
 status: publish
 title: A quick test of the new automation

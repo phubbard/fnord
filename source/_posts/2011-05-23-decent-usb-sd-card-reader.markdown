@@ -1,6 +1,7 @@
 ---
 date: '2011-05-23 16:01:01'
 layout: post
+comments: true
 slug: decent-usb-sd-card-reader
 status: publish
 title: Decent USB SD card reader

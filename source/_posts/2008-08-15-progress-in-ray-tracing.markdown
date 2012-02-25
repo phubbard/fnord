@@ -1,6 +1,7 @@
 ---
 date: '2008-08-15 10:01:20'
 layout: post
+comments: true
 slug: progress-in-ray-tracing
 status: publish
 title: Progress in ray tracing

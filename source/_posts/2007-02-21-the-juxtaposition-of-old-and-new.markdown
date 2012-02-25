@@ -1,6 +1,7 @@
 ---
 date: '2007-02-21 22:06:18'
 layout: post
+comments: true
 slug: the-juxtaposition-of-old-and-new
 status: publish
 title: The juxtaposition of old and new

@@ -1,6 +1,7 @@
 ---
 date: '2006-06-09 20:34:56'
 layout: post
+comments: true
 slug: gmp-421-on-solaris-10sparcv9-64-bit
 status: publish
 title: GMP 4.2.1 on Solaris 10/sparcv9, 64-bit

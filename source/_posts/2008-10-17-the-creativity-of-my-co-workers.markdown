@@ -1,6 +1,7 @@
 ---
 date: '2008-10-17 15:02:20'
 layout: post
+comments: true
 slug: the-creativity-of-my-co-workers
 status: publish
 title: The creativity of my co-workers

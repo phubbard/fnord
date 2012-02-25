@@ -1,6 +1,7 @@
 ---
 date: '2006-03-17 09:02:34'
 layout: post
+comments: true
 slug: and-now-for-a-breath-of-optimism-and-thoughtfulness
 status: publish
 title: And now, for a breath of optimism and thoughtfulness

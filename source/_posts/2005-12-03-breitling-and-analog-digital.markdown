@@ -1,6 +1,7 @@
 ---
 date: '2005-12-03 13:00:38'
 layout: post
+comments: true
 slug: breitling-and-analog-digital
 status: publish
 title: Breitling and analog-digital

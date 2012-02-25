@@ -1,6 +1,7 @@
 ---
 date: '2008-10-24 20:21:14'
 layout: post
+comments: true
 slug: amidst-the-upgrade-a-quietly-amusing-message
 status: publish
 title: Amidst the upgrade, a quietly amusing message

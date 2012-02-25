@@ -1,6 +1,7 @@
 ---
 date: '2007-01-15 14:14:40'
 layout: post
+comments: true
 slug: one-less-microsoft-office-annoyance
 status: publish
 title: One less Microsoft Office annoyance

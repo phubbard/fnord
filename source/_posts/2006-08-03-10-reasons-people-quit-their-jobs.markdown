@@ -1,6 +1,7 @@
 ---
 date: '2006-08-03 20:34:18'
 layout: post
+comments: true
 slug: 10-reasons-people-quit-their-jobs
 status: publish
 title: 10 reasons people quit their jobs

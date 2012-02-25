@@ -1,6 +1,7 @@
 ---
 date: '2007-08-18 11:08:47'
 layout: post
+comments: true
 slug: super-important-stuff-in-this-posting
 status: publish
 title: Super Important Stuff in This Posting

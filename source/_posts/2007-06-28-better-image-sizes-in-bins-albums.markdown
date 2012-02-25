@@ -1,6 +1,7 @@
 ---
 date: '2007-06-28 20:12:59'
 layout: post
+comments: true
 slug: better-image-sizes-in-bins-albums
 status: publish
 title: Better image sizes in Bins albums

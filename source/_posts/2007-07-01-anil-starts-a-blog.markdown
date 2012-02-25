@@ -1,6 +1,7 @@
 ---
 date: '2007-07-01 19:56:23'
 layout: post
+comments: true
 slug: anil-starts-a-blog
 status: publish
 title: Anil starts a blog!

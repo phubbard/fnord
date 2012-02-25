@@ -1,6 +1,7 @@
 ---
 date: '2010-09-25 14:58:38'
 layout: post
+comments: true
 slug: a-new-licorice-source
 status: publish
 title: A new licorice source

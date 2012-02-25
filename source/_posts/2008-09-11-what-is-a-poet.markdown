@@ -1,6 +1,7 @@
 ---
 date: '2008-09-11 08:17:57'
 layout: post
+comments: true
 slug: what-is-a-poet
 status: publish
 title: What is a poet?

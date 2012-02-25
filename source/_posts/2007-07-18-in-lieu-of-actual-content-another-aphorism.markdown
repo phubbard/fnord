@@ -1,6 +1,7 @@
 ---
 date: '2007-07-18 13:02:30'
 layout: post
+comments: true
 slug: in-lieu-of-actual-content-another-aphorism
 status: publish
 title: In lieu of actual content, another aphorism

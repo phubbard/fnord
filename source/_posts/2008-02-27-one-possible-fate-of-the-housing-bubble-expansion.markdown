@@ -1,6 +1,7 @@
 ---
 date: '2008-02-27 08:31:23'
 layout: post
+comments: true
 slug: one-possible-fate-of-the-housing-bubble-expansion
 status: publish
 title: One possible fate of the housing bubble expansion

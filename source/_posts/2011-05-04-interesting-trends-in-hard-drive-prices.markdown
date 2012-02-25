@@ -1,6 +1,7 @@
 ---
 date: '2011-05-04 11:04:35'
 layout: post
+comments: true
 slug: interesting-trends-in-hard-drive-prices
 status: publish
 title: Interesting trends in hard drive prices

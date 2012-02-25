@@ -1,6 +1,7 @@
 ---
 date: '2006-03-31 21:43:04'
 layout: post
+comments: true
 slug: seriously-funky-casio
 status: publish
 title: Seriously funky Casio

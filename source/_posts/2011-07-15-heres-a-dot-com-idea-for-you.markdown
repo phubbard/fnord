@@ -1,6 +1,7 @@
 ---
 date: '2011-07-15 11:20:32'
 layout: post
+comments: true
 slug: heres-a-dot-com-idea-for-you
 status: publish
 title: Here's a dot-com idea for you

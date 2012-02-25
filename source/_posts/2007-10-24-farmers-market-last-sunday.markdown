@@ -1,6 +1,7 @@
 ---
 date: '2007-10-24 16:38:12'
 layout: post
+comments: true
 slug: farmers-market-last-sunday
 status: publish
 title: Farmer's market last Sunday

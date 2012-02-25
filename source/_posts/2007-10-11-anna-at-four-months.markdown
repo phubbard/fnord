@@ -1,6 +1,7 @@
 ---
 date: '2007-10-11 15:25:02'
 layout: post
+comments: true
 slug: anna-at-four-months
 status: publish
 title: Anna at four months

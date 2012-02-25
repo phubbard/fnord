@@ -1,6 +1,7 @@
 ---
 date: '2008-01-06 16:10:11'
 layout: post
+comments: true
 slug: back-up-again
 status: publish
 title: Back up again

@@ -1,6 +1,7 @@
 ---
 date: '2007-06-19 13:56:31'
 layout: post
+comments: true
 slug: todays-cuteness
 status: publish
 title: Today's cuteness

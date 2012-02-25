@@ -1,6 +1,7 @@
 ---
 date: '2006-03-02 13:40:21'
 layout: post
+comments: true
 slug: ipod-video-links
 status: publish
 title: iPod video links

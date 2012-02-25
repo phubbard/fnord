@@ -1,6 +1,7 @@
 ---
 date: '2009-09-27 12:27:22'
 layout: post
+comments: true
 slug: best-freebie-yet
 status: publish
 title: Best freebie yet

@@ -1,6 +1,7 @@
 ---
 date: '2008-08-24 17:50:02'
 layout: post
+comments: true
 slug: anna-lawn-and-kumquats
 status: publish
 title: Anna lawn and kumquats

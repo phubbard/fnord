@@ -1,6 +1,7 @@
 ---
 date: '2006-10-25 21:16:06'
 layout: post
+comments: true
 slug: need-a-vacation
 status: publish
 title: Need a vacation?

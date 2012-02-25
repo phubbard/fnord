@@ -1,6 +1,7 @@
 ---
 date: '2006-09-25 20:37:30'
 layout: post
+comments: true
 slug: my-old-lab-is-still-there
 status: publish
 title: My old lab is still there!

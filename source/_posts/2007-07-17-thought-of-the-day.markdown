@@ -1,6 +1,7 @@
 ---
 date: '2007-07-17 11:27:07'
 layout: post
+comments: true
 slug: thought-of-the-day
 status: publish
 title: Thought of the day.

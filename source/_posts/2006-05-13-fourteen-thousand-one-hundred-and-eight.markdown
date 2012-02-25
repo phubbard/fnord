@@ -1,6 +1,7 @@
 ---
 date: '2006-05-13 22:37:29'
 layout: post
+comments: true
 slug: fourteen-thousand-one-hundred-and-eight
 status: publish
 title: Fourteen thousand one hundred and eight

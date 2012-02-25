@@ -1,6 +1,7 @@
 ---
 date: '2011-05-31 15:46:12'
 layout: post
+comments: true
 slug: wifi-interference-anyone
 status: publish
 title: WiFi interference, anyone?

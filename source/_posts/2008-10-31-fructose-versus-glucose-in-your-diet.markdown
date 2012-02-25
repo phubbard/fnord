@@ -1,6 +1,7 @@
 ---
 date: '2008-10-31 12:11:10'
 layout: post
+comments: true
 slug: fructose-versus-glucose-in-your-diet
 status: publish
 title: Fructose versus glucose in your diet

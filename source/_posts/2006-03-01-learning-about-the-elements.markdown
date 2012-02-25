@@ -1,6 +1,7 @@
 ---
 date: '2006-03-01 11:31:53'
 layout: post
+comments: true
 slug: learning-about-the-elements
 status: publish
 title: Learning about the elements

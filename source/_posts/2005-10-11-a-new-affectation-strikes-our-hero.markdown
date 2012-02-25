@@ -1,6 +1,7 @@
 ---
 date: '2005-10-11 12:30:28'
 layout: post
+comments: true
 slug: a-new-affectation-strikes-our-hero
 status: publish
 title: A new affectation strikes our hero.

@@ -1,6 +1,7 @@
 ---
 date: '2007-10-12 14:46:16'
 layout: post
+comments: true
 slug: thisll-get-blogged-everywhere
 status: publish
 title: This'll get blogged everywhere

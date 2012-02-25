@@ -1,6 +1,7 @@
 ---
 date: '2007-10-11 15:31:36'
 layout: post
+comments: true
 slug: sweet-clockweather-station
 status: publish
 title: Sweet clock/weather station

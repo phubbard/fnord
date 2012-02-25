@@ -1,6 +1,7 @@
 ---
 date: '2007-10-06 17:51:01'
 layout: post
+comments: true
 slug: anna-in-a-hat
 status: publish
 title: Anna in a hat

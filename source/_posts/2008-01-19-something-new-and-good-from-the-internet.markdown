@@ -1,6 +1,7 @@
 ---
 date: '2008-01-19 18:28:40'
 layout: post
+comments: true
 slug: something-new-and-good-from-the-internet
 status: publish
 title: Something new and good from the Internet

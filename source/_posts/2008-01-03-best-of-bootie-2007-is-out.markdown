@@ -1,6 +1,7 @@
 ---
 date: '2008-01-03 15:17:16'
 layout: post
+comments: true
 slug: best-of-bootie-2007-is-out
 status: publish
 title: Best of Bootie 2007 is out!

@@ -1,6 +1,7 @@
 ---
 date: '2006-01-15 16:26:52'
 layout: post
+comments: true
 slug: apache-server-side-includes-on-debian
 status: publish
 title: Apache server-side includes on Debian

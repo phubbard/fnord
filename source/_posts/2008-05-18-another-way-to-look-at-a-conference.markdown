@@ -1,6 +1,7 @@
 ---
 date: '2008-05-18 15:27:01'
 layout: post
+comments: true
 slug: another-way-to-look-at-a-conference
 status: publish
 title: Another way to look at a conference

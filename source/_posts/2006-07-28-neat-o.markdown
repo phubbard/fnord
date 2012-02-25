@@ -1,6 +1,7 @@
 ---
 date: '2006-07-28 09:29:19'
 layout: post
+comments: true
 slug: neat-o
 status: publish
 title: Neat-o

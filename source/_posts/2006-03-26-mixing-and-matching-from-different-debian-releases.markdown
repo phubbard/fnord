@@ -1,6 +1,7 @@
 ---
 date: '2006-03-26 00:50:39'
 layout: post
+comments: true
 slug: mixing-and-matching-from-different-debian-releases
 status: publish
 title: Mixing and matching from different Debian releases

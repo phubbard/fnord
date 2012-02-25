@@ -1,6 +1,7 @@
 ---
 date: '2007-02-08 19:22:45'
 layout: post
+comments: true
 slug: the-just-in-time-watch-project
 status: publish
 title: The Just-in-time watch project

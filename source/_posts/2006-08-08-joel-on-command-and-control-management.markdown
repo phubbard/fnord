@@ -1,6 +1,7 @@
 ---
 date: '2006-08-08 09:31:37'
 layout: post
+comments: true
 slug: joel-on-command-and-control-management
 status: publish
 title: Joel on command and control management

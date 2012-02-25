@@ -1,6 +1,7 @@
 ---
 date: '2006-09-10 21:02:48'
 layout: post
+comments: true
 slug: neat-apple-trick
 status: publish
 title: Neat Apple trick

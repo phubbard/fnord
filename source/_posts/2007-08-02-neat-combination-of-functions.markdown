@@ -1,6 +1,7 @@
 ---
 date: '2007-08-02 10:10:52'
 layout: post
+comments: true
 slug: neat-combination-of-functions
 status: publish
 title: Neat combination of functions

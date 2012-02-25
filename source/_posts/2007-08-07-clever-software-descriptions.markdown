@@ -1,6 +1,7 @@
 ---
 date: '2007-08-07 10:04:11'
 layout: post
+comments: true
 slug: clever-software-descriptions
 status: publish
 title: Clever software descriptions

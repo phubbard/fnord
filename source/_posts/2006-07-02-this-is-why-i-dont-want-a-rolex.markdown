@@ -1,6 +1,7 @@
 ---
 date: '2006-07-02 13:22:03'
 layout: post
+comments: true
 slug: this-is-why-i-dont-want-a-rolex
 status: publish
 title: This is why I don't want a Rolex.

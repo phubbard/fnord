@@ -1,6 +1,7 @@
 ---
 date: '2011-01-31 16:20:49'
 layout: post
+comments: true
 slug: ham-radio-update
 status: publish
 title: Ham radio update

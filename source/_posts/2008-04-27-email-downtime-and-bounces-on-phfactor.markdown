@@ -1,6 +1,7 @@
 ---
 date: '2008-04-27 20:53:07'
 layout: post
+comments: true
 slug: email-downtime-and-bounces-on-phfactor
 status: publish
 title: Email downtime and bounces on phfactor

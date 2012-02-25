@@ -1,6 +1,7 @@
 ---
 date: '2007-08-26 11:35:07'
 layout: post
+comments: true
 slug: at-long-last-the-next-anna-album
 status: publish
 title: At long last, the next Anna album

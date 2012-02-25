@@ -1,6 +1,7 @@
 ---
 date: '2008-01-15 22:29:43'
 layout: post
+comments: true
 slug: what-is-he-doing
 status: publish
 title: What *is* he doing?

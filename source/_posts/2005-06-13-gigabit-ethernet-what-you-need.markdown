@@ -1,6 +1,7 @@
 ---
 date: '2005-06-13 14:12:27'
 layout: post
+comments: true
 slug: gigabit-ethernet-what-you-need
 status: publish
 title: Gigabit ethernet - what you need

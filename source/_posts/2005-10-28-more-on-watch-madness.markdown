@@ -1,6 +1,7 @@
 ---
 date: '2005-10-28 21:15:11'
 layout: post
+comments: true
 slug: more-on-watch-madness
 status: publish
 title: More on watch madness - the Seiko SBDB001

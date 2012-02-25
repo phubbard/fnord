@@ -1,6 +1,7 @@
 ---
 date: '2006-11-08 18:03:35'
 layout: post
+comments: true
 slug: i-miss-flying
 status: publish
 title: I miss flying

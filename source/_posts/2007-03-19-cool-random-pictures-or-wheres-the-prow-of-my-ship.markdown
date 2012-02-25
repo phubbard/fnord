@@ -1,6 +1,7 @@
 ---
 date: '2007-03-19 20:17:46'
 layout: post
+comments: true
 slug: cool-random-pictures-or-wheres-the-prow-of-my-ship
 status: publish
 title: Cool, random pictures. Or, where's the prow of my ship?

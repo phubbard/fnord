@@ -1,6 +1,7 @@
 ---
 date: '2006-09-23 09:58:51'
 layout: post
+comments: true
 slug: new-blackberry-resource-available
 status: publish
 title: New Blackberry resource available

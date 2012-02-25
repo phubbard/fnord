@@ -1,6 +1,7 @@
 ---
 date: '2010-04-15 11:01:30'
 layout: post
+comments: true
 slug: best-timezone-site-ive-seen-yet
 status: publish
 title: Best timezone site I've seen yet

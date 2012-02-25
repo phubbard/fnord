@@ -1,6 +1,7 @@
 ---
 date: '2007-09-15 08:44:42'
 layout: post
+comments: true
 slug: a-killer-list-of-recommended-movies-that-real-men-love
 status: publish
 title: A killer list of recommended movies that 'real men love'

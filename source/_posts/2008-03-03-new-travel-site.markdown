@@ -1,6 +1,7 @@
 ---
 date: '2008-03-03 20:50:25'
 layout: post
+comments: true
 slug: new-travel-site
 status: publish
 title: New travel site

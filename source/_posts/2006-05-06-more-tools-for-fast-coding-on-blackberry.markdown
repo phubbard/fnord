@@ -1,6 +1,7 @@
 ---
 date: '2006-05-06 09:54:23'
 layout: post
+comments: true
 slug: more-tools-for-fast-coding-on-blackberry
 status: publish
 title: More tools for fast coding on Blackberry

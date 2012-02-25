@@ -1,6 +1,7 @@
 ---
 date: '2007-02-07 17:03:42'
 layout: post
+comments: true
 slug: really-funny-food-blog
 status: publish
 title: Really funny food blog

@@ -1,6 +1,7 @@
 ---
 date: '2009-01-04 12:25:04'
 layout: post
+comments: true
 slug: an-amazing-tea-discovery
 status: publish
 title: An amazing tea discovery

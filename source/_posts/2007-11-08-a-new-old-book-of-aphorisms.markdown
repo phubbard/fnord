@@ -1,6 +1,7 @@
 ---
 date: '2007-11-08 10:51:45'
 layout: post
+comments: true
 slug: a-new-old-book-of-aphorisms
 status: publish
 title: A new-old book of aphorisms

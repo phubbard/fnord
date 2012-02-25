@@ -1,6 +1,7 @@
 ---
 date: '2008-04-16 15:11:32'
 layout: post
+comments: true
 slug: a-killer-side-gig
 status: publish
 title: A killer side gig

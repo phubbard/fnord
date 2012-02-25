@@ -1,6 +1,7 @@
 ---
 date: '2006-07-30 12:30:43'
 layout: post
+comments: true
 slug: this-one-is-for-christopher
 status: publish
 title: This one is for Christopher

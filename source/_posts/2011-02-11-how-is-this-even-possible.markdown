@@ -1,6 +1,7 @@
 ---
 date: '2011-02-11 09:45:50'
 layout: post
+comments: true
 slug: how-is-this-even-possible
 status: publish
 title: How is this even possible?!

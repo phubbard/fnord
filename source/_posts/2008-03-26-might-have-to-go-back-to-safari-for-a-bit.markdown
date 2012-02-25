@@ -1,6 +1,7 @@
 ---
 date: '2008-03-26 09:28:51'
 layout: post
+comments: true
 slug: might-have-to-go-back-to-safari-for-a-bit
 status: publish
 title: Might have to go back to Safari for a bit

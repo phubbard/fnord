@@ -1,6 +1,7 @@
 ---
 date: '2010-10-19 14:11:33'
 layout: post
+comments: true
 slug: music-recommendation
 status: publish
 title: Music recommendation

@@ -1,6 +1,7 @@
 ---
 date: '2006-08-31 13:00:21'
 layout: post
+comments: true
 slug: signs-of-the-apocalypse-as-seen-in-vegetables
 status: publish
 title: Signs of the apocalypse, as seen in vegetables.

@@ -1,6 +1,7 @@
 ---
 date: '2008-07-05 20:50:10'
 layout: post
+comments: true
 slug: double-take
 status: publish
 title: Double take

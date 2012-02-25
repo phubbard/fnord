@@ -1,6 +1,7 @@
 ---
 date: '2007-01-07 18:44:12'
 layout: post
+comments: true
 slug: new-blog-stats-bit
 status: publish
 title: New blog stats bit

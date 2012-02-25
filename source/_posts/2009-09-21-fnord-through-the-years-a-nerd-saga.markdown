@@ -1,6 +1,7 @@
 ---
 date: '2009-09-21 20:57:29'
 layout: post
+comments: true
 slug: fnord-through-the-years-a-nerd-saga
 status: publish
 title: Fnord through the years, a nerd saga

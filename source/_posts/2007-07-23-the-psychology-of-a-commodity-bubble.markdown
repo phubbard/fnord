@@ -1,6 +1,7 @@
 ---
 date: '2007-07-23 16:58:58'
 layout: post
+comments: true
 slug: the-psychology-of-a-commodity-bubble
 status: publish
 title: The psychology of a commodity bubble

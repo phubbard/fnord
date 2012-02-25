@@ -1,6 +1,7 @@
 ---
 date: '2008-06-10 09:12:41'
 layout: post
+comments: true
 slug: why-i-probably-wont-be-getting-an-iphone-3g
 status: publish
 title: Why I probably won't be getting an iPhone 3G

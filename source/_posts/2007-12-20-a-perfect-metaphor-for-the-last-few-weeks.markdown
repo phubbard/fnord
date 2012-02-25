@@ -1,6 +1,7 @@
 ---
 date: '2007-12-20 22:25:56'
 layout: post
+comments: true
 slug: a-perfect-metaphor-for-the-last-few-weeks
 status: publish
 title: A perfect metaphor for the last few weeks

@@ -1,6 +1,7 @@
 ---
 date: '2007-12-28 18:20:46'
 layout: post
+comments: true
 slug: im-a-little-slow-sometimes
 status: publish
 title: I'm a little slow sometimes

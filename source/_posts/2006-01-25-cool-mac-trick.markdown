@@ -1,6 +1,7 @@
 ---
 date: '2006-01-25 15:36:30'
 layout: post
+comments: true
 slug: cool-mac-trick
 status: publish
 title: Cool Mac trick

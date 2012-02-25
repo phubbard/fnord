@@ -1,6 +1,7 @@
 ---
 date: '2006-03-17 17:26:42'
 layout: post
+comments: true
 slug: '78'
 status: publish
 title: Audio, iPod, AAC and MP3. Hey, that rhymes.

@@ -1,6 +1,7 @@
 ---
 date: '2008-04-22 10:55:18'
 layout: post
+comments: true
 slug: a-review-of-the-yes-inca-wristwatch
 status: publish
 title: A review of the Yes Inca wristwatch

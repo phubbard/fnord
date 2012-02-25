@@ -1,6 +1,7 @@
 ---
 date: '2010-12-12 17:26:14'
 layout: post
+comments: true
 slug: robot-cart
 status: publish
 title: Robot cart!

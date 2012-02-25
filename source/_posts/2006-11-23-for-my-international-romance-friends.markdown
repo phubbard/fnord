@@ -1,6 +1,7 @@
 ---
 date: '2006-11-23 10:03:07'
 layout: post
+comments: true
 slug: for-my-international-romance-friends
 status: publish
 title: For my international-romance friends

@@ -1,6 +1,7 @@
 ---
 date: '2006-12-05 21:48:05'
 layout: post
+comments: true
 slug: what-makes-a-watch-tick
 status: publish
 title: What makes a watch tick?

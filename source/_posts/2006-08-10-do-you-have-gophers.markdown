@@ -1,6 +1,7 @@
 ---
 date: '2006-08-10 18:03:16'
 layout: post
+comments: true
 slug: do-you-have-gophers
 status: publish
 title: Do you have gophers?

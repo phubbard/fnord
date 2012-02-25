@@ -1,6 +1,7 @@
 ---
 date: '2009-06-26 10:43:08'
 layout: post
+comments: true
 slug: useful-zsh-tricks
 status: publish
 title: Useful zsh tricks

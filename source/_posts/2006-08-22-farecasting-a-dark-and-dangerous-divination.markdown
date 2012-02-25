@@ -1,6 +1,7 @@
 ---
 date: '2006-08-22 09:20:28'
 layout: post
+comments: true
 slug: farecasting-a-dark-and-dangerous-divination
 status: publish
 title: Farecasting, a dark and dangerous divination

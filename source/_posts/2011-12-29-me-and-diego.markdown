@@ -1,6 +1,7 @@
 ---
 date: '2011-12-29 12:17:58'
 layout: post
+comments: true
 slug: me-and-diego
 status: publish
 title: Me and Diego

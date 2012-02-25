@@ -1,6 +1,7 @@
 ---
 date: '2006-10-16 14:06:46'
 layout: post
+comments: true
 slug: future-warning-signs
 status: publish
 title: Future warning signs

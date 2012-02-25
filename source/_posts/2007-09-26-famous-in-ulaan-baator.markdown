@@ -1,6 +1,7 @@
 ---
 date: '2007-09-26 09:29:16'
 layout: post
+comments: true
 slug: famous-in-ulaan-baator
 status: publish
 title: Famous in Ulaan Baator

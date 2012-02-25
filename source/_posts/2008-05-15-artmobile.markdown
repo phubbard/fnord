@@ -1,6 +1,7 @@
 ---
 date: '2008-05-15 18:53:03'
 layout: post
+comments: true
 slug: artmobile
 status: publish
 title: Artmobile!

@@ -1,6 +1,7 @@
 ---
 date: '2008-02-11 10:28:12'
 layout: post
+comments: true
 slug: there-are-still-good-people-out-there
 status: publish
 title: There are still good people out there

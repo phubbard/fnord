@@ -1,6 +1,7 @@
 ---
 date: '2005-10-28 13:30:35'
 layout: post
+comments: true
 slug: caffeinefinder-updated-to-103
 status: publish
 title: CaffeineFinder updated to 1.0.3

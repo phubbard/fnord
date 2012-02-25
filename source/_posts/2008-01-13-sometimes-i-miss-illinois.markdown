@@ -1,6 +1,7 @@
 ---
 date: '2008-01-13 19:49:57'
 layout: post
+comments: true
 slug: sometimes-i-miss-illinois
 status: publish
 title: Sometimes I miss Illinois

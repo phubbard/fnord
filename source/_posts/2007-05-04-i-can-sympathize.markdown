@@ -1,6 +1,7 @@
 ---
 date: '2007-05-04 07:15:19'
 layout: post
+comments: true
 slug: i-can-sympathize
 status: publish
 title: I can sympathize

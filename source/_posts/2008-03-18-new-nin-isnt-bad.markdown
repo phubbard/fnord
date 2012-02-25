@@ -1,6 +1,7 @@
 ---
 date: '2008-03-18 14:28:36'
 layout: post
+comments: true
 slug: new-nin-isnt-bad
 status: publish
 title: New NIN isn't bad

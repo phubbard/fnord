@@ -1,6 +1,7 @@
 ---
 date: '2008-05-27 16:47:12'
 layout: post
+comments: true
 slug: fun
 status: publish
 title: Fun!

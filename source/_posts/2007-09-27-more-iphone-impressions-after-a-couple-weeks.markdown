@@ -1,6 +1,7 @@
 ---
 date: '2007-09-27 19:42:39'
 layout: post
+comments: true
 slug: more-iphone-impressions-after-a-couple-weeks
 status: publish
 title: More iPhone impressions after a couple weeks

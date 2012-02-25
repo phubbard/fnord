@@ -1,6 +1,7 @@
 ---
 date: '2006-11-26 14:29:55'
 layout: post
+comments: true
 slug: some-holiday-shopping-tips
 status: publish
 title: Some holiday shopping tips

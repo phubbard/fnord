@@ -1,6 +1,7 @@
 ---
 date: '2007-09-15 09:46:35'
 layout: post
+comments: true
 slug: the-cattruck-came-back
 status: publish
 title: The cat truck came back!

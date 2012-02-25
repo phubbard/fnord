@@ -1,6 +1,7 @@
 ---
 date: '2006-11-06 16:46:04'
 layout: post
+comments: true
 slug: its-a-small-interdependant-world
 status: publish
 title: It's a small, interdependant world

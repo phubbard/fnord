@@ -1,6 +1,7 @@
 ---
 date: '2007-09-18 13:50:35'
 layout: post
+comments: true
 slug: almost-as-good-as-a-flying-car
 status: publish
 title: Almost as good as a flying car

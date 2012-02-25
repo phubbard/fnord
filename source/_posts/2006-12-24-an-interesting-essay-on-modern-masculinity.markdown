@@ -1,6 +1,7 @@
 ---
 date: '2006-12-24 16:09:30'
 layout: post
+comments: true
 slug: an-interesting-essay-on-modern-masculinity
 status: publish
 title: An interesting essay on modern masculinity

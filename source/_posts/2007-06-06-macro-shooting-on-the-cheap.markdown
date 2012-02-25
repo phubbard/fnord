@@ -1,6 +1,7 @@
 ---
 date: '2007-06-06 22:18:44'
 layout: post
+comments: true
 slug: macro-shooting-on-the-cheap
 status: publish
 title: Macro shooting on the cheap

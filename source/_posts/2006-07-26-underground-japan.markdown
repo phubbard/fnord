@@ -1,6 +1,7 @@
 ---
 date: '2006-07-26 19:23:23'
 layout: post
+comments: true
 slug: underground-japan
 status: publish
 title: Underground Japan

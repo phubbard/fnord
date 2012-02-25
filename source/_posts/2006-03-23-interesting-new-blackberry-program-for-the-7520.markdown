@@ -1,6 +1,7 @@
 ---
 date: '2006-03-23 10:49:02'
 layout: post
+comments: true
 slug: interesting-new-blackberry-program-for-the-7520
 status: publish
 title: Interesting new blackberry program for the 7520

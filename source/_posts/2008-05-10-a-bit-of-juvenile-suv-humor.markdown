@@ -1,6 +1,7 @@
 ---
 date: '2008-05-10 11:01:23'
 layout: post
+comments: true
 slug: a-bit-of-juvenile-suv-humor
 status: publish
 title: A bit of juvenile SUV humor

@@ -1,6 +1,7 @@
 ---
 date: '2008-04-16 21:50:39'
 layout: post
+comments: true
 slug: asleep-in-the-hall
 status: publish
 title: Asleep in the hall

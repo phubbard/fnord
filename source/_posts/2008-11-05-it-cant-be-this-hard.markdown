@@ -1,6 +1,7 @@
 ---
 date: '2008-11-05 10:41:34'
 layout: post
+comments: true
 slug: it-cant-be-this-hard
 status: publish
 title: It *can't* be this hard

@@ -1,6 +1,7 @@
 ---
 date: '2007-06-08 17:47:58'
 layout: post
+comments: true
 slug: the-good-and-the-bad-of-hillcrest
 status: publish
 title: The good and the bad of Hillcrest

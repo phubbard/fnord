@@ -1,6 +1,7 @@
 ---
 date: '2011-04-30 09:06:57'
 layout: post
+comments: true
 slug: marsedit-test
 status: publish
 title: MarsEdit test

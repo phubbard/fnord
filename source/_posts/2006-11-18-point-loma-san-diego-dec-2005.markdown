@@ -1,6 +1,7 @@
 ---
 date: '2006-11-18 19:34:03'
 layout: post
+comments: true
 slug: point-loma-san-diego-dec-2005
 status: publish
 title: Point Loma, San Diego, Dec 2005

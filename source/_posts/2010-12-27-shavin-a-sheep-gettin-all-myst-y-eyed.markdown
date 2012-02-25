@@ -1,6 +1,7 @@
 ---
 date: '2010-12-27 20:26:58'
 layout: post
+comments: true
 slug: shavin-a-sheep-gettin-all-myst-y-eyed
 status: publish
 title: Shavin' a sheep, gettin' all myst-y eyed

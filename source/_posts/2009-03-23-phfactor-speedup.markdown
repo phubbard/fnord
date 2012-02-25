@@ -1,6 +1,7 @@
 ---
 date: '2009-03-23 10:36:34'
 layout: post
+comments: true
 slug: phfactor-speedup
 status: publish
 title: phfactor speedup

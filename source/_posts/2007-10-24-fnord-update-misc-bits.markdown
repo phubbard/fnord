@@ -1,6 +1,7 @@
 ---
 date: '2007-10-24 15:32:37'
 layout: post
+comments: true
 slug: fnord-update-misc-bits
 status: publish
 title: Fnord update - misc bits

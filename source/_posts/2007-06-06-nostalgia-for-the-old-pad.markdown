@@ -1,6 +1,7 @@
 ---
 date: '2007-06-06 21:04:28'
 layout: post
+comments: true
 slug: nostalgia-for-the-old-pad
 status: publish
 title: Nostalgia for the old pad

@@ -1,6 +1,7 @@
 ---
 date: '2010-01-14 13:39:28'
 layout: post
+comments: true
 slug: random-snapshot
 status: publish
 title: Random snapshot

@@ -1,6 +1,7 @@
 ---
 date: '2006-07-08 21:47:54'
 layout: post
+comments: true
 slug: oxyd-rides-again
 status: publish
 title: Oxyd rides again!

@@ -1,6 +1,7 @@
 ---
 date: '2006-08-05 11:13:05'
 layout: post
+comments: true
 slug: ethical-traval
 status: publish
 title: Ethical traval

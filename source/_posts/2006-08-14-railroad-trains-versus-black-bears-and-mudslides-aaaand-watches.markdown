@@ -1,6 +1,7 @@
 ---
 date: '2006-08-14 21:00:07'
 layout: post
+comments: true
 slug: railroad-trains-versus-black-bears-and-mudslides-aaaand-watches
 status: publish
 title: Railroad trains versus black bears and mudslides.... aaaand watches.

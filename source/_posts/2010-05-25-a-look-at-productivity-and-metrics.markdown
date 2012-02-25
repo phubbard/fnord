@@ -1,6 +1,7 @@
 ---
 date: '2010-05-25 13:52:47'
 layout: post
+comments: true
 slug: a-look-at-productivity-and-metrics
 status: publish
 title: A look at productivity and metrics

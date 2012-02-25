@@ -1,6 +1,7 @@
 ---
 date: '2008-04-07 20:30:53'
 layout: post
+comments: true
 slug: a-much-improved-dive-watch-band
 status: publish
 title: A much-improved dive watch band

@@ -1,6 +1,7 @@
 ---
 date: '2006-08-08 09:35:34'
 layout: post
+comments: true
 slug: i-want-my-damned-flying-car
 status: publish
 title: I want my damned flying car!

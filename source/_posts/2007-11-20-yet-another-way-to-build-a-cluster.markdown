@@ -1,6 +1,7 @@
 ---
 date: '2007-11-20 12:15:01'
 layout: post
+comments: true
 slug: yet-another-way-to-build-a-cluster
 status: publish
 title: Yet another way to build a cluster

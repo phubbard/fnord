@@ -1,6 +1,7 @@
 ---
 date: '2007-03-16 15:23:37'
 layout: post
+comments: true
 slug: iterm-and-distraction-free-computing
 status: publish
 title: iTerm and distraction-free computing

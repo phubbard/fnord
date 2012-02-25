@@ -1,6 +1,7 @@
 ---
 date: '2007-07-21 12:30:55'
 layout: post
+comments: true
 slug: more-anna-pictures
 status: publish
 title: More Anna pictures

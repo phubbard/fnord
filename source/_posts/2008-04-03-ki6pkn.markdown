@@ -1,6 +1,7 @@
 ---
 date: '2008-04-03 12:12:26'
 layout: post
+comments: true
 slug: ki6pkn
 status: publish
 title: KI6PKN

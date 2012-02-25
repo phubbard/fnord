@@ -1,6 +1,7 @@
 ---
 date: '2008-01-12 15:54:09'
 layout: post
+comments: true
 slug: lunch-with-sameer-at-mission-cafe
 status: publish
 title: Lunch with Sameer at Mission Cafe

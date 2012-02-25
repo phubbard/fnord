@@ -1,6 +1,7 @@
 ---
 date: '2006-07-26 19:41:14'
 layout: post
+comments: true
 slug: best-post-about-uml-ive-yet-seen
 status: publish
 title: Best post about UML I've yet seen

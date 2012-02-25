@@ -1,6 +1,7 @@
 ---
 date: '2011-03-16 11:12:59'
 layout: post
+comments: true
 slug: arduinoosxrxtx-bug-and-fix
 status: publish
 title: Arduino+OSX+RXTX bug and fix

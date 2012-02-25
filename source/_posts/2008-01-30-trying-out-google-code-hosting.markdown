@@ -1,6 +1,7 @@
 ---
 date: '2008-01-30 20:42:27'
 layout: post
+comments: true
 slug: trying-out-google-code-hosting
 status: publish
 title: Trying out Google code hosting

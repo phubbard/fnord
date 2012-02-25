@@ -1,6 +1,7 @@
 ---
 date: '2006-11-11 23:40:49'
 layout: post
+comments: true
 slug: hardware-and-software-raid5-under-linux
 status: publish
 title: Hardware and software RAID5 under linux

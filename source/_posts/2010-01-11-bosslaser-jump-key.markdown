@@ -1,6 +1,7 @@
 ---
 date: '2010-01-11 09:57:51'
 layout: post
+comments: true
 slug: bosslaser-jump-key
 status: publish
 title: Boss/laser jump key

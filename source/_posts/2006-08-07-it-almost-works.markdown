@@ -1,6 +1,7 @@
 ---
 date: '2006-08-07 09:56:45'
 layout: post
+comments: true
 slug: it-almost-works
 status: publish
 title: It *almost* works

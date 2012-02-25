@@ -1,6 +1,7 @@
 ---
 date: '2006-03-11 11:49:48'
 layout: post
+comments: true
 slug: blackberry-syncml-and-such
 status: publish
 title: Blackberry, SyncML, and such

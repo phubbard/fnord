@@ -1,6 +1,7 @@
 ---
 date: '2005-11-09 13:10:10'
 layout: post
+comments: true
 slug: we-know-that-the-most-dangerous-human-trait-is-an-absence-of-self-doubt-and-that-self-doubt-is-more-likely-to-be-absent-from-the-mind-of-the-believer-than-the-infidel
 status: publish
 title: We know that the most dangerous human trait is an absence of self-doubt, and

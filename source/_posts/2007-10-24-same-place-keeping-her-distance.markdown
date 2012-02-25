@@ -1,6 +1,7 @@
 ---
 date: '2007-10-24 16:38:12'
 layout: post
+comments: true
 slug: same-place-keeping-her-distance
 status: publish
 title: Same place, keeping her distance

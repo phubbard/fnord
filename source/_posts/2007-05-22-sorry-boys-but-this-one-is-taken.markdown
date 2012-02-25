@@ -1,6 +1,7 @@
 ---
 date: '2007-05-22 22:09:46'
 layout: post
+comments: true
 slug: sorry-boys-but-this-one-is-taken
 status: publish
 title: Sorry boys, but this one is taken

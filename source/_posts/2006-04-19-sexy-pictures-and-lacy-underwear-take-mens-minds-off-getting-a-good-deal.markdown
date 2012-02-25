@@ -1,6 +1,7 @@
 ---
 date: '2006-04-19 10:08:58'
 layout: post
+comments: true
 slug: sexy-pictures-and-lacy-underwear-take-mens-minds-off-getting-a-good-deal
 status: publish
 title: Sexy pictures and lacy underwear take men's minds off getting a good deal.

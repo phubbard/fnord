@@ -1,6 +1,7 @@
 ---
 date: '2008-03-28 11:49:37'
 layout: post
+comments: true
 slug: its-easter-and-i-am-not-content
 status: publish
 title: It's Easter, and I am not content

@@ -1,6 +1,7 @@
 ---
 date: '2010-04-19 15:59:00'
 layout: post
+comments: true
 slug: weather-station-code-posted-at-github
 status: publish
 title: Weather station code posted at github

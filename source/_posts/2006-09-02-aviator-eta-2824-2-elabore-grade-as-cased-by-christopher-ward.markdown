@@ -1,6 +1,7 @@
 ---
 date: '2006-09-02 13:18:33'
 layout: post
+comments: true
 slug: aviator-eta-2824-2-elabore-grade-as-cased-by-christopher-ward
 status: publish
 title: Aviator, ETA 2824-2, Elabore grade, as cased by Christopher Ward

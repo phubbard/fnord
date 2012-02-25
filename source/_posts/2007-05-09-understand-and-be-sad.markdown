@@ -1,6 +1,7 @@
 ---
 date: '2007-05-09 12:08:50'
 layout: post
+comments: true
 slug: understand-and-be-sad
 status: publish
 title: Understand, and be sad.

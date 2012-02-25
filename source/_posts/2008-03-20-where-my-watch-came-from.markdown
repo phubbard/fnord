@@ -1,6 +1,7 @@
 ---
 date: '2008-03-20 20:28:57'
 layout: post
+comments: true
 slug: where-my-watch-came-from
 status: publish
 title: Where my watch came from

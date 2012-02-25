@@ -1,6 +1,7 @@
 ---
 date: '2006-06-11 15:40:18'
 layout: post
+comments: true
 slug: why-we-dont-own-a-house-in-san-diego
 status: publish
 title: Why we don't own a house in San Diego

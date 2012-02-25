@@ -1,6 +1,7 @@
 ---
 date: '2006-01-26 23:00:16'
 layout: post
+comments: true
 slug: more-squeezebox-hacking
 status: publish
 title: More squeezebox hacking

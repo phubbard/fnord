@@ -1,6 +1,7 @@
 ---
 date: '2005-12-11 16:15:15'
 layout: post
+comments: true
 slug: client-mode-on-linksys-wrt54gs
 status: publish
 title: Client mode on Linksys WRT54GS

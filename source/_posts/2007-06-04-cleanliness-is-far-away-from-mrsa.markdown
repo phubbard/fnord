@@ -1,6 +1,7 @@
 ---
 date: '2007-06-04 18:06:32'
 layout: post
+comments: true
 slug: cleanliness-is-far-away-from-mrsa
 status: publish
 title: Cleanliness is far away from MRSA

@@ -1,6 +1,7 @@
 ---
 date: '2008-03-22 12:49:43'
 layout: post
+comments: true
 slug: life-today-in-our-house
 status: publish
 title: Life today in our house

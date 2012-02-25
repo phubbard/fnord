@@ -1,6 +1,7 @@
 ---
 date: '2011-10-09 17:01:28'
 layout: post
+comments: true
 slug: server-hard-drive-upgraded
 status: publish
 title: Server hard drive upgraded

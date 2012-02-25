@@ -1,6 +1,7 @@
 ---
 date: '2006-03-27 18:26:19'
 layout: post
+comments: true
 slug: '81'
 status: publish
 title: Engine-turned machined parts

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Aetna #fail"
 date: 2012-02-24 11:20
 comments: true

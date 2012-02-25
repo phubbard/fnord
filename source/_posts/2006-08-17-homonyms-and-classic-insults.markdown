@@ -1,6 +1,7 @@
 ---
 date: '2006-08-17 16:05:56'
 layout: post
+comments: true
 slug: homonyms-and-classic-insults
 status: publish
 title: Homonyms and classic insults

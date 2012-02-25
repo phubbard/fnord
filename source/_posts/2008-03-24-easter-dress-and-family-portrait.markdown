@@ -1,6 +1,7 @@
 ---
 date: '2008-03-24 08:53:06'
 layout: post
+comments: true
 slug: easter-dress-and-family-portrait
 status: publish
 title: Easter dress and family portrait

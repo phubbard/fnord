@@ -1,6 +1,7 @@
 ---
 date: '2008-07-02 12:52:49'
 layout: post
+comments: true
 slug: elbow-gedanken
 status: publish
 title: Elbow gedanken

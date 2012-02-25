@@ -1,6 +1,7 @@
 ---
 date: '2006-09-12 17:58:38'
 layout: post
+comments: true
 slug: almost-forgot-the-aeropress
 status: publish
 title: Almost forgot... the Aeropress!

@@ -1,6 +1,7 @@
 ---
 date: '2007-01-07 19:12:22'
 layout: post
+comments: true
 slug: antec-sonata-ii-case-a-brief-review
 status: publish
 title: Antec Sonata II case, a brief review

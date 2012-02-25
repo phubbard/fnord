@@ -1,6 +1,7 @@
 ---
 date: '2009-08-11 11:23:33'
 layout: post
+comments: true
 slug: network-upgrade
 status: publish
 title: Network upgrade

@@ -1,6 +1,7 @@
 ---
 date: '2007-07-07 15:48:30'
 layout: post
+comments: true
 slug: hmm-ghort-is-looking-really-euro-these-days
 status: publish
 title: Hmm, ghort is looking really Euro these days

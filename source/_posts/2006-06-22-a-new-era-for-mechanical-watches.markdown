@@ -1,6 +1,7 @@
 ---
 date: '2006-06-22 12:22:05'
 layout: post
+comments: true
 slug: a-new-era-for-mechanical-watches
 status: publish
 title: A new era for mechanical watches

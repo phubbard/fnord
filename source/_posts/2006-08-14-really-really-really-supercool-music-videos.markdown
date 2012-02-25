@@ -1,6 +1,7 @@
 ---
 date: '2006-08-14 10:26:17'
 layout: post
+comments: true
 slug: really-really-really-supercool-music-videos
 status: publish
 title: Really, really, really supercool music videos.

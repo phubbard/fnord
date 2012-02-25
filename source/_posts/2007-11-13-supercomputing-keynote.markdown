@@ -1,6 +1,7 @@
 ---
 date: '2007-11-13 09:49:42'
 layout: post
+comments: true
 slug: supercomputing-keynote
 status: publish
 title: Supercomputing keynote

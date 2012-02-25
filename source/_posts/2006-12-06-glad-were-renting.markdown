@@ -1,6 +1,7 @@
 ---
 date: '2006-12-06 17:01:56'
 layout: post
+comments: true
 slug: glad-were-renting
 status: publish
 title: Glad we're renting

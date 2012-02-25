@@ -1,6 +1,7 @@
 ---
 date: '2010-11-01 13:06:18'
 layout: post
+comments: true
 slug: art
 status: publish
 title: Art

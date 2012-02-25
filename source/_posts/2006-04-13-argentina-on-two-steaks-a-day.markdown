@@ -1,6 +1,7 @@
 ---
 date: '2006-04-13 19:36:45'
 layout: post
+comments: true
 slug: argentina-on-two-steaks-a-day
 status: publish
 title: Argentina on two steaks a day

@@ -1,6 +1,7 @@
 ---
 date: '2007-01-25 15:30:56'
 layout: post
+comments: true
 slug: inside-the-pearl-part-two
 status: publish
 title: Inside the Pearl, part two

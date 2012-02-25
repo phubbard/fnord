@@ -1,6 +1,7 @@
 ---
 date: '2008-05-18 11:38:55'
 layout: post
+comments: true
 slug: anna-versus-the-suunto
 status: publish
 title: Anna versus the Suunto

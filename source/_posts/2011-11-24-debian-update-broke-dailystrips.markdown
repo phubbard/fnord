@@ -1,6 +1,7 @@
 ---
 date: '2011-11-24 08:40:42'
 layout: post
+comments: true
 slug: debian-update-broke-dailystrips
 status: publish
 title: Debian update broke dailystrips

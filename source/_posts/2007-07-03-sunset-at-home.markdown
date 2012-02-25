@@ -1,6 +1,7 @@
 ---
 date: '2007-07-03 14:34:08'
 layout: post
+comments: true
 slug: sunset-at-home
 status: publish
 title: Sunset at home

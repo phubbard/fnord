@@ -1,6 +1,7 @@
 ---
 date: '2009-08-06 20:07:48'
 layout: post
+comments: true
 slug: a-small-chuckle
 status: publish
 title: A small chuckle

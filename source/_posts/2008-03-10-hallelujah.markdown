@@ -1,6 +1,7 @@
 ---
 date: '2008-03-10 10:14:28'
 layout: post
+comments: true
 slug: hallelujah
 status: publish
 title: Hallelujah

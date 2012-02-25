@@ -1,6 +1,7 @@
 ---
 date: '2006-11-28 22:39:44'
 layout: post
+comments: true
 slug: wish-id-had-this-before
 status: publish
 title: Wish I'd had this before

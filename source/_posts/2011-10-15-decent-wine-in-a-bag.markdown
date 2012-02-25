@@ -1,6 +1,7 @@
 ---
 date: '2011-10-15 13:14:38'
 layout: post
+comments: true
 slug: decent-wine-in-a-bag
 status: publish
 title: Decent wine in a bag?

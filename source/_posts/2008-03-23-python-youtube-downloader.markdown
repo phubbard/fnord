@@ -1,6 +1,7 @@
 ---
 date: '2008-03-23 10:25:58'
 layout: post
+comments: true
 slug: python-youtube-downloader
 status: publish
 title: Python YouTube downloader

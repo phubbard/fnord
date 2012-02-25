@@ -1,6 +1,7 @@
 ---
 date: '2009-02-11 17:07:27'
 layout: post
+comments: true
 slug: some-things-are-harder-than-you-expect
 status: publish
 title: Some things are harder than you expect

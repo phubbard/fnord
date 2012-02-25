@@ -1,6 +1,7 @@
 ---
 date: '2006-08-18 17:06:49'
 layout: post
+comments: true
 slug: todays-and-yesterdays-train-and-watch-postings
 status: publish
 title: Today's (and yesterdays') train-and-watch postings

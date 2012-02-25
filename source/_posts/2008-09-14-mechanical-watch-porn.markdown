@@ -1,6 +1,7 @@
 ---
 date: '2008-09-14 18:32:04'
 layout: post
+comments: true
 slug: mechanical-watch-porn
 status: publish
 title: Mechanical watch porn

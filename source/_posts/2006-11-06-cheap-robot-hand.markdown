@@ -1,6 +1,7 @@
 ---
 date: '2006-11-06 11:35:13'
 layout: post
+comments: true
 slug: cheap-robot-hand
 status: publish
 title: Cheap robot hand!

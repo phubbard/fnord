@@ -1,6 +1,7 @@
 ---
 date: '2005-12-16 14:24:13'
 layout: post
+comments: true
 slug: the-value-of-time
 status: publish
 title: The Value of Time

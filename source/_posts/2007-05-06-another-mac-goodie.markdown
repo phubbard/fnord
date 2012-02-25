@@ -1,6 +1,7 @@
 ---
 date: '2007-05-06 19:15:35'
 layout: post
+comments: true
 slug: another-mac-goodie
 status: publish
 title: Another Mac goodie

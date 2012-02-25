@@ -1,6 +1,7 @@
 ---
 date: '2010-03-05 11:38:37'
 layout: post
+comments: true
 slug: more-tips-for-visiting-hong-kong
 status: publish
 title: More tips for visiting Hong Kong

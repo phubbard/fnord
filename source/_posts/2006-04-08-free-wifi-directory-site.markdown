@@ -1,6 +1,7 @@
 ---
 date: '2006-04-08 14:20:56'
 layout: post
+comments: true
 slug: free-wifi-directory-site
 status: publish
 title: Free WiFi directory site

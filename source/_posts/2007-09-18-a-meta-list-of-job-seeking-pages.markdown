@@ -1,6 +1,7 @@
 ---
 date: '2007-09-18 14:23:19'
 layout: post
+comments: true
 slug: a-meta-list-of-job-seeking-pages
 status: publish
 title: A meta-list of job seeking pages

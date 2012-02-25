@@ -1,6 +1,7 @@
 ---
 date: '2006-04-12 18:42:33'
 layout: post
+comments: true
 slug: cool-toys-these
 status: publish
 title: Cool toys, these

@@ -1,6 +1,7 @@
 ---
 date: '2009-03-27 14:16:30'
 layout: post
+comments: true
 slug: small-but-useful-things-skim-pdf-reader
 status: publish
 title: 'Small but useful things: Skim PDF reader'

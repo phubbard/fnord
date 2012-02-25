@@ -1,6 +1,7 @@
 ---
 date: '2007-02-25 16:39:51'
 layout: post
+comments: true
 slug: sugar-the-opiate-of-our-times
 status: publish
 title: Sugar, the opiate of our times

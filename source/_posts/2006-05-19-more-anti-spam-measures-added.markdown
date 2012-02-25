@@ -1,6 +1,7 @@
 ---
 date: '2006-05-19 10:18:01'
 layout: post
+comments: true
 slug: more-anti-spam-measures-added
 status: publish
 title: More anti-spam measures added

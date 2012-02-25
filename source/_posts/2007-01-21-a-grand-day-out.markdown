@@ -1,6 +1,7 @@
 ---
 date: '2007-01-21 15:22:34'
 layout: post
+comments: true
 slug: a-grand-day-out
 status: publish
 title: A grand day out

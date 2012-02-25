@@ -1,6 +1,7 @@
 ---
 date: '2008-02-03 20:40:46'
 layout: post
+comments: true
 slug: two-things-i-just-dont-get-mozart-and-light-roast-coffee
 status: publish
 title: 'Two things I just don''t get: Mozart and light-roast coffee'

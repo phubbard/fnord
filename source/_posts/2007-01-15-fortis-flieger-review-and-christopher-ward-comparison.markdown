@@ -1,6 +1,7 @@
 ---
 date: '2007-01-15 10:52:40'
 layout: post
+comments: true
 slug: fortis-flieger-review-and-christopher-ward-comparison
 status: publish
 title: Fortis Flieger review and Christopher Ward comparison

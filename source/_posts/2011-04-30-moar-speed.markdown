@@ -1,6 +1,7 @@
 ---
 date: '2011-04-30 20:52:51'
 layout: post
+comments: true
 slug: moar-speed
 status: publish
 title: Moar Speed!

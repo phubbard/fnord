@@ -1,6 +1,7 @@
 ---
 date: '2007-07-03 14:27:11'
 layout: post
+comments: true
 slug: another-one-for-diego-2
 status: publish
 title: Another one for Diego

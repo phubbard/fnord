@@ -1,6 +1,7 @@
 ---
 date: '2009-09-03 14:20:19'
 layout: post
+comments: true
 slug: have-fun
 status: publish
 title: Have fun!

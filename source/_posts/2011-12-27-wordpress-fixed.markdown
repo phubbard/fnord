@@ -1,6 +1,7 @@
 ---
 date: '2011-12-27 13:42:04'
 layout: post
+comments: true
 slug: wordpress-fixed
 status: publish
 title: WordPress fixed

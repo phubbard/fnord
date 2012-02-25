@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Added email subscriptions to the site"
 date: 2012-02-24 09:13
 comments: true

@@ -1,6 +1,7 @@
 ---
 date: '2008-02-07 11:55:17'
 layout: post
+comments: true
 slug: all-about-food-coloring
 status: publish
 title: All about food coloring

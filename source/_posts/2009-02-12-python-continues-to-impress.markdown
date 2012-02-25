@@ -1,6 +1,7 @@
 ---
 date: '2009-02-12 11:15:45'
 layout: post
+comments: true
 slug: python-continues-to-impress
 status: publish
 title: Python continues to impress

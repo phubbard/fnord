@@ -1,6 +1,7 @@
 ---
 date: '2007-09-17 15:50:02'
 layout: post
+comments: true
 slug: once-more-into-the-breach-dear-friends
 status: publish
 title: Once more into the breach, dear friends

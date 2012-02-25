@@ -1,6 +1,7 @@
 ---
 date: '2006-11-28 20:54:37'
 layout: post
+comments: true
 slug: raid5-initial-benchmarks
 status: publish
 title: RAID5 initial benchmarks

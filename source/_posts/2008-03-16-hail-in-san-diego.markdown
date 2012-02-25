@@ -1,6 +1,7 @@
 ---
 date: '2008-03-16 09:49:38'
 layout: post
+comments: true
 slug: hail-in-san-diego
 status: publish
 title: Hail in San diego!

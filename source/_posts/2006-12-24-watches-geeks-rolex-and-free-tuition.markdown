@@ -1,6 +1,7 @@
 ---
 date: '2006-12-24 12:33:23'
 layout: post
+comments: true
 slug: watches-geeks-rolex-and-free-tuition
 status: publish
 title: Watches, geeks, Rolex and free tuition.

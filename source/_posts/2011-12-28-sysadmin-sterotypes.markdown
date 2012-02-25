@@ -1,6 +1,7 @@
 ---
 date: '2011-12-28 12:19:54'
 layout: post
+comments: true
 slug: sysadmin-sterotypes
 status: publish
 title: Sysadmin sterotypes

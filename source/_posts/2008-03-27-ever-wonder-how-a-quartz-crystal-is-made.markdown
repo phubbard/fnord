@@ -1,6 +1,7 @@
 ---
 date: '2008-03-27 12:17:33'
 layout: post
+comments: true
 slug: ever-wonder-how-a-quartz-crystal-is-made
 status: publish
 title: Ever wonder how a quartz crystal is made?

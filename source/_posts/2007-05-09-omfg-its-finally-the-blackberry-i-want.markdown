@@ -1,6 +1,7 @@
 ---
 date: '2007-05-09 11:52:29'
 layout: post
+comments: true
 slug: omfg-its-finally-the-blackberry-i-want
 status: publish
 title: OMFG, it's finally the blackberry I want

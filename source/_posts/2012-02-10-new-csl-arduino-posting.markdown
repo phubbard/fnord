@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "New CSL Arduino posting"
 date: 2012-02-10 10:29
 comments: true
@@ -25,7 +26,8 @@ task :new_post, :title do |t, args|
   puts "Creating new post: #{filename}"
   open(filename, 'w') do |post|
     post.puts "---"
-    post.puts "layout: post"
+    post.puts "layout: post
+comments: true"
     post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
     post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
     post.puts "comments: true"

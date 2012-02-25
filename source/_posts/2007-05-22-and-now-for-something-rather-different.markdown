@@ -1,6 +1,7 @@
 ---
 date: '2007-05-22 13:07:32'
 layout: post
+comments: true
 slug: and-now-for-something-rather-different
 status: publish
 title: And now for something rather different

@@ -1,6 +1,7 @@
 ---
 date: '2007-09-24 10:50:30'
 layout: post
+comments: true
 slug: scream-away-youll-live-longer
 status: publish
 title: Scream away, you'll live longer.

@@ -1,6 +1,7 @@
 ---
 date: '2008-12-18 12:58:28'
 layout: post
+comments: true
 slug: what-does-this-mean
 status: publish
 title: What does this mean?

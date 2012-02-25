@@ -1,6 +1,7 @@
 ---
 date: '2007-10-24 19:00:21'
 layout: post
+comments: true
 slug: one-more-sidebar-to-try
 status: publish
 title: One more sidebar to try

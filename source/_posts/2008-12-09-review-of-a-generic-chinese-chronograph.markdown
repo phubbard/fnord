@@ -1,6 +1,7 @@
 ---
 date: '2008-12-09 21:42:20'
 layout: post
+comments: true
 slug: review-of-a-generic-chinese-chronograph
 status: publish
 title: Review of a generic Chinese chronograph

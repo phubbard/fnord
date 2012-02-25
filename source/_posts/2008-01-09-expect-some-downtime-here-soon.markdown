@@ -1,6 +1,7 @@
 ---
 date: '2008-01-09 11:59:43'
 layout: post
+comments: true
 slug: expect-some-downtime-here-soon
 status: publish
 title: Expect some downtime here soon

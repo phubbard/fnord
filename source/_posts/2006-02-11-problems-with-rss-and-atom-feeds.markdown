@@ -1,6 +1,7 @@
 ---
 date: '2006-02-11 18:48:38'
 layout: post
+comments: true
 slug: problems-with-rss-and-atom-feeds
 status: publish
 title: Problems with RSS and Atom feeds

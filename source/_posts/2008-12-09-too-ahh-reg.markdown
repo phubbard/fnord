@@ -1,6 +1,7 @@
 ---
 date: '2008-12-09 10:58:31'
 layout: post
+comments: true
 slug: too-ahh-reg
 status: publish
 title: Too-ahh-reg

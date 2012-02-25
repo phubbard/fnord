@@ -1,6 +1,7 @@
 ---
 date: '2006-07-08 12:19:12'
 layout: post
+comments: true
 slug: eta-movement-grades
 status: publish
 title: ETA movement grades

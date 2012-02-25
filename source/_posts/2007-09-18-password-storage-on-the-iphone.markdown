@@ -1,6 +1,7 @@
 ---
 date: '2007-09-18 09:28:59'
 layout: post
+comments: true
 slug: password-storage-on-the-iphone
 status: publish
 title: Password storage on the iPhone

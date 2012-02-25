@@ -1,6 +1,7 @@
 ---
 date: '2009-06-15 13:33:17'
 layout: post
+comments: true
 slug: arduino-and-twisted
 status: publish
 title: Arduino and Twisted

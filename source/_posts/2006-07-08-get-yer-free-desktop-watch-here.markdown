@@ -1,6 +1,7 @@
 ---
 date: '2006-07-08 12:21:59'
 layout: post
+comments: true
 slug: get-yer-free-desktop-watch-here
 status: publish
 title: Get yer free 'desktop watch' here

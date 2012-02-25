@@ -1,6 +1,7 @@
 ---
 date: '2008-03-14 17:50:12'
 layout: post
+comments: true
 slug: anna-playing
 status: publish
 title: Anna playing

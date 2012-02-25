@@ -1,6 +1,7 @@
 ---
 date: '2007-08-28 18:34:21'
 layout: post
+comments: true
 slug: downtime-today
 status: publish
 title: Downtime today

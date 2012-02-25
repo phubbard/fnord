@@ -1,6 +1,7 @@
 ---
 date: '2006-10-15 20:10:19'
 layout: post
+comments: true
 slug: travel-tips-from-physisists
 status: publish
 title: 'Travel tips from physisists '

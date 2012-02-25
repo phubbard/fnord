@@ -1,6 +1,7 @@
 ---
 date: '2006-01-20 18:00:46'
 layout: post
+comments: true
 slug: hi-my-name-is-paul-and-im-a-rooster-addict
 status: publish
 title: Hi, my name is Paul and I'm a Rooster addict

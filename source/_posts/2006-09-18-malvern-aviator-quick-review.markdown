@@ -1,6 +1,7 @@
 ---
 date: '2006-09-18 20:57:26'
 layout: post
+comments: true
 slug: malvern-aviator-quick-review
 status: publish
 title: Malvern Aviator quick review

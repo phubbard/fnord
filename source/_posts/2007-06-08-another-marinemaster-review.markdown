@@ -1,6 +1,7 @@
 ---
 date: '2007-06-08 17:54:39'
 layout: post
+comments: true
 slug: another-marinemaster-review
 status: publish
 title: Another Marinemaster review

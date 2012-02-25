@@ -1,6 +1,7 @@
 ---
 date: '2008-06-13 13:37:39'
 layout: post
+comments: true
 slug: what-a-difference-a-single-letter-makes-and-a-week
 status: publish
 title: What a difference a single letter makes. And a week.

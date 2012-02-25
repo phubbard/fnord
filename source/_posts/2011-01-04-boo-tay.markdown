@@ -1,6 +1,7 @@
 ---
 date: '2011-01-04 10:50:19'
 layout: post
+comments: true
 slug: boo-tay
 status: publish
 title: Boo-tay!

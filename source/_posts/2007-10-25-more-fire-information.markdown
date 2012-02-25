@@ -1,6 +1,7 @@
 ---
 date: '2007-10-25 14:00:33'
 layout: post
+comments: true
 slug: more-fire-information
 status: publish
 title: More fire information

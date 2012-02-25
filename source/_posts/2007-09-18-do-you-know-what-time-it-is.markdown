@@ -1,6 +1,7 @@
 ---
 date: '2007-09-18 16:10:08'
 layout: post
+comments: true
 slug: do-you-know-what-time-it-is
 status: publish
 title: Do you KNOW what time it is?

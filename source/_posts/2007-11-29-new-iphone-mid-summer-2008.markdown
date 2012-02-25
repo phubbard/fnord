@@ -1,6 +1,7 @@
 ---
 date: '2007-11-29 12:52:38'
 layout: post
+comments: true
 slug: new-iphone-mid-summer-2008
 status: publish
 title: New iPhone mid-summer 2008?

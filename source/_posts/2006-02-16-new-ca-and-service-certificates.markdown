@@ -1,6 +1,7 @@
 ---
 date: '2006-02-16 13:55:41'
 layout: post
+comments: true
 slug: new-ca-and-service-certificates
 status: publish
 title: New CA and service certificates

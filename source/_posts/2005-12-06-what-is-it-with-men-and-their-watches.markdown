@@ -1,6 +1,7 @@
 ---
 date: '2005-12-06 13:04:41'
 layout: post
+comments: true
 slug: what-is-it-with-men-and-their-watches
 status: publish
 title: What is it with men and their watches?

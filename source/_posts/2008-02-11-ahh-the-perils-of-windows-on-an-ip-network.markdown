@@ -1,6 +1,7 @@
 ---
 date: '2008-02-11 14:49:39'
 layout: post
+comments: true
 slug: ahh-the-perils-of-windows-on-an-ip-network
 status: publish
 title: Ahh, the perils of Windows on an IP network

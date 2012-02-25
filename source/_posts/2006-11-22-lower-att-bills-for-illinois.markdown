@@ -1,6 +1,7 @@
 ---
 date: '2006-11-22 19:31:34'
 layout: post
+comments: true
 slug: lower-att-bills-for-illinois
 status: publish
 title: Lower AT&T bills for Illinois

@@ -1,6 +1,7 @@
 ---
 date: '2009-02-24 20:46:51'
 layout: post
+comments: true
 slug: osx-serverlegitfor-four-days
 status: publish
 title: OSX server...legit...for four days

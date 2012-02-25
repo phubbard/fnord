@@ -1,6 +1,7 @@
 ---
 date: '2007-07-24 12:10:07'
 layout: post
+comments: true
 slug: verdammt-slimserver-anyway
 status: publish
 title: Verdammt slimserver anyway

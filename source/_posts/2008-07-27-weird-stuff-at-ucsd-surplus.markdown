@@ -1,6 +1,7 @@
 ---
 date: '2008-07-27 20:01:12'
 layout: post
+comments: true
 slug: weird-stuff-at-ucsd-surplus
 status: publish
 title: Weird stuff at UCSD surplus

@@ -1,6 +1,7 @@
 ---
 date: '2006-04-13 21:39:01'
 layout: post
+comments: true
 slug: choice
 status: publish
 title: Choice.

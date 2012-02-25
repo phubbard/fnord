@@ -1,6 +1,7 @@
 ---
 date: '2008-10-17 19:32:51'
 layout: post
+comments: true
 slug: travel-porn
 status: publish
 title: Travel porn

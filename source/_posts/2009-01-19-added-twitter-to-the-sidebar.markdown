@@ -1,6 +1,7 @@
 ---
 date: '2009-01-19 09:58:08'
 layout: post
+comments: true
 slug: added-twitter-to-the-sidebar
 status: publish
 title: Added Twitter to the sidebar

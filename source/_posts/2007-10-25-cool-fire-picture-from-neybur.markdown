@@ -1,6 +1,7 @@
 ---
 date: '2007-10-25 08:55:31'
 layout: post
+comments: true
 slug: cool-fire-picture-from-neybur
 status: publish
 title: Cool fire picture from Neybur

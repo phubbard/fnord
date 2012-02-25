@@ -1,6 +1,7 @@
 ---
 date: '2009-09-12 20:54:00'
 layout: post
+comments: true
 slug: colorado
 status: publish
 title: Colorado!

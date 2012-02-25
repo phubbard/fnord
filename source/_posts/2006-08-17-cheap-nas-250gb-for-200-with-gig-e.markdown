@@ -1,6 +1,7 @@
 ---
 date: '2006-08-17 09:51:50'
 layout: post
+comments: true
 slug: cheap-nas-250gb-for-200-with-gig-e
 status: publish
 title: Cheap NAS - 250GB for $200 with gig-e

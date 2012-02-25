@@ -1,6 +1,7 @@
 ---
 date: '2008-07-16 12:06:17'
 layout: post
+comments: true
 slug: man-sometimes-i-feel-really-dumb
 status: publish
 title: Man, sometimes I feel really dumb.

@@ -1,6 +1,7 @@
 ---
 date: '2008-11-01 13:31:56'
 layout: post
+comments: true
 slug: stalking-the-usps-or-the-waiting
 status: publish
 title: Stalking the USPS, or "The Waiting"

@@ -1,6 +1,7 @@
 ---
 date: '2006-11-11 22:30:49'
 layout: post
+comments: true
 slug: useful-scheduling-service
 status: publish
 title: Useful scheduling service

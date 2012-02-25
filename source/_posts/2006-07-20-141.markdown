@@ -1,6 +1,7 @@
 ---
 date: '2006-07-20 13:51:00'
 layout: post
+comments: true
 slug: '141'
 status: publish
 title: Some science is nicer than others

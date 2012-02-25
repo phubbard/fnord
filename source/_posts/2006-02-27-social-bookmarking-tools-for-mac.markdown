@@ -1,6 +1,7 @@
 ---
 date: '2006-02-27 11:12:32'
 layout: post
+comments: true
 slug: social-bookmarking-tools-for-mac
 status: publish
 title: Social bookmarking tools for Mac

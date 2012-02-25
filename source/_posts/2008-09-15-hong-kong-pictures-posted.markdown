@@ -1,6 +1,7 @@
 ---
 date: '2008-09-15 15:43:09'
 layout: post
+comments: true
 slug: hong-kong-pictures-posted
 status: publish
 title: Hong Kong pictures posted!

@@ -1,6 +1,7 @@
 ---
 date: '2007-09-28 17:23:48'
 layout: post
+comments: true
 slug: a-couple-quick-iphone-tips
 status: publish
 title: A couple quick iPhone tips

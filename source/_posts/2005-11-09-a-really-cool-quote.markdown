@@ -1,6 +1,7 @@
 ---
 date: '2005-11-09 12:10:20'
 layout: post
+comments: true
 slug: a-really-cool-quote
 status: publish
 title: A really cool quote.

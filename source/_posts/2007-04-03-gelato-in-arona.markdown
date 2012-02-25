@@ -1,6 +1,7 @@
 ---
 date: '2007-04-03 14:19:19'
 layout: post
+comments: true
 slug: gelato-in-arona
 status: publish
 title: Gelato in Arona

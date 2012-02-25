@@ -1,6 +1,7 @@
 ---
 date: '2007-11-02 17:51:33'
 layout: post
+comments: true
 slug: review-of-the-moda-vibe-duo-iphone-earphones
 status: publish
 title: Review of the V-moda Vibe Duo iPhone earphones

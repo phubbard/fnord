@@ -1,6 +1,7 @@
 ---
 date: '2006-08-19 16:33:14'
 layout: post
+comments: true
 slug: build-a-cat-tree-on-the-cheep
 status: publish
 title: Build a cat tree on the cheep

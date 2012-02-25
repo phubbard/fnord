@@ -1,6 +1,7 @@
 ---
 date: '2005-11-08 12:38:35'
 layout: post
+comments: true
 slug: when-your-telephone-knows-youre-there
 status: publish
 title: When your telephone knows you're there

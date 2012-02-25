@@ -1,6 +1,7 @@
 ---
 date: '2008-03-11 10:49:38'
 layout: post
+comments: true
 slug: it-wasnt-that-long-ago
 status: publish
 title: It wasn't that long ago

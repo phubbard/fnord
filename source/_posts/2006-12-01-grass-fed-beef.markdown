@@ -1,6 +1,7 @@
 ---
 date: '2006-12-01 10:06:32'
 layout: post
+comments: true
 slug: grass-fed-beef
 status: publish
 title: Grass-fed beef

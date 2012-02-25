@@ -1,6 +1,7 @@
 ---
 date: '2007-12-24 21:55:20'
 layout: post
+comments: true
 slug: thanksgiving-pictures-are-up
 status: publish
 title: Thanksgiving pictures are up

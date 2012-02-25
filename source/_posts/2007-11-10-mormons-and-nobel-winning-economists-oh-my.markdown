@@ -1,6 +1,7 @@
 ---
 date: '2007-11-10 16:01:19'
 layout: post
+comments: true
 slug: mormons-and-nobel-winning-economists-oh-my
 status: publish
 title: Mormons and Nobel-winning economists, oh my

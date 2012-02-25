@@ -1,6 +1,7 @@
 ---
 date: '2007-10-10 15:05:05'
 layout: post
+comments: true
 slug: time-to-git-er-done
 status: publish
 title: Time to git 'er done?

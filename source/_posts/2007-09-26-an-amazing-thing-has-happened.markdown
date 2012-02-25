@@ -1,6 +1,7 @@
 ---
 date: '2007-09-26 14:31:46'
 layout: post
+comments: true
 slug: an-amazing-thing-has-happened
 status: publish
 title: An amazing thing has happened

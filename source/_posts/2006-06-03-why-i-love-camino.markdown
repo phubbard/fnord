@@ -1,6 +1,7 @@
 ---
 date: '2006-06-03 12:47:52'
 layout: post
+comments: true
 slug: why-i-love-camino
 status: publish
 title: Why I love Camino

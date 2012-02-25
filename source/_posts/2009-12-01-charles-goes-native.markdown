@@ -1,6 +1,7 @@
 ---
 date: '2009-12-01 17:00:15'
 layout: post
+comments: true
 slug: charles-goes-native
 status: publish
 title: Charles goes native

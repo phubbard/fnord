@@ -1,6 +1,7 @@
 ---
 date: '2005-11-06 22:17:10'
 layout: post
+comments: true
 slug: atomic-solar-analog-and-classy
 status: publish
 title: Atomic, solar, analog and classy

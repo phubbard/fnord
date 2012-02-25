@@ -1,6 +1,7 @@
 ---
 date: '2007-11-26 18:33:00'
 layout: post
+comments: true
 slug: '551'
 status: publish
 title: Bourne shell server pages...

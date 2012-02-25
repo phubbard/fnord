@@ -1,6 +1,7 @@
 ---
 date: '2011-05-31 20:14:04'
 layout: post
+comments: true
 slug: the-unsung-imac
 status: publish
 title: The unsung iMac

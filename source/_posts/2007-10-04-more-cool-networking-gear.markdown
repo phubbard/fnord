@@ -1,6 +1,7 @@
 ---
 date: '2007-10-04 11:44:28'
 layout: post
+comments: true
 slug: more-cool-networking-gear
 status: publish
 title: More cool networking gear

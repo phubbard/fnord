@@ -1,6 +1,7 @@
 ---
 date: '2011-12-29 11:31:21'
 layout: post
+comments: true
 slug: walk-the-corporate-plank
 status: publish
 title: Walk the corporate plank

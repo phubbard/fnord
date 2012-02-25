@@ -1,6 +1,7 @@
 ---
 date: '2007-05-27 22:19:28'
 layout: post
+comments: true
 slug: buttercup
 status: publish
 title: Buttercup?!

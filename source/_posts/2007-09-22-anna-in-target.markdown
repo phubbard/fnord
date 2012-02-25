@@ -1,6 +1,7 @@
 ---
 date: '2007-09-22 16:51:48'
 layout: post
+comments: true
 slug: anna-in-target
 status: publish
 title: Anna in Target

@@ -1,6 +1,7 @@
 ---
 date: '2006-08-03 22:19:00'
 layout: post
+comments: true
 slug: red-sari
 status: publish
 title: Red sari

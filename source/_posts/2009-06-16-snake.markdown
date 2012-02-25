@@ -1,6 +1,7 @@
 ---
 date: '2009-06-16 19:57:49'
 layout: post
+comments: true
 slug: snake
 status: publish
 title: Snake!

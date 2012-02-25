@@ -1,6 +1,7 @@
 ---
 date: '2007-05-16 09:39:22'
 layout: post
+comments: true
 slug: where-am-i
 status: publish
 title: Where am I?

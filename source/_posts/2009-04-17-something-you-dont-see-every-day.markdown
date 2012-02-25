@@ -1,6 +1,7 @@
 ---
 date: '2009-04-17 10:29:25'
 layout: post
+comments: true
 slug: something-you-dont-see-every-day
 status: publish
 title: Something you don't see every day

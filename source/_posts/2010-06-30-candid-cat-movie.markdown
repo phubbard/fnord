@@ -1,6 +1,7 @@
 ---
 date: '2010-06-30 09:12:47'
 layout: post
+comments: true
 slug: candid-cat-movie
 status: publish
 title: Candid Cat movie

@@ -1,6 +1,7 @@
 ---
 date: '2010-12-16 16:32:05'
 layout: post
+comments: true
 slug: more-amazing-times
 status: publish
 title: More Amazing Times

@@ -1,6 +1,7 @@
 ---
 date: '2008-05-14 12:23:04'
 layout: post
+comments: true
 slug: fly-me-to-the-moon
 status: publish
 title: Fly me to the moon

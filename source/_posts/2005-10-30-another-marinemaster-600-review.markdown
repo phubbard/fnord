@@ -1,6 +1,7 @@
 ---
 date: '2005-10-30 21:44:22'
 layout: post
+comments: true
 slug: another-marinemaster-600-review
 status: publish
 title: Another Marinemaster 600 review

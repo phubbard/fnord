@@ -1,6 +1,7 @@
 ---
 date: '2006-07-23 20:02:58'
 layout: post
+comments: true
 slug: good-cd
 status: publish
 title: Good CD

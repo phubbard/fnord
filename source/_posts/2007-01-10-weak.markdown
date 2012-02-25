@@ -1,6 +1,7 @@
 ---
 date: '2007-01-10 11:18:37'
 layout: post
+comments: true
 slug: weak
 status: publish
 title: Weak.

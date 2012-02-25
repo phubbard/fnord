@@ -1,6 +1,7 @@
 ---
 date: '2006-01-15 23:34:48'
 layout: post
+comments: true
 slug: ive-lived-too-long-anyway
 status: publish
 title: I've lived too long anyway

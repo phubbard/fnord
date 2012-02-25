@@ -1,6 +1,7 @@
 ---
 date: '2009-09-20 16:03:53'
 layout: post
+comments: true
 slug: fnord-reimagined
 status: publish
 title: Fnord reimagined

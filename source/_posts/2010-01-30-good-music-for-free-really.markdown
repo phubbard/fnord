@@ -1,6 +1,7 @@
 ---
 date: '2010-01-30 21:18:20'
 layout: post
+comments: true
 slug: good-music-for-free-really
 status: publish
 title: Good music, for free. Really.

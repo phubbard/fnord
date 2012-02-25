@@ -1,6 +1,7 @@
 ---
 date: '2006-05-26 10:17:06'
 layout: post
+comments: true
 slug: a-cool-quote-from-the-hagakure
 status: publish
 title: A cool quote from the Hagakure

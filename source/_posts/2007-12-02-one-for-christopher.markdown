@@ -1,6 +1,7 @@
 ---
 date: '2007-12-02 21:37:41'
 layout: post
+comments: true
 slug: one-for-christopher
 status: publish
 title: One for Christopher

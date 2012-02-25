@@ -1,6 +1,7 @@
 ---
 date: '2005-11-25 23:06:09'
 layout: post
+comments: true
 slug: i-really-want-a-silent-pc-so-i-can-run-openbsd-and-pf-again
 status: publish
 title: I really want a silent PC so I can run OpenBSD and pf again

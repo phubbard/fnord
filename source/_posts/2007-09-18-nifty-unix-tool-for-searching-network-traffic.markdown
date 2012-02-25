@@ -1,6 +1,7 @@
 ---
 date: '2007-09-18 14:41:58'
 layout: post
+comments: true
 slug: nifty-unix-tool-for-searching-network-traffic
 status: publish
 title: Nifty Unix tool for searching network traffic

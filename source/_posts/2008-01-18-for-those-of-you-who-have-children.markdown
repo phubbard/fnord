@@ -1,6 +1,7 @@
 ---
 date: '2008-01-18 21:27:52'
 layout: post
+comments: true
 slug: for-those-of-you-who-have-children
 status: publish
 title: For those of you who have children

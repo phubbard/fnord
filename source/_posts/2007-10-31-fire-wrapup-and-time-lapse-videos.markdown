@@ -1,6 +1,7 @@
 ---
 date: '2007-10-31 16:27:58'
 layout: post
+comments: true
 slug: fire-wrapup-and-time-lapse-videos
 status: publish
 title: Fire wrapup and time-lapse videos

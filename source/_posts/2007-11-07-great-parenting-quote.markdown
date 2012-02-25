@@ -1,6 +1,7 @@
 ---
 date: '2007-11-07 21:17:59'
 layout: post
+comments: true
 slug: great-parenting-quote
 status: publish
 title: Great parenting quote

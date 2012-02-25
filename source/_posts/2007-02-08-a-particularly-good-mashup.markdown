@@ -1,6 +1,7 @@
 ---
 date: '2007-02-08 19:58:23'
 layout: post
+comments: true
 slug: a-particularly-good-mashup
 status: publish
 title: A particularly good mashup

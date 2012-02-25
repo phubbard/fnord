@@ -1,6 +1,7 @@
 ---
 date: '2008-02-01 20:09:02'
 layout: post
+comments: true
 slug: openid-paypal-and-ebay
 status: publish
 title: OpenID, Paypal and Ebay

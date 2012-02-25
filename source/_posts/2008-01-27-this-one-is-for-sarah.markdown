@@ -1,6 +1,7 @@
 ---
 date: '2008-01-27 21:10:16'
 layout: post
+comments: true
 slug: this-one-is-for-sarah
 status: publish
 title: This one is for Sarah

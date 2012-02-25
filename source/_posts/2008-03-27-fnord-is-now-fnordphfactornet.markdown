@@ -1,6 +1,7 @@
 ---
 date: '2008-03-27 12:22:15'
 layout: post
+comments: true
 slug: fnord-is-now-fnordphfactornet
 status: publish
 title: Fnord is now fnord.phfactor.net

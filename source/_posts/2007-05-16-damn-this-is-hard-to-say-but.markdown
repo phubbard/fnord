@@ -1,6 +1,7 @@
 ---
 date: '2007-05-16 20:14:03'
 layout: post
+comments: true
 slug: damn-this-is-hard-to-say-but
 status: publish
 title: Damn, this is hard to say but...

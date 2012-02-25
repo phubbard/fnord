@@ -1,6 +1,7 @@
 ---
 date: '2006-08-01 09:23:16'
 layout: post
+comments: true
 slug: what-does-fnord-mean-anyway
 status: publish
 title: What does 'Fnord' mean, anyway?

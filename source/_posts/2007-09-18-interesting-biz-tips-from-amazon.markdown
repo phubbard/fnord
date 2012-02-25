@@ -1,6 +1,7 @@
 ---
 date: '2007-09-18 14:15:39'
 layout: post
+comments: true
 slug: interesting-biz-tips-from-amazon
 status: publish
 title: Interesting biz tips from Amazon

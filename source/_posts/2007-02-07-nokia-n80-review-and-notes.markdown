@@ -1,6 +1,7 @@
 ---
 date: '2007-02-07 17:09:42'
 layout: post
+comments: true
 slug: nokia-n80-review-and-notes
 status: publish
 title: Nokia N80 review and notes

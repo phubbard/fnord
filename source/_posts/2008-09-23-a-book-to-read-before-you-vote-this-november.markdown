@@ -1,6 +1,7 @@
 ---
 date: '2008-09-23 10:39:22'
 layout: post
+comments: true
 slug: a-book-to-read-before-you-vote-this-november
 status: publish
 title: A book to read before you vote this November

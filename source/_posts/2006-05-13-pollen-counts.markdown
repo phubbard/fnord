@@ -1,6 +1,7 @@
 ---
 date: '2006-05-13 10:13:12'
 layout: post
+comments: true
 slug: pollen-counts
 status: publish
 title: Pollen counts

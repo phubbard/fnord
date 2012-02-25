@@ -1,6 +1,7 @@
 ---
 date: '2007-03-01 09:47:00'
 layout: post
+comments: true
 slug: ahhh-rolex-stereotypes
 status: publish
 title: Ahhh, Rolex stereotypes

@@ -1,6 +1,7 @@
 ---
 date: '2008-04-12 13:49:34'
 layout: post
+comments: true
 slug: anna-in-the-park
 status: publish
 title: Anna in the park

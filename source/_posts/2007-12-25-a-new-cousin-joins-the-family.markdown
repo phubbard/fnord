@@ -1,6 +1,7 @@
 ---
 date: '2007-12-25 16:30:05'
 layout: post
+comments: true
 slug: a-new-cousin-joins-the-family
 status: publish
 title: A new cousin joins the family!

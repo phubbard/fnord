@@ -1,6 +1,7 @@
 ---
 date: '2006-08-03 21:47:05'
 layout: post
+comments: true
 slug: guess-what-this-is
 status: publish
 title: Guess what this is?

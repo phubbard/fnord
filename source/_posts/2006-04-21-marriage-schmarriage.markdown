@@ -1,6 +1,7 @@
 ---
 date: '2006-04-21 08:14:26'
 layout: post
+comments: true
 slug: marriage-schmarriage
 status: publish
 title: Marriage, schmarriage

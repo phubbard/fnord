@@ -1,6 +1,7 @@
 ---
 date: '2011-10-01 11:40:37'
 layout: post
+comments: true
 slug: router-upgraded
 status: publish
 title: Router upgraded

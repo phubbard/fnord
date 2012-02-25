@@ -1,6 +1,7 @@
 ---
 date: '2007-03-04 13:23:12'
 layout: post
+comments: true
 slug: zsh-wordpress-and-automator
 status: publish
 title: zsh, wordpress and automator

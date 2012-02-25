@@ -1,6 +1,7 @@
 ---
 date: '2006-08-16 15:54:00'
 layout: post
+comments: true
 slug: coffee-once-again-the-choice-of-champions
 status: publish
 title: Coffee, once again the choice of champions.

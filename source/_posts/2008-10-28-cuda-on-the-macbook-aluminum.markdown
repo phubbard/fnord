@@ -1,6 +1,7 @@
 ---
 date: '2008-10-28 16:53:34'
 layout: post
+comments: true
 slug: cuda-on-the-macbook-aluminum
 status: publish
 title: CUDA on the MacBook Aluminum

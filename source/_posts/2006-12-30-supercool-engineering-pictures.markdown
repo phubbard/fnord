@@ -1,6 +1,7 @@
 ---
 date: '2006-12-30 20:55:46'
 layout: post
+comments: true
 slug: supercool-engineering-pictures
 status: publish
 title: Supercool engineering pictures

@@ -1,6 +1,7 @@
 ---
 date: '2008-07-23 12:47:46'
 layout: post
+comments: true
 slug: a-gorgeous-new-oldie
 status: publish
 title: A gorgeous new oldie

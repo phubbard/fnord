@@ -1,6 +1,7 @@
 ---
 date: '2006-11-07 10:24:30'
 layout: post
+comments: true
 slug: ahh-gotta-love-that-spam
 status: publish
 title: Ahh, gotta love that spam

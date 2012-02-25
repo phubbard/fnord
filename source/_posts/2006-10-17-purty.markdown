@@ -1,6 +1,7 @@
 ---
 date: '2006-10-17 16:12:30'
 layout: post
+comments: true
 slug: purty
 status: publish
 title: Purty

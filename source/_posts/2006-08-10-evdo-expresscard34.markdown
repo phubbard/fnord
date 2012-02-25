@@ -1,6 +1,7 @@
 ---
 date: '2006-08-10 21:46:08'
 layout: post
+comments: true
 slug: evdo-expresscard34
 status: publish
 title: EVDO expresscard/34

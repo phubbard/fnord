@@ -1,6 +1,7 @@
 ---
 date: '2009-01-31 10:10:28'
 layout: post
+comments: true
 slug: a-snapshot-literally
 status: publish
 title: A snapshot, literally

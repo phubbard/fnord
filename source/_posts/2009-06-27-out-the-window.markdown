@@ -1,6 +1,7 @@
 ---
 date: '2009-06-27 19:18:17'
 layout: post
+comments: true
 slug: out-the-window
 status: publish
 title: Out the window

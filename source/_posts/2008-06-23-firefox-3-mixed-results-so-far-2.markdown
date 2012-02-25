@@ -1,6 +1,7 @@
 ---
 date: '2008-06-23 19:36:07'
 layout: post
+comments: true
 slug: firefox-3-mixed-results-so-far-2
 status: publish
 title: Firefox 3, mixed results so far

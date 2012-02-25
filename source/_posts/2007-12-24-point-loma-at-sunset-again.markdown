@@ -1,6 +1,7 @@
 ---
 date: '2007-12-24 20:47:18'
 layout: post
+comments: true
 slug: point-loma-at-sunset-again
 status: publish
 title: Point Loma at sunset again

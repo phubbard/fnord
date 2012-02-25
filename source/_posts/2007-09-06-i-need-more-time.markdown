@@ -1,6 +1,7 @@
 ---
 date: '2007-09-06 16:52:29'
 layout: post
+comments: true
 slug: i-need-more-time
 status: publish
 title: I need more time.

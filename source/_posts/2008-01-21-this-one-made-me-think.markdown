@@ -1,6 +1,7 @@
 ---
 date: '2008-01-21 15:33:33'
 layout: post
+comments: true
 slug: this-one-made-me-think
 status: publish
 title: This one made me think

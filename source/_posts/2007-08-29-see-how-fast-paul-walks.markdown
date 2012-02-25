@@ -1,6 +1,7 @@
 ---
 date: '2007-08-29 13:31:39'
 layout: post
+comments: true
 slug: see-how-fast-paul-walks
 status: publish
 title: See how fast Paul walks!

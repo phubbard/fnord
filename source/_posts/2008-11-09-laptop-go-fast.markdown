@@ -1,6 +1,7 @@
 ---
 date: '2008-11-09 16:57:23'
 layout: post
+comments: true
 slug: laptop-go-fast
 status: publish
 title: Laptop Go Fast

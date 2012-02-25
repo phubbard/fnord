@@ -1,6 +1,7 @@
 ---
 date: '2008-07-16 12:23:31'
 layout: post
+comments: true
 slug: luck-and-embarassment
 status: publish
 title: Luck and embarassment

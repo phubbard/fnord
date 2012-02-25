@@ -1,6 +1,7 @@
 ---
 date: '2006-10-27 14:09:31'
 layout: post
+comments: true
 slug: nice-article-on-ecc
 status: publish
 title: Nice article on ECC

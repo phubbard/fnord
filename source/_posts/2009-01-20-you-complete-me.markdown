@@ -1,6 +1,7 @@
 ---
 date: '2009-01-20 19:41:17'
 layout: post
+comments: true
 slug: you-complete-me
 status: publish
 title: You Complete Me

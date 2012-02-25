@@ -1,6 +1,7 @@
 ---
 date: '2006-12-15 09:17:44'
 layout: post
+comments: true
 slug: the-fourteen-signs-of-fascism
 status: publish
 title: The fourteen signs of fascism

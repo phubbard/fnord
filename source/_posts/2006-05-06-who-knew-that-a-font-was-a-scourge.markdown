@@ -1,6 +1,7 @@
 ---
 date: '2006-05-06 10:12:10'
 layout: post
+comments: true
 slug: who-knew-that-a-font-was-a-scourge
 status: publish
 title: Who knew that a font was a scourge?

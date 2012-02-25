@@ -1,6 +1,7 @@
 ---
 date: '2007-07-23 17:04:07'
 layout: post
+comments: true
 slug: walk-a-mile-in-these-shoes
 status: publish
 title: Walk a mile in *these* shoes.

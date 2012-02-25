@@ -1,6 +1,7 @@
 ---
 date: '2006-08-29 10:33:03'
 layout: post
+comments: true
 slug: nifty-game-to-check-out
 status: publish
 title: Nifty game to check out

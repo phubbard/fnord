@@ -1,6 +1,7 @@
 ---
 date: '2007-09-04 19:20:17'
 layout: post
+comments: true
 slug: funded
 status: publish
 title: Funded!

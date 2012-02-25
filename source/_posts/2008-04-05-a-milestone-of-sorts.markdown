@@ -1,6 +1,7 @@
 ---
 date: '2008-04-05 15:32:46'
 layout: post
+comments: true
 slug: a-milestone-of-sorts
 status: publish
 title: A milestone of sorts

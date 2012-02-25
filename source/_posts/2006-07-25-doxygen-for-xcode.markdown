@@ -1,6 +1,7 @@
 ---
 date: '2006-07-25 15:06:17'
 layout: post
+comments: true
 slug: doxygen-for-xcode
 status: publish
 title: Doxygen for Xcode

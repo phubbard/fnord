@@ -1,6 +1,7 @@
 ---
 date: '2006-05-06 09:39:28'
 layout: post
+comments: true
 slug: a-new-guilty-pleasure-for-the-ipod
 status: publish
 title: A new guilty pleasure for the iPod

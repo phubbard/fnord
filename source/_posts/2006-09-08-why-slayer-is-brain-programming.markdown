@@ -1,6 +1,7 @@
 ---
 date: '2006-09-08 12:32:26'
 layout: post
+comments: true
 slug: why-slayer-is-brain-programming
 status: publish
 title: Why Slayer is brain programming

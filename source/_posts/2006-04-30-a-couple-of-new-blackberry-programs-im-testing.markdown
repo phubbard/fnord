@@ -1,6 +1,7 @@
 ---
 date: '2006-04-30 20:41:44'
 layout: post
+comments: true
 slug: a-couple-of-new-blackberry-programs-im-testing
 status: publish
 title: A couple of new Blackberry programs I'm testing

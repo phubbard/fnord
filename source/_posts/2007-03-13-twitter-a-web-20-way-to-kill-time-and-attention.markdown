@@ -1,6 +1,7 @@
 ---
 date: '2007-03-13 14:34:45'
 layout: post
+comments: true
 slug: twitter-a-web-20-way-to-kill-time-and-attention
 status: publish
 title: 'Twitter: A Web 2.0 way to kill time and attention'

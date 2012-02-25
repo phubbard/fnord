@@ -1,6 +1,7 @@
 ---
 date: '2009-12-01 09:43:21'
 layout: post
+comments: true
 slug: light-emitting-diode-fail
 status: publish
 title: Light emitting diode fail

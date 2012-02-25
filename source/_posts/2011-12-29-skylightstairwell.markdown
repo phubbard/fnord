@@ -1,6 +1,7 @@
 ---
 date: '2011-12-29 15:19:05'
 layout: post
+comments: true
 slug: skylightstairwell
 status: publish
 title: Skylight/stairwell

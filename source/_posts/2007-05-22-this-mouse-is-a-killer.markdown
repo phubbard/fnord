@@ -1,6 +1,7 @@
 ---
 date: '2007-05-22 09:53:48'
 layout: post
+comments: true
 slug: this-mouse-is-a-killer
 status: publish
 title: This mouse is a killer!
