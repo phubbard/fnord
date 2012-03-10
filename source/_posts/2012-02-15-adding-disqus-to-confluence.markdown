@@ -65,4 +65,4 @@ so if you have any tips do say so here!
 At present, it's almost working. The page portion loads, the Disqus portal seems happy, but due to
 the lack of URL is causing comments to not load on the page they should be attached to.
 
-Drat.
+**Update 3/10/12**: I talked to one of the Disqus hackers at the PyCon convention, and he confirms that this approach works fine. If no URL or ID is set, Disqus sniffs the URL and comments will follow it as long as the URL is constant. Excellent.
