@@ -90,14 +90,18 @@ Go [Github](http://github.com). Don't even consider anything else. It's *that* g
 
 Also works for [static pages like this one](http://phubbard.github.com)
 
+If you need an in-house-hosted or FOSS solution, [Gitlab](http://gitlabhq.com/) is pretty darn near a complete workalike.
+
 ## Maps and directions
 
-I've not tackled this one yet. Any suggestions? Mapquest perhaps? Even harder on the iPhone/iPad.
+[OpenStreetMaps](http://www.openstreetmap.org/) is excellent. Good for GIS work too.
 
 ## Google Docs
 
 I used to use this more at UCSD, these days it's a combination of IM, Email and the rare DOCX file. No suggestions, 
 other than to suggest using HTML for doc formatting; makes posting it easier anyway.
+
+Maybe Dropbox?
 
 ## Google apps for your domain
 

@@ -1,0 +1,36 @@
+---
+layout: post
+title: "PyCon 2012"
+date: 2012-03-16 15:51
+comments: true
+categories: Travel PyCon Python
+---
+
+Some notes and comments from my first time at [PyCon](http://us.pycon.org/), the Python software conference.
+
+ * It was huge - 2,300 attending, even though it was "capped" at 1,500. More would have liked to attend.
+* The on-site network worked very well, reliable and stable. Capped at 512KB/sec per person, which is fine. I tried out my LTE tether but didn't need it.
+* The conference hotel was good, and it was nice to be able to walk back to my room if needed. 149/night is a very reasonable rate, and the room was nice. Good chair to sit in.
+* I attended two tutorials, which ran the day before the main conference. At $150 each I'm not sure I'd do so again; decent but not wow. The quality of the main talks is so high that the tutorials are just icing.
+* I think next year I'll go for a code sprint instead. I'd really like to contribute to Python or some of the libraries I use and appreciate.
+* Overall, the conference felt like coming home. It's odd, as I've been to quite a few conferences but this felt the most like my personality. Big expensive ones like Supercomputing are more about PR and sales, and even Software Development was kind of sterile and blah. PyCon felt like peers, getting together to hang out and do amazing stuff. And make no mistake, a lot of the people there are that good too. Wow.
+* Jobs - didn't know this going in, but of the 134 exhibitors/sponsors, it seemed like all of them were looking for Python hackers. I'm not looking, but it's reassuring to know the market is there for the skills.
+* I will go again, even if I have to pay my own way. Strongly recommended.
+
+And a few more specific notes and pointers:
+
+* The [OpenStreetMap](http://openstreetmaps.org/) project has advanced a huge amount. Check it out as a Google maps equivalent/replacement.
+* My deep thanks to the [Dropbox](http://dropbox.com) folks for giving out 5GB at their hiring booth. I needed that!
+* [NewRelic](http://newrelic.com) looks awesome. Magic-level app analytics.
+* I'm already using [Disqus](http://disqus.com) here and on [WatchOtaku](http://watchotaku.com), and stopped by to confirm with them that I had implemented it correctly there. Nice folks, they setup a board just for pycon.
+* Speaking of chat, once again IRC was helpful, I used [Colloquy](http://colloquy.info/) to hang out in the #pycon channel.
+* I tried to take the 'Google at PyCon' challenge but after passing the first level their email never made it to me. Weak.
+* I really need to try the [Pyramid](http://pylonsproject.org) web framework. Talked a bit to the hackers and it sounds like a nice replacement for [web.py](http://webpy.org) for the code I'm doing.
+* The [NAO](http://aldebaran-robotics.com) robot demos were amazing, I wish I could afford one. Even at developer discount they're 6k USD each.
+* The [WebCube](http://www.webcubecms.com) platform might be nice; I have a friend or two needing sites that'd be well suited for this.
+* The new [iPython notebook](http://ipython.org/ipython-doc/rel-0.12/interactive/htmlnotebook.html) looks astounding, but I wasted a few hours trying to get the stack of requirements installed to no avail. You have to install an entire Python distribution [EPD](http://www.enthought.com/products/epd_free.php) to get it working.
+* I was impressed by [Web2py](http://web2py.com/) but a lot of the Pythonistas were skeptical or dubious. Interesting.
+
+For next year:
+
+* I spent some airport time hacking up a quick Bootstrap/web.py app for signing up for an Ultimate game. I think it'd be great to have during PyCon, will see if I can make it happen. A bit daunting, between the logistics and not knowing anyone, but who knows.
