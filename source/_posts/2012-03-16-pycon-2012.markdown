@@ -30,6 +30,7 @@ And a few more specific notes and pointers:
 * The [WebCube](http://www.webcubecms.com) platform might be nice; I have a friend or two needing sites that'd be well suited for this.
 * The new [iPython notebook](http://ipython.org/ipython-doc/rel-0.12/interactive/htmlnotebook.html) looks astounding, but I wasted a few hours trying to get the stack of requirements installed to no avail. You have to install an entire Python distribution [EPD](http://www.enthought.com/products/epd_free.php) to get it working.
 * I was impressed by [Web2py](http://web2py.com/) but a lot of the Pythonistas were skeptical or dubious. Interesting.
+* Videos of all of the talks and posters are free to watch at [PyVideo.org](http://pyvideo.org).
 
 For next year:
 
