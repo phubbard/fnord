@@ -13,8 +13,9 @@ Some notes and comments from my first time at [PyCon](http://us.pycon.org/), the
 * The conference hotel was good, and it was nice to be able to walk back to my room if needed. 149/night is a very reasonable rate, and the room was nice. Good chair to sit in.
 * I attended two tutorials, which ran the day before the main conference. At $150 each I'm not sure I'd do so again; decent but not wow. The quality of the main talks is so high that the tutorials are just icing.
 * I think next year I'll go for a code sprint instead. I'd really like to contribute to Python or some of the libraries I use and appreciate.
-* Overall, the conference felt like coming home. It's odd, as I've been to quite a few conferences but this felt the most like my personality. Big expensive ones like Supercomputing are more about PR and sales, and even Software Development was kind of sterile and blah. PyCon felt like peers, getting together to hang out and do amazing stuff. And make no mistake, a lot of the people there are that good too. Wow.
-* Jobs - didn't know this going in, but of the 134 exhibitors/sponsors, it seemed like all of them were looking for Python hackers. I'm not looking, but it's reassuring to know the market is there for the skills.
+* Overall, the conference felt like coming home. It's odd, as I've been to quite a few conferences but this felt the most like my personality. Big expensive ones like Supercomputing are more about PR and sales, and even Software Development was kind of sterile and blah. PyCon felt like peers, getting together to hang out and do amazing stuff. And make no mistake, a lot of the people there are doing amazing and inspiring work.
+* Jobs - I didn't know this going in, but of the 134 exhibitors/sponsors, it seemed like all of them were looking for Python hackers. I'm not looking, but it's reassuring to know the market is there for the skills.
+* Very decent food for a convention this large. 
 * I will go again, even if I have to pay my own way. Strongly recommended.
 
 And a few more specific notes and pointers:
@@ -31,6 +32,7 @@ And a few more specific notes and pointers:
 * The new [iPython notebook](http://ipython.org/ipython-doc/rel-0.12/interactive/htmlnotebook.html) looks astounding, but I wasted a few hours trying to get the stack of requirements installed to no avail. You have to install an entire Python distribution [EPD](http://www.enthought.com/products/epd_free.php) to get it working.
 * I was impressed by [Web2py](http://web2py.com/) but a lot of the Pythonistas were skeptical or dubious. Interesting.
 * Videos of all of the talks and posters are free to watch at [PyVideo.org](http://pyvideo.org).
+* Almost forgot [PiCloud](http://www.picloud.com/), a nifty-looking way to run Python with 2 lines of code. Up to 20 CPU hours per month for free, very much worth a try.
 
 For next year:
 

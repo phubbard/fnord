@@ -4,7 +4,7 @@ comments: true
 title: "New site for used car shopping"
 date: 2012-02-07 09:40
 comments: true
-categories: [Reviews and recommandations, shopping, automobiles]
+categories: [Reviews and recommendations, shopping, automobiles]
 ---
 
 Found this via Hacker News:
