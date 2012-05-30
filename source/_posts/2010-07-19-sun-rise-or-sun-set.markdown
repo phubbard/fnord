@@ -13,13 +13,13 @@ categories:
 
 I have a friend in Illinois who likes Sun hardware, preferably running OpenBSD. We used to hack a lot together, but since I moved he's gone rather hog-wild on Sun gear. Thanks to Midwestern house sizes, he has a large-ish closet full of gear that I am very impressed to see. I had to share; the following are his pictures and text.
 
-[caption id="attachment_1281" align="alignnone" width="450" caption="Main stack, first picture"][![Main stack, first picture](http://fnord.phfactor.net/wp-content/uploads/2010/07/tower1a-450x600.jpg)](http://fnord.phfactor.net/wp-content/uploads/2010/07/tower1a.jpg)[/caption]
+![Main stack, first picture](http://fnord.phfactor.net/wp-content/uploads/2010/07/tower1a-450x600.jpg)](http://fnord.phfactor.net/wp-content/uploads/2010/07/tower1a.jpg)
 
-[caption id="attachment_1282" align="alignnone" width="450" caption="Main stack, second picture"][![Main stack, second picture](http://fnord.phfactor.net/wp-content/uploads/2010/07/tower1b-450x600.jpg)](http://fnord.phfactor.net/wp-content/uploads/2010/07/tower1b.jpg)[/caption]
+![Main stack, second picture](http://fnord.phfactor.net/wp-content/uploads/2010/07/tower1b-450x600.jpg)](http://fnord.phfactor.net/wp-content/uploads/2010/07/tower1b.jpg)
 
-[caption id="attachment_1283" align="alignnone" width="450" caption="Other tower 1"][![Other tower 1](http://fnord.phfactor.net/wp-content/uploads/2010/07/tower2a-450x600.jpg)](http://fnord.phfactor.net/wp-content/uploads/2010/07/tower2a.jpg)[/caption]
+![Other tower 1](http://fnord.phfactor.net/wp-content/uploads/2010/07/tower2a-450x600.jpg)](http://fnord.phfactor.net/wp-content/uploads/2010/07/tower2a.jpg)
 
-[caption id="attachment_1284" align="alignnone" width="450" caption="Other tower 2"][![Other tower 2](http://fnord.phfactor.net/wp-content/uploads/2010/07/tower2b-450x600.jpg)](http://fnord.phfactor.net/wp-content/uploads/2010/07/tower2b.jpg)[/caption]
+![Other tower 2](http://fnord.phfactor.net/wp-content/uploads/2010/07/tower2b-450x600.jpg)](http://fnord.phfactor.net/wp-content/uploads/2010/07/tower2b.jpg)
 
 
 > The photography leaves a lot to be desired, but I think you get the
@@ -41,12 +41,12 @@ all 16 of the sparcstations/ultras are connected to a single keyboard, mouse
 and monitor up in the library. And 'cause they're Suns (the cool older kind),
 they can be remotely powered on and off via the keyboard. Cool, eh? :)
 
-Of less interest are the HP laserprinter and a couple generic boxen
+> Of less interest are the HP laserprinter and a couple generic boxen
 running Windows 2k pro (for Jodie) and Ubuntu (pour moi). These are
 connected via kvm extenders to our keyboards, mice and monitors in the
 library.
 
-The second pair of pics (tower2a and 2b) are of the other tower located
+> The second pair of pics (tower2a and 2b) are of the other tower located
 in the closet with
 the furnace, water heater and water softener. From the top down are:
 sparcstation IPX and IPC, sparcstation 1, sparcstation 2, an LX and
@@ -61,7 +61,7 @@ mouse and monitor in the next room (this is in the basement). The older
 suns (anything before the classic) can't be powered on/off via the
 keyboard. One project is to wire some remote power switches for those.
 
-Waiting in the wings, so to speak are three more IPCs, three more IPXs
+> Waiting in the wings, so to speak are three more IPCs, three more IPXs
 (one of which is new - never used), a couple classics and LXs,
 a sparcstation 2, 5, 10, 20 and
 an ultra 5. Several of them are fully operational and updated with the
@@ -71,7 +71,7 @@ ebay? :) If you were counting, you'll have noticed two empty ports on
 the Lightwaves in the second "tower." I'll put the ss1+ there and
 maybe one of the extra IPXs.
 
-All of the boxes in the towers are fully operational running OpenBSD 4.7.
+> All of the boxes in the towers are fully operational running OpenBSD 4.7.
 Dmesgs available upon request. Many of them are fully loaded with RAM.
 
 
