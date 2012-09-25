@@ -1,39 +1,19 @@
 ---
 layout: page
-slug: about
-status: publish
-title: About
-wordpress_id: '427'
+title: "about"
+date: 2012-07-24 03:16
+comments: false
+sharing: false
+footer: false
 ---
 
-My name is Paul Hubbard, I'm a computer engineer in San Diego, California. 
+![An older picture of me post-hike in Vancouver, CA](http://www.phfactor.net/pics/me.jpg "Your author")
 
-![My picture](http://www.phfactor.net/pics/me.jpg)
+Welcome to my blog. My name is Paul Hubbard, I'm a computer engineer in San Diego, CA. Fnord self-hosted on my trusty Debian box and DSL connection, because I wish to make very clear that all opinions and content here are **personal** and not related to my employer. 
 
-I'm particularly interested in Python, mobile development, Arduino hacking, and have a long history with data aquisition and control systems. 
+Whew. You knew that already, but it still needed to be said.
 
-For more information, please see [my LinkedIn profile](http://www.linkedin.com/in/paulhubbard).
+More about me - [my About.me](http://about.me/phubbard) page has lots of links. Google profile, LinkedIn, etc, no point duplicating them here.
 
-### Contact Me
-* Twitter: [phubbard](http://twitter.com/phubbard)
-* Email: pfh at phfactor.net, or phubbard at gmail.
-* Instant Messaging: phubbard on Skype, Google Talk.
-* FaceTime, iMessage: pfh at phfactor.net
-* Instapaper: phubbard
-
-### About this blog
-
-As you can see from the page footer, this site is built on [Octopress](http://octopress.org/), and all content is available under Creative Commons. 
-
-I started this in 2005 or so with WordPress and am moving to Octopress as of Feb 1 2012.
-
-### Other topics and sites
-
-I've learned the wisdom of not mixing topic sites, so when the watch-and-timekeeping content grew in volume I created a new site and domain, [WatchOtaku.com](http://watchotaku.com). It's quite different in organization, with both dictionary-type material as well as blogging. 
-
-### Disclaimer
-This weblog and site are run from my home DSL connection and [Debian](http://www.debian.org/) box. It is in no way associated with my job, employers or anyone else, and any opinions expressed here are mine and mine only.
-
-
-
+You can reach me via email at [pfh@phfactor.net](pfh@phfactor.net). 
 
