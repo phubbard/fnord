@@ -9,6 +9,7 @@ categories: Meltdown
 Got my first request for a binary today, so version 0.4.8 build 30 is [posted here](http://www.phfactor.net/Meltdown.apk). Give it a try!
 
 Working
+
 * Groups and feeds - note that feeds not in a group are collated into a hardcoded 'Orphan feeds' group
 * Updates are run as an intent service, using inexact mode to save battery life, every fifteen minutes.
 * Marking groups and items as read works, using a neat little AsyncTask
@@ -22,6 +23,7 @@ Working
 * Refresh now triggers a server sync
 
 Bugs
+
 * The background service is not yet interlocked with the activities and Application class, so there are several places where it can crash due to this. I'm refactoring now for a clean solution.
 * Working on an adaptive, multi-column layout that'll use the Nexus 7 better. Fragments, ActionBar tabs and such; in progress now. 
 * Items are duplicated; repeatable but not yet solved. Bug in the serverSync routine that resolves read versus unread.
