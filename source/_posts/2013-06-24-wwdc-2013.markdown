@@ -1,0 +1,42 @@
+---
+layout: post
+title: "WWDC 2013"
+date: 2013-06-24 11:27
+comments: true
+categories: wwdc conferences
+---
+
+![WWDC foyer](http://www.phfactor.net/fnord-images/2013/06/hall.jpg)
+
+Yep, I got to go to [WWDC](https://developer.apple.com/wwdc) 2013, Apple's sold-out-in-70-seconds developer conference. A week of amazement!
+
+It was a *great* trip, and I'm delighted to have gone. My first time, and I hope to go again, though given the glitches and superfast sellout, I'm by no means sure I'll be able to get a ticket again. This year, I tried to register but got an error on the Apple site, and was called back a day or two later; I'm not sure why I was chosen. 
+
+Apple and secrecy; they go together like Smurfs and buckshot.
+
+### My tips
+* I flew Virgin America, my favorite carrier these days, morning flight on Monday from SAN to SFO. There was fog, so I missed the first 20 minutes of the keynote. Flights both ways were packed but otherwise fine.
+* Hotel was the Pickwick, which is OK - nice and close, price reasonable and the lack of AC was no problem.
+* Be sure you have your Ethernet adapter; the xcode and beta downloads are gigabytes and Apple has a wired network that's optimal.
+* [SubEthaEdit](http://www.codingmonkeys.de/subethaedit/) is AWESOME for note-taking. Having ten people doing the work lets you keep up and still end up with a very detailed set of notes. Met some nice people this way, too.
+* I wish the session were not under NDA, as I'd love to write about them, but that's Apple's choice to make. Ahh well.
+
+[This guide](http://iphonedevelopment.blogspot.com/2013/04/wwdc-first-timers-guide-2013-edition.html) was super helpful, well worth a read.
+
+### Snaps
+
+SFO:
+![SFO on Friday](http://www.phfactor.net/fnord-images/2013/06/airport.jpg)
+
+WiFi was superbly run, fast and reliable.
+![WWDC wifi](http://www.phfactor.net/fnord-images/2013/06/wifi.jpg)
+
+I spent a few hours talking to the folks at [Xamarin](http://xamarin.com), which involved seeing some nice sights.
+
+![SF, iconic.](http://www.phfactor.net/fnord-images/2013/06/landmark.jpg)
+
+The after-hours party had good food, I left early as crowds are not my thing.
+
+![WWDC party](http://www.phfactor.net/fnord-images/2013/06/party.jpg)
+
+It was great. Go if you can. Not as intense/packed as PyCon, but a more sustainable pace. After PyCon, I was 'tech hangover' for a week; after WWDC I had no such effect. Longer sessions, longer breaks, better balance.
