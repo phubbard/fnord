@@ -25,7 +25,7 @@ Some notes and links to help others:
 * ARRL has a nice one-page color PDF of [ham radio bands](http://www.arrl.org/files/file/Hambands_color.pdf). The radio can do the 2 meter and 70cm bands.
 * I've not tried this yet, but it can recieve NOAA weather broadcasts as well. 
 * Haven't tried this either, but the Chirp radio unlocks additional functionality. Out of the box, the radio does 420-480Mhz; with Chirp it now goes to 520Mhz.
-* The radio can handle [FRS/GMRS](https://en.wikipedia.org/wiki/General_Mobile_Radio_Service) but *is not legal* on those bands. Design and power limits.
+* The radio can handle [FRS/GMRS](https://en.wikipedia.org/wiki/General_Mobile_Radio_Service) but *is not legal* on those bands. Design and power limits. Update: Stuart Bain corrects me to note that GMRS is legal once you get the additional FCC permit for it. FRS is not, as it requires non-removable antennas.
 * It gets [pretty good reviews](http://www.eham.net/reviews/detail/10349) and [the Amazon reviews](http://www.amazon.com/Two-Way-Professional-Transceiver-Frequency-Protable/product-reviews/B008IYCQSO/ref=cm_cr_dp_see_all_btm?ie=UTF8&showViewpoints=1&sortBy=bySubmissionDateDescending) are very positive.
 *  The in-box manual is just a brochure. Head to [http://radiodoc.github.com](http://radiodoc.github.com) for a vastly better one.
 * It has a basic scanner, and from an hour of listening 447.64Mhz seems to be a repeater with lots of folks talking. Coincidentally, I heard a conversation about this very radio; a negative review from a long-term ham.
